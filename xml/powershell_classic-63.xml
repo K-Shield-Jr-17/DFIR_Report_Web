@@ -1,0 +1,17 @@
+<Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='PowerShell'/><EventID Qualifiers='0'>600</EventID><Level>4</Level><Task>6</Task><Keywords>0x80000000000000</Keywords><TimeCreated SystemTime='2026-09-15T18:17:09.4478424Z'/><EventRecordID>63</EventRecordID><Channel>Windows PowerShell</Channel><Computer>DESKTOP-IS00QJN.corp.local</Computer><Security/></System><EventData><Data>Variable</Data><Data>Started</Data><Data>	ProviderName=Variable
+	NewProviderState=Started
+
+	SequenceNumber=11
+
+	HostName=ConsoleHost
+	HostVersion=5.1.15063.0
+	HostId=7391aaab-b96f-4d63-8067-69e9284df7e4
+	HostApplication=C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell.exe
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event>

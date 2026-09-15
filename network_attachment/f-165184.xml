@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="pdml2html.xsl"?>
+<!-- You can find pdml2html.xsl in /usr/share/doc/wireshark or at https://gitlab.com/wireshark/wireshark/-/tree/master/resources/share/doc/wireshark/pdml2html.xsl. -->
+<pdml version="0" creator="wireshark/4.2.2" time="Tue Sep 15 05:20:59 2026" capture_file="merged.pcapng">
+<packet>
+  <proto name="geninfo" pos="0" showname="General information" size="402">
+    <field name="num" pos="0" show="165184" showname="Number" value="28540" size="402"/>
+    <field name="len" pos="0" show="402" showname="Frame Length" value="192" size="402"/>
+    <field name="caplen" pos="0" show="402" showname="Captured Length" value="192" size="402"/>
+    <field name="timestamp" pos="0" show="Sep 15, 2026 00:54:38.779748000 UTC" showname="Captured Time" value="1789433678.779748000" size="402"/>
+  </proto>
+  <proto name="frame" showname="Frame 165184: 402 bytes on wire (3216 bits), 402 bytes captured (3216 bits) on interface \Device\NPF_{C45ADE24-699B-4B73-8C2B-991D01AB5F25}, id 2" size="402" pos="0">
+    <field name="frame.section_number" showname="Section number: 1" size="0" pos="0" show="1"/>
+    <field name="frame.interface_id" showname="Interface id: 2 (\Device\NPF_{C45ADE24-699B-4B73-8C2B-991D01AB5F25})" size="0" pos="0" show="2">
+      <field name="frame.interface_name" showname="Interface name: \Device\NPF_{C45ADE24-699B-4B73-8C2B-991D01AB5F25}" size="0" pos="0" show="\Device\NPF_{C45ADE24-699B-4B73-8C2B-991D01AB5F25}"/>
+      <field name="frame.interface_description" showname="Interface description: Ethernet1" size="0" pos="0" show="Ethernet1"/>
+    </field>
+    <field name="frame.encap_type" showname="Encapsulation type: Ethernet (1)" size="0" pos="0" show="1"/>
+    <field name="frame.time" showname="Arrival Time: Sep 15, 2026 00:54:38.779748000 UTC" size="0" pos="0" show="Sep 15, 2026 00:54:38.779748000 UTC"/>
+    <field name="frame.time_utc" showname="UTC Arrival Time: Sep 15, 2026 00:54:38.779748000 UTC" size="0" pos="0" show="Sep 15, 2026 00:54:38.779748000 UTC"/>
+    <field name="frame.time_epoch" showname="Epoch Arrival Time: 1789433678.779748000" size="0" pos="0" show="1789433678.779748000"/>
+    <field name="frame.offset_shift" showname="Time shift for this packet: 0.000000000 seconds" size="0" pos="0" show="0.000000000"/>
+    <field name="frame.time_delta" showname="Time delta from previous captured frame: 0.000500000 seconds" size="0" pos="0" show="0.000500000"/>
+    <field name="frame.time_delta_displayed" showname="Time delta from previous displayed frame: 0.000000000 seconds" size="0" pos="0" show="0.000000000"/>
+    <field name="frame.time_relative" showname="Time since reference or first frame: 1473.085277000 seconds" size="0" pos="0" show="1473.085277000"/>
+    <field name="frame.number" showname="Frame Number: 165184" size="0" pos="0" show="165184"/>
+    <field name="frame.len" showname="Frame Length: 402 bytes (3216 bits)" size="0" pos="0" show="402"/>
+    <field name="frame.cap_len" showname="Capture Length: 402 bytes (3216 bits)" size="0" pos="0" show="402"/>
+    <field name="frame.marked" showname="Frame is marked: False" size="0" pos="0" show="False"/>
+    <field name="frame.ignored" showname="Frame is ignored: False" size="0" pos="0" show="False"/>
+    <field name="frame.protocols" showname="Protocols in frame: eth:ethertype:ip:tcp:nbss:smb2" size="0" pos="0" show="eth:ethertype:ip:tcp:nbss:smb2"/>
+  </proto>
+  <proto name="eth" showname="Ethernet II, Src: VMware_74:32:1c (00:0c:29:74:32:1c), Dst: VMware_02:c8:1f (00:0c:29:02:c8:1f)" size="14" pos="0">
+    <field name="eth.dst" showname="Destination: VMware_02:c8:1f (00:0c:29:02:c8:1f)" size="6" pos="0" show="00:0c:29:02:c8:1f" value="000c2902c81f">
+      <field name="eth.dst_resolved" showname="Destination (resolved): VMware_02:c8:1f" hide="yes" size="6" pos="0" show="VMware_02:c8:1f" value="000c2902c81f"/>
+      <field name="eth.dst.oui" showname="Destination OUI: 00:0c:29 (VMware, Inc.)" hide="yes" size="3" pos="0" show="3113" value="000c29"/>
+      <field name="eth.dst.oui_resolved" showname="Destination OUI (resolved): VMware, Inc." hide="yes" size="6" pos="0" show="VMware, Inc." value="000c2902c81f"/>
+      <field name="eth.addr" showname="Address: VMware_02:c8:1f (00:0c:29:02:c8:1f)" size="6" pos="0" show="00:0c:29:02:c8:1f" value="000c2902c81f"/>
+      <field name="eth.addr_resolved" showname="Address (resolved): VMware_02:c8:1f" hide="yes" size="6" pos="0" show="VMware_02:c8:1f" value="000c2902c81f"/>
+      <field name="eth.addr.oui" showname="Address OUI: 00:0c:29 (VMware, Inc.)" hide="yes" size="3" pos="0" show="3113" value="000c29"/>
+      <field name="eth.addr.oui_resolved" showname="Address OUI (resolved): VMware, Inc." hide="yes" size="6" pos="0" show="VMware, Inc." value="000c2902c81f"/>
+      <field name="eth.dst.lg" showname=".... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)" size="3" pos="0" show="False" value="0" unmaskedvalue="000c29"/>
+      <field name="eth.lg" showname=".... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)" hide="yes" size="3" pos="0" show="False" value="0" unmaskedvalue="000c29"/>
+      <field name="eth.dst.ig" showname=".... ...0 .... .... .... .... = IG bit: Individual address (unicast)" size="3" pos="0" show="False" value="0" unmaskedvalue="000c29"/>
+      <field name="eth.ig" showname=".... ...0 .... .... .... .... = IG bit: Individual address (unicast)" hide="yes" size="3" pos="0" show="False" value="0" unmaskedvalue="000c29"/>
+    </field>
+    <field name="eth.src" showname="Source: VMware_74:32:1c (00:0c:29:74:32:1c)" size="6" pos="6" show="00:0c:29:74:32:1c" value="000c2974321c">
+      <field name="eth.src_resolved" showname="Source (resolved): VMware_74:32:1c" hide="yes" size="6" pos="6" show="VMware_74:32:1c" value="000c2974321c"/>
+      <field name="eth.src.oui" showname="Source OUI: 00:0c:29 (VMware, Inc.)" hide="yes" size="3" pos="6" show="3113" value="000c29"/>
+      <field name="eth.src.oui_resolved" showname="Source OUI (resolved): VMware, Inc." hide="yes" size="6" pos="6" show="VMware, Inc." value="000c2974321c"/>
+      <field name="eth.addr" showname="Address: VMware_74:32:1c (00:0c:29:74:32:1c)" size="6" pos="6" show="00:0c:29:74:32:1c" value="000c2974321c"/>
+      <field name="eth.addr_resolved" showname="Address (resolved): VMware_74:32:1c" hide="yes" size="6" pos="6" show="VMware_74:32:1c" value="000c2974321c"/>
+      <field name="eth.addr.oui" showname="Address OUI: 00:0c:29 (VMware, Inc.)" hide="yes" size="3" pos="6" show="3113" value="000c29"/>
+      <field name="eth.addr.oui_resolved" showname="Address OUI (resolved): VMware, Inc." hide="yes" size="6" pos="6" show="VMware, Inc." value="000c2974321c"/>
+      <field name="eth.src.lg" showname=".... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)" size="3" pos="6" show="False" value="0" unmaskedvalue="000c29"/>
+      <field name="eth.lg" showname=".... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)" hide="yes" size="3" pos="6" show="False" value="0" unmaskedvalue="000c29"/>
+      <field name="eth.src.ig" showname=".... ...0 .... .... .... .... = IG bit: Individual address (unicast)" size="3" pos="6" show="False" value="0" unmaskedvalue="000c29"/>
+      <field name="eth.ig" showname=".... ...0 .... .... .... .... = IG bit: Individual address (unicast)" hide="yes" size="3" pos="6" show="False" value="0" unmaskedvalue="000c29"/>
+    </field>
+    <field name="eth.type" showname="Type: IPv4 (0x0800)" size="2" pos="12" show="0x0800" value="0800"/>
+  </proto>
+  <proto name="ip" showname="Internet Protocol Version 4, Src: 192.168.60.20, Dst: 192.168.60.101" size="20" pos="14">
+    <field name="ip.version" showname="0100 .... = Version: 4" size="1" pos="14" show="4" value="45"/>
+    <field name="ip.hdr_len" showname=".... 0101 = Header Length: 20 bytes (5)" size="1" pos="14" show="20" value="45"/>
+    <field name="ip.dsfield" showname="Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)" size="1" pos="15" show="0x00" value="00">
+      <field name="ip.dsfield.dscp" showname="0000 00.. = Differentiated Services Codepoint: Default (0)" size="1" pos="15" show="0" value="0" unmaskedvalue="00"/>
+      <field name="ip.dsfield.ecn" showname=".... ..00 = Explicit Congestion Notification: Not ECN-Capable Transport (0)" size="1" pos="15" show="0" value="0" unmaskedvalue="00"/>
+    </field>
+    <field name="ip.len" showname="Total Length: 388" size="2" pos="16" show="388" value="0184"/>
+    <field name="ip.id" showname="Identification: 0x84b2 (33970)" size="2" pos="18" show="0x84b2" value="84b2"/>
+    <field name="ip.flags" showname="010. .... = Flags: 0x2, Don&#x27;t fragment" size="1" pos="20" show="0x02" value="2" unmaskedvalue="40">
+      <field name="ip.flags.rb" showname="0... .... = Reserved bit: Not set" size="1" pos="20" show="False" value="0" unmaskedvalue="40"/>
+      <field name="ip.flags.df" showname=".1.. .... = Don&#x27;t fragment: Set" size="1" pos="20" show="True" value="1" unmaskedvalue="40"/>
+      <field name="ip.flags.mf" showname="..0. .... = More fragments: Not set" size="1" pos="20" show="False" value="0" unmaskedvalue="40"/>
+    </field>
+    <field name="ip.frag_offset" showname="...0 0000 0000 0000 = Fragment Offset: 0" size="2" pos="20" show="0" value="0" unmaskedvalue="4000"/>
+    <field name="ip.ttl" showname="Time to Live: 128" size="1" pos="22" show="128" value="80"/>
+    <field name="ip.proto" showname="Protocol: TCP (6)" size="1" pos="23" show="6" value="06"/>
+    <field name="ip.checksum" showname="Header Checksum: 0x7af7 [validation disabled]" size="2" pos="24" show="0x7af7" value="7af7"/>
+    <field name="ip.checksum.status" showname="Header checksum status: Unverified" size="0" pos="24" show="2"/>
+    <field name="ip.src" showname="Source Address: 192.168.60.20" size="4" pos="26" show="192.168.60.20" value="c0a83c14"/>
+    <field name="ip.addr" showname="Source or Destination Address: 192.168.60.20" hide="yes" size="4" pos="26" show="192.168.60.20" value="c0a83c14"/>
+    <field name="ip.src_host" showname="Source Host: 192.168.60.20" hide="yes" size="4" pos="26" show="192.168.60.20" value="c0a83c14"/>
+    <field name="ip.host" showname="Source or Destination Host: 192.168.60.20" hide="yes" size="4" pos="26" show="192.168.60.20" value="c0a83c14"/>
+    <field name="ip.dst" showname="Destination Address: 192.168.60.101" size="4" pos="30" show="192.168.60.101" value="c0a83c65"/>
+    <field name="ip.addr" showname="Source or Destination Address: 192.168.60.101" hide="yes" size="4" pos="30" show="192.168.60.101" value="c0a83c65"/>
+    <field name="ip.dst_host" showname="Destination Host: 192.168.60.101" hide="yes" size="4" pos="30" show="192.168.60.101" value="c0a83c65"/>
+    <field name="ip.host" showname="Source or Destination Host: 192.168.60.101" hide="yes" size="4" pos="30" show="192.168.60.101" value="c0a83c65"/>
+  </proto>
+  <proto name="tcp" showname="Transmission Control Protocol, Src Port: 49841, Dst Port: 445, Seq: 387517, Ack: 4744, Len: 348" size="20" pos="34">
+    <field name="tcp.srcport" showname="Source Port: 49841" size="2" pos="34" show="49841" value="c2b1"/>
+    <field name="tcp.dstport" showname="Destination Port: 445" size="2" pos="36" show="445" value="01bd"/>
+    <field name="tcp.port" showname="Source or Destination Port: 49841" hide="yes" size="2" pos="34" show="49841" value="c2b1"/>
+    <field name="tcp.port" showname="Source or Destination Port: 445" hide="yes" size="2" pos="36" show="445" value="01bd"/>
+    <field name="tcp.stream" showname="Stream index: 2373" size="0" pos="34" show="2373"/>
+    <field name="tcp.completeness" showname="Conversation completeness: Incomplete, DATA (15)" size="0" pos="34" show="15">
+      <field name="tcp.completeness.rst" showname="..0. .... = RST: Absent" size="0" pos="0" show="False"/>
+      <field name="tcp.completeness.fin" showname="...0 .... = FIN: Absent" size="0" pos="0" show="False"/>
+      <field name="tcp.completeness.data" showname=".... 1... = Data: Present" size="0" pos="0" show="True"/>
+      <field name="tcp.completeness.ack" showname=".... .1.. = ACK: Present" size="0" pos="0" show="True"/>
+      <field name="tcp.completeness.syn-ack" showname=".... ..1. = SYN-ACK: Present" size="0" pos="0" show="True"/>
+      <field name="tcp.completeness.syn" showname=".... ...1 = SYN: Present" size="0" pos="0" show="True"/>
+      <field name="tcp.completeness.str" showname="Completeness Flags: ··DASS" size="0" pos="34" show="··DASS"/>
+    </field>
+    <field name="tcp.len" showname="TCP Segment Len: 348" size="0" pos="34" show="348"/>
+    <field name="tcp.seq" showname="Sequence Number: 387517    (relative sequence number)" size="4" pos="38" show="387517" value="5326f620"/>
+    <field name="tcp.seq_raw" showname="Sequence Number (raw): 1395062304" size="4" pos="38" show="1395062304" value="5326f620"/>
+    <field name="tcp.nxtseq" showname="Next Sequence Number: 387865    (relative sequence number)" size="0" pos="34" show="387865"/>
+    <field name="tcp.ack" showname="Acknowledgment Number: 4744    (relative ack number)" size="4" pos="42" show="4744" value="bf5c77bb"/>
+    <field name="tcp.ack_raw" showname="Acknowledgment number (raw): 3210508219" size="4" pos="42" show="3210508219" value="bf5c77bb"/>
+    <field name="tcp.hdr_len" showname="0101 .... = Header Length: 20 bytes (5)" size="1" pos="46" show="20" value="50"/>
+    <field name="tcp.flags" showname="Flags: 0x018 (PSH, ACK)" size="2" pos="46" show="0x0018" value="18" unmaskedvalue="5018">
+      <field name="tcp.flags.res" showname="000. .... .... = Reserved: Not set" size="1" pos="46" show="False" value="0" unmaskedvalue="50"/>
+      <field name="tcp.flags.ae" showname="...0 .... .... = Accurate ECN: Not set" size="1" pos="46" show="False" value="0" unmaskedvalue="50"/>
+      <field name="tcp.flags.cwr" showname=".... 0... .... = Congestion Window Reduced: Not set" size="1" pos="47" show="False" value="0" unmaskedvalue="18"/>
+      <field name="tcp.flags.ece" showname=".... .0.. .... = ECN-Echo: Not set" size="1" pos="47" show="False" value="0" unmaskedvalue="18"/>
+      <field name="tcp.flags.urg" showname=".... ..0. .... = Urgent: Not set" size="1" pos="47" show="False" value="0" unmaskedvalue="18"/>
+      <field name="tcp.flags.ack" showname=".... ...1 .... = Acknowledgment: Set" size="1" pos="47" show="True" value="1" unmaskedvalue="18"/>
+      <field name="tcp.flags.push" showname=".... .... 1... = Push: Set" size="1" pos="47" show="True" value="1" unmaskedvalue="18"/>
+      <field name="tcp.flags.reset" showname=".... .... .0.. = Reset: Not set" size="1" pos="47" show="False" value="0" unmaskedvalue="18"/>
+      <field name="tcp.flags.syn" showname=".... .... ..0. = Syn: Not set" size="1" pos="47" show="False" value="0" unmaskedvalue="18"/>
+      <field name="tcp.flags.fin" showname=".... .... ...0 = Fin: Not set" size="1" pos="47" show="False" value="0" unmaskedvalue="18"/>
+      <field name="tcp.flags.str" showname="TCP Flags: ·······AP···" size="2" pos="46" show="·······AP···" value="5018"/>
+    </field>
+    <field name="tcp.window_size_value" showname="Window: 1026" size="2" pos="48" show="1026" value="0402"/>
+    <field name="tcp.window_size" showname="Calculated window size: 262656" size="2" pos="48" show="262656" value="0402"/>
+    <field name="tcp.window_size_scalefactor" showname="Window size scaling factor: 256" size="2" pos="48" show="256" value="0402"/>
+    <field name="tcp.checksum" showname="Checksum: 0x1243 [unverified]" size="2" pos="50" show="0x1243" value="1243"/>
+    <field name="tcp.checksum.status" showname="Checksum Status: Unverified" size="0" pos="50" show="2"/>
+    <field name="tcp.urgent_pointer" showname="Urgent Pointer: 0" size="2" pos="52" show="0" value="0000"/>
+    <field name="" show="Timestamps" size="0" pos="34">
+      <field name="tcp.time_relative" showname="Time since first frame in this TCP stream: 0.113793000 seconds" size="0" pos="34" show="0.113793000"/>
+      <field name="tcp.time_delta" showname="Time since previous frame in this TCP stream: 0.000500000 seconds" size="0" pos="34" show="0.000500000"/>
+    </field>
+    <field name="tcp.analysis" showname="SEQ/ACK analysis" size="0" pos="34" show="" value="">
+      <field name="tcp.analysis.acks_frame" showname="This is an ACK to the segment in frame: 165183" size="0" pos="34" show="165183"/>
+      <field name="tcp.analysis.ack_rtt" showname="The RTT to ACK the segment was: 0.000500000 seconds" size="0" pos="34" show="0.000500000"/>
+      <field name="tcp.analysis.initial_rtt" showname="iRTT: 0.000425000 seconds" size="0" pos="34" show="0.000425000"/>
+      <field name="tcp.analysis.bytes_in_flight" showname="Bytes in flight: 348" size="0" pos="34" show="348"/>
+      <field name="tcp.analysis.push_bytes_sent" showname="Bytes sent since last PSH flag: 348" size="0" pos="34" show="348"/>
+    </field>
+    <field name="tcp.payload" showname="TCP payload (348 bytes)" size="348" pos="54" show="00:00:01:58:fe:53:4d:42:40:00:01:00:00:00:00:00:05:00:00:00:10:00:00:00:d0:00:00:00:18:00:00:00:00:00:00:00:ff:fe:00:00:05:00:00:00:01:00:00:00:00:3c:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:39:00:00:00:02:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:80:01:10:00:00:00:00:00:07:00:00:00:01:00:00:00:20:00:20:00:78:00:26:00:a0:00:00:00:30:00:00:00:46:00:69:00:6c:00:65:00:53:00:65:00:72:00:76:00:65:00:72:00:5f:00:44:00:61:00:74:00:61:00:2e:00:7a:00:69:00:70:00:00:00:18:00:00:00:10:00:04:00:00:00:18:00:00:00:00:00:4d:78:41:63:00:00:00:00:00:00:00:00:10:00:04:00:00:00:18:00:00:00:00:00:51:46:69:64:00:00:00:00:fe:53:4d:42:40:00:01:00:00:00:00:00:11:00:02:00:34:00:00:00:00:00:00:00:19:00:00:00:00:00:00:00:ff:fe:00:00:05:00:00:00:01:00:00:00:00:3c:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:21:00:01:04:28:00:00:00:60:00:00:00:00:00:00:00:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:ff:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:a0:00:00:00:00:00:00:00" value="00000158fe534d4240000100000000000500000010000000d00000001800000000000000fffe00000500000001000000003c000000000000000000000000000000000000390000000200000000000000000000000000000000000000800110000000000007000000010000002000200078002600a000000030000000460069006c0065005300650072007600650072005f0044006100740061002e007a00690070000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000fe534d4240000100000000001100020034000000000000001900000000000000fffe00000500000001000000003c00000000000000000000000000000000000021000104280000006000000000000000ffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000a000000000000000"/>
+  </proto>
+  <proto name="nbss" showname="NetBIOS Session Service" size="348" pos="54">
+    <field name="nbss.type" showname="Message Type: Session message (0x00)" size="1" pos="54" show="0x00" value="00"/>
+    <field name="nbss.length" showname="Length: 344" size="3" pos="55" show="344" value="000158"/>
+  </proto>
+  <proto name="smb2" showname="SMB2 (Server Message Block Protocol version 2)" size="208" pos="58">
+    <field name="" show="SMB2 Header" size="64" pos="58" value="fe534d4240000100000000000500000010000000d00000001800000000000000fffe00000500000001000000003c000000000000000000000000000000000000">
+      <field name="smb2.protocol_id" showname="ProtocolId: 0xfe534d42" size="4" pos="58" show="0xfe534d42" value="fe534d42"/>
+      <field name="smb2.header_len" showname="Header Length: 64" size="2" pos="62" show="64" value="4000"/>
+      <field name="smb2.credit.charge" showname="Credit Charge: 1" size="2" pos="64" show="1" value="0100"/>
+      <field name="smb2.channel_sequence" showname="Channel Sequence: 0" size="2" pos="66" show="0" value="0000"/>
+      <field name="smb2.reserved" showname="Reserved: 0000" size="2" pos="68" show="00:00" value="0000"/>
+      <field name="smb2.cmd" showname="Command: Create (5)" size="2" pos="70" show="5" value="0500"/>
+      <field name="smb2.credits.requested" showname="Credits requested: 0" size="2" pos="72" show="0" value="0000"/>
+      <field name="smb2.flags" showname="Flags: 0x00000010, Priority" size="4" pos="74" show="0x00000010" value="10000000">
+        <field name="smb2.flags.response" showname=".... .... .... .... .... .... .... ...0 = Response: This is a REQUEST" size="4" pos="74" show="False" value="0" unmaskedvalue="10000000"/>
+        <field name="smb2.flags.async" showname=".... .... .... .... .... .... .... ..0. = Async command: This is a SYNC command" size="4" pos="74" show="False" value="0" unmaskedvalue="10000000"/>
+        <field name="smb2.flags.chained" showname=".... .... .... .... .... .... .... .0.. = Chained: This pdu is NOT a chained command" size="4" pos="74" show="False" value="0" unmaskedvalue="10000000"/>
+        <field name="smb2.flags.signature" showname=".... .... .... .... .... .... .... 0... = Signing: This pdu is NOT signed" size="4" pos="74" show="False" value="0" unmaskedvalue="10000000"/>
+        <field name="smb2.flags.priority_mask" showname=".... .... .... .... .... .... .001 .... = Priority: This pdu contains a PRIORITY" size="4" pos="74" show="True" value="1" unmaskedvalue="10000000"/>
+        <field name="smb2.flags.dfs" showname="...0 .... .... .... .... .... .... .... = DFS operation: This is a normal operation" size="4" pos="74" show="False" value="0" unmaskedvalue="10000000"/>
+        <field name="smb2.flags.replay" showname="..0. .... .... .... .... .... .... .... = Replay operation: This is NOT a replay operation" size="4" pos="74" show="False" value="0" unmaskedvalue="10000000"/>
+      </field>
+      <field name="smb2.chain_offset" showname="Chain Offset: 0x000000d0" size="4" pos="78" show="0x000000d0" value="d0000000"/>
+      <field name="smb2.msg_id" showname="Message ID: 24" size="8" pos="82" show="24" value="1800000000000000"/>
+      <field name="smb2.pid" showname="Process Id: 0x0000feff" size="4" pos="90" show="0x0000feff" value="fffe0000"/>
+      <field name="smb2.tid" showname="Tree Id: 0x00000005  \\192.168.60.101\TempShare" size="4" pos="94" show="0x00000005" value="05000000">
+        <field name="smb2.tree" showname="Tree: \\192.168.60.101\TempShare" size="4" pos="94" show="\\192.168.60.101\TempShare" value="05000000"/>
+        <field name="smb2.share_type" showname="Share Type: Physical disk (0x01)" size="0" pos="94" show="0x01"/>
+        <field name="smb2.tcon_frame" showname="Connected in Frame: 164870" size="0" pos="94" show="164870"/>
+      </field>
+      <field name="smb2.sesid" showname="Session Id: 0x00003c0000000001 Acct:FILE-SRV$ Domain:CORP Host:FILE-SRV" size="8" pos="98" show="0x00003c0000000001" value="01000000003c0000">
+        <field name="smb2.acct" showname="Account: FILE-SRV$" size="0" pos="98" show="FILE-SRV$"/>
+        <field name="smb2.domain" showname="Domain: CORP" size="0" pos="98" show="CORP"/>
+        <field name="smb2.host" showname="Host: FILE-SRV" size="0" pos="98" show="FILE-SRV"/>
+        <field name="smb2.auth_frame" showname="Authenticated in Frame: 165176" size="0" pos="98" show="165176"/>
+      </field>
+      <field name="smb2.signature" showname="Signature: 00000000000000000000000000000000" size="16" pos="106" show="00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00" value="00000000000000000000000000000000"/>
+    </field>
+    <field name="" show="Create Request (0x05)" size="144" pos="122" value="390000000200000000000000000000000000000000000000800110000000000007000000010000002000200078002600a000000030000000460069006c0065005300650072007600650072005f0044006100740061002e007a00690070000000180000001000040000001800000000004d78416300000000000000001000040000001800000000005146696400000000">
+      <field name="smb2.buffer_code" showname="StructureSize: 0x0039" size="2" pos="122" show="0x0039" value="3900">
+        <field name="smb2.buffer_code.length" showname="0000 0000 0011 100. = Fixed Part Length: 28" size="2" pos="122" show="28" value="1C" unmaskedvalue="3900"/>
+        <field name="smb2.buffer_code.dynamic" showname=".... .... .... ...1 = Dynamic Part: True" size="2" pos="122" show="True" value="1" unmaskedvalue="3900"/>
+      </field>
+      <field name="smb2.create.oplock" showname="Oplock: No oplock (0x00)" size="1" pos="125" show="0x00" value="00"/>
+      <field name="smb2.impersonation.level" showname="Impersonation level: Impersonation (2)" size="4" pos="126" show="2" value="02000000"/>
+      <field name="smb2.create_flags" showname="Create Flags: 0x0000000000000000" size="8" pos="130" show="0x0000000000000000" value="0000000000000000"/>
+      <field name="smb2.reserved" showname="Reserved: 0000000000000000" size="8" pos="138" show="00:00:00:00:00:00:00:00" value="0000000000000000"/>
+      <field name="smb.access_mask" showname="Access Mask: 0x00100180" size="4" pos="146" show="0x00100180" value="80011000">
+        <field name="smb.access.read" showname=".... .... .... .... .... .... .... ...0 = Read: NO read access" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.write" showname=".... .... .... .... .... .... .... ..0. = Write: NO write access" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.append" showname=".... .... .... .... .... .... .... .0.. = Append: NO append access" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.read_ea" showname=".... .... .... .... .... .... .... 0... = Read EA: NO read extended attributes access" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.write_ea" showname=".... .... .... .... .... .... ...0 .... = Write EA: NO write extended attributes access" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.execute" showname=".... .... .... .... .... .... ..0. .... = Execute: NO execute access" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.delete_child" showname=".... .... .... .... .... .... .0.. .... = Delete Child: NO delete child access" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.read_attributes" showname=".... .... .... .... .... .... 1... .... = Read Attributes: READ ATTRIBUTES access" size="4" pos="146" show="True" value="1" unmaskedvalue="80011000"/>
+        <field name="smb.access.write_attributes" showname=".... .... .... .... .... ...1 .... .... = Write Attributes: WRITE ATTRIBUTES access" size="4" pos="146" show="True" value="1" unmaskedvalue="80011000"/>
+        <field name="smb.access.delete" showname=".... .... .... ...0 .... .... .... .... = Delete: NO delete access" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.read_control" showname=".... .... .... ..0. .... .... .... .... = Read Control: Read access is NOT granted to owner, group and ACL of the SID" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.write_dac" showname=".... .... .... .0.. .... .... .... .... = Write DAC: Owner may NOT write to the DAC" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.write_owner" showname=".... .... .... 0... .... .... .... .... = Write Owner: Can NOT write owner (take ownership)" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.synchronize" showname=".... .... ...1 .... .... .... .... .... = Synchronize: Can wait on handle to SYNCHRONIZE on completion of I/O" size="4" pos="146" show="True" value="1" unmaskedvalue="80011000"/>
+        <field name="smb.access.system_security" showname=".... ...0 .... .... .... .... .... .... = System Security: System security is NOT set" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.maximum_allowed" showname=".... ..0. .... .... .... .... .... .... = Maximum Allowed: Maximum allowed is NOT set" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.generic_all" showname="...0 .... .... .... .... .... .... .... = Generic All: Generic all is NOT set" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.generic_execute" showname="..0. .... .... .... .... .... .... .... = Generic Execute: Generic execute is NOT set" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.generic_write" showname=".0.. .... .... .... .... .... .... .... = Generic Write: Generic write is NOT set" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+        <field name="smb.access.generic_read" showname="0... .... .... .... .... .... .... .... = Generic Read: Generic read is NOT set" size="4" pos="146" show="False" value="0" unmaskedvalue="80011000"/>
+      </field>
+      <field name="smb2.file_attribute" showname="File Attributes: 0x00000000" size="4" pos="150" show="0x00000000" value="00000000">
+        <field name="smb2.file_attribute.read_only" showname=".... .... .... .... .... .... .... ...0 = Read Only: No" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.hidden" showname=".... .... .... .... .... .... .... ..0. = Hidden: No" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.system" showname=".... .... .... .... .... .... .... .0.. = System: No" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.directory" showname=".... .... .... .... .... .... ...0 .... = Directory: No" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.archive" showname=".... .... .... .... .... .... ..0. .... = Requires archived: No" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.normal" showname=".... .... .... .... .... .... 0... .... = Normal: No" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.temporary" showname=".... .... .... .... .... ...0 .... .... = Temporary: No" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.sparse" showname=".... .... .... .... .... ..0. .... .... = Sparse: No" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.reparse" showname=".... .... .... .... .... .0.. .... .... = Reparse Point: Does NOT have an associated reparse point" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.compressed" showname=".... .... .... .... .... 0... .... .... = Compressed: Uncompressed" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.offline" showname=".... .... .... .... ...0 .... .... .... = Offline: Online" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.not_content_indexed" showname=".... .... .... .... ..0. .... .... .... = Not Content Indexed: Is indexed by the content indexing service" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.encrypted" showname=".... .... .... .... .0.. .... .... .... = Encrypted: No" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.integrity_stream" showname=".... .... .... .... 0... .... .... .... = Integrity Stream: Does NOT have Integrity Support" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+        <field name="smb2.file_attribute.no_scrub_data" showname=".... .... .... ..0. .... .... .... .... = No Scrub Data: Is not excluded from the data integrity scan" size="4" pos="150" show="False" value="0" unmaskedvalue="00000000"/>
+      </field>
+      <field name="smb.share_access" showname="Share Access: 0x00000007, Read, Write, Delete" size="4" pos="154" show="0x00000007" value="07000000">
+        <field name="smb.share.access.read" showname=".... .... .... .... .... .... .... ...1 = Read: Object can be shared for READ" size="4" pos="154" show="True" value="1" unmaskedvalue="07000000"/>
+        <field name="smb.share.access.write" showname=".... .... .... .... .... .... .... ..1. = Write: Object can be shared for WRITE" size="4" pos="154" show="True" value="1" unmaskedvalue="07000000"/>
+        <field name="smb.share.access.delete" showname=".... .... .... .... .... .... .... .1.. = Delete: Object can be shared for DELETE" size="4" pos="154" show="True" value="1" unmaskedvalue="07000000"/>
+      </field>
+      <field name="smb2.create.disposition" showname="Disposition: Open (if file exists open it, else fail) (1)" size="4" pos="158" show="1" value="01000000"/>
+      <field name="smb.create_options" showname="Create Options: 0x00200020" size="4" pos="162" show="0x00200020" value="20002000">
+        <field name="smb.nt.create_options.directory" showname=".... .... .... .... .... .... .... ...0 = Directory: File being created/opened must not be a directory" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.write_through" showname=".... .... .... .... .... .... .... ..0. = Write Through: Writes need not flush buffered data before completing" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.sequential_only" showname=".... .... .... .... .... .... .... .0.. = Sequential Only: The file might not only be accessed sequentially" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.intermediate_buffering" showname=".... .... .... .... .... .... .... 0... = Intermediate Buffering: Intermediate buffering is allowed" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.sync_io_alert" showname=".... .... .... .... .... .... ...0 .... = Sync I/O Alert: Operations NOT necessarily synchronous" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.sync_io_nonalert" showname=".... .... .... .... .... .... ..1. .... = Sync I/O Nonalert: All operations SYNCHRONOUS, waits not subject to alert" size="4" pos="162" show="True" value="1" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.non_directory" showname=".... .... .... .... .... .... .0.. .... = Non-Directory: File being created/opened must be a directory" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.create_tree_connection" showname=".... .... .... .... .... .... 0... .... = Create Tree Connection: Create Tree Connections is NOT set" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.complete_if_oplocked" showname=".... .... .... .... .... ...0 .... .... = Complete If Oplocked: Complete if oplocked is NOT set" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.no_ea_knowledge" showname=".... .... .... .... .... ..0. .... .... = No EA Knowledge: The client understands extended attributes" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.eight_dot_three_only" showname=".... .... .... .... .... .0.. .... .... = 8.3 Only: The client understands long file names" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.random_access" showname=".... .... .... .... .... 0... .... .... = Random Access: The file will not be accessed randomly" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.delete_on_close" showname=".... .... .... .... ...0 .... .... .... = Delete On Close: The file should not be deleted when it is closed" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.open_by_fileid" showname=".... .... .... .... ..0. .... .... .... = Open By FileID: OpenByFileID is NOT set" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.backup_intent" showname=".... .... .... .... .0.. .... .... .... = Backup Intent: This is a normal create" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.no_compression" showname=".... .... .... .... 0... .... .... .... = No Compression: Compression is allowed for Open/Create" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.reserve_opfilter" showname=".... .... ...0 .... .... .... .... .... = Reserve Opfilter: Reserve Opfilter is NOT set" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.open_reparse_point" showname=".... .... ..1. .... .... .... .... .... = Open Reparse Point: Open a Reparse Point" size="4" pos="162" show="True" value="1" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.open_no_recall" showname=".... .... .0.. .... .... .... .... .... = Open No Recall: Open no recall is NOT set" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+        <field name="smb.nt.create_options.open_for_free_space_query" showname=".... .... 0... .... .... .... .... .... = Open For Free Space query: This is NOT an open for free space query" size="4" pos="162" show="False" value="0" unmaskedvalue="20002000"/>
+      </field>
+      <field name="smb2.filename" showname="Filename: FileServer_Data.zip" size="38" pos="178" show="FileServer_Data.zip" value="460069006c0065005300650072007600650072005f0044006100740061002e007a0069007000">
+        <field name="smb2.olb.offset" showname="Blob Offset: 0x00000078" size="2" pos="344" show="0x00000078" value="7800"/>
+        <field name="smb2.olb.length" showname="Blob Length: 38" size="2" pos="346" show="38" value="2600"/>
+      </field>
+      <field name="smb2.olb.offset" showname="Blob Offset: 0x000000a0" size="4" pos="170" show="0x000000a0" value="a0000000"/>
+      <field name="smb2.olb.length" showname="Blob Length: 48" size="4" pos="174" show="48" value="30000000"/>
+      <field name="smb2.create.extrainfo" showname="ExtraInfo SMB2_CREATE_QUERY_MAXIMAL_ACCESS_REQUEST SMB2_CREATE_QUERY_ON_DISK_ID" size="48" pos="218" show="" value="">
+        <field name="" show="Chain Element: SMB2_CREATE_QUERY_MAXIMAL_ACCESS_REQUEST &quot;MxAc&quot;" size="24" pos="218" value="180000001000040000001800000000004d78416300000000">
+          <field name="smb2.create.chain_offset" showname="Chain Offset: 0x00000018" size="4" pos="218" show="0x00000018" value="18000000"/>
+          <field name="smb2.tag" showname="Tag: MxAc" size="4" pos="234" show="MxAc" value="4d784163">
+            <field name="smb2.olb.offset" showname="Blob Offset: 0x00000010" size="2" pos="456" show="0x00000010" value="1000"/>
+            <field name="smb2.olb.length" showname="Blob Length: 4" size="4" pos="458" show="4" value="04000000"/>
+          </field>
+          <field name="smb2.olb.offset" showname="Blob Offset: 0x00000018" size="2" pos="228" show="0x00000018" value="1800"/>
+          <field name="smb2.olb.length" showname="Blob Length: 0" size="4" pos="230" show="0" value="00000000"/>
+          <field name="smb2.create.chain_data" showname="Data: NO DATA" size="0" pos="242" show="" value=""/>
+        </field>
+        <field name="" show="Chain Element: SMB2_CREATE_QUERY_ON_DISK_ID &quot;QFid&quot;" size="24" pos="242" value="000000001000040000001800000000005146696400000000">
+          <field name="smb2.create.chain_offset" showname="Chain Offset: 0x00000000" size="4" pos="242" show="0x00000000" value="00000000"/>
+          <field name="smb2.tag" showname="Tag: QFid" size="4" pos="258" show="QFid" value="51466964">
+            <field name="smb2.olb.offset" showname="Blob Offset: 0x00000010" size="2" pos="504" show="0x00000010" value="1000"/>
+            <field name="smb2.olb.length" showname="Blob Length: 4" size="4" pos="506" show="4" value="04000000"/>
+          </field>
+          <field name="smb2.olb.offset" showname="Blob Offset: 0x00000018" size="2" pos="252" show="0x00000018" value="1800"/>
+          <field name="smb2.olb.length" showname="Blob Length: 0" size="4" pos="254" show="0" value="00000000"/>
+          <field name="smb2.create.chain_data" showname="Data: NO DATA" size="0" pos="266" show="" value=""/>
+        </field>
+      </field>
+    </field>
+  </proto>
+  <proto name="smb2" showname="SMB2 (Server Message Block Protocol version 2)" size="136" pos="266">
+    <field name="" show="SMB2 Header" size="64" pos="266" value="fe534d4240000100000000001100020034000000000000001900000000000000fffe00000500000001000000003c000000000000000000000000000000000000">
+      <field name="smb2.protocol_id" showname="ProtocolId: 0xfe534d42" size="4" pos="266" show="0xfe534d42" value="fe534d42"/>
+      <field name="smb2.header_len" showname="Header Length: 64" size="2" pos="270" show="64" value="4000"/>
+      <field name="smb2.credit.charge" showname="Credit Charge: 1" size="2" pos="272" show="1" value="0100"/>
+      <field name="smb2.channel_sequence" showname="Channel Sequence: 0" size="2" pos="274" show="0" value="0000"/>
+      <field name="smb2.reserved" showname="Reserved: 0000" size="2" pos="276" show="00:00" value="0000"/>
+      <field name="smb2.cmd" showname="Command: SetInfo (17)" size="2" pos="278" show="17" value="1100"/>
+      <field name="smb2.credits.requested" showname="Credits requested: 2" size="2" pos="280" show="2" value="0200"/>
+      <field name="smb2.flags" showname="Flags: 0x00000034, Chained, Priority" size="4" pos="282" show="0x00000034" value="34000000">
+        <field name="smb2.flags.response" showname=".... .... .... .... .... .... .... ...0 = Response: This is a REQUEST" size="4" pos="282" show="False" value="0" unmaskedvalue="34000000"/>
+        <field name="smb2.flags.async" showname=".... .... .... .... .... .... .... ..0. = Async command: This is a SYNC command" size="4" pos="282" show="False" value="0" unmaskedvalue="34000000"/>
+        <field name="smb2.flags.chained" showname=".... .... .... .... .... .... .... .1.. = Chained: This pdu is a CHAINED command" size="4" pos="282" show="True" value="1" unmaskedvalue="34000000"/>
+        <field name="smb2.flags.signature" showname=".... .... .... .... .... .... .... 0... = Signing: This pdu is NOT signed" size="4" pos="282" show="False" value="0" unmaskedvalue="34000000"/>
+        <field name="smb2.flags.priority_mask" showname=".... .... .... .... .... .... .011 .... = Priority: This pdu contains a PRIORITY" size="4" pos="282" show="True" value="3" unmaskedvalue="34000000"/>
+        <field name="smb2.flags.dfs" showname="...0 .... .... .... .... .... .... .... = DFS operation: This is a normal operation" size="4" pos="282" show="False" value="0" unmaskedvalue="34000000"/>
+        <field name="smb2.flags.replay" showname="..0. .... .... .... .... .... .... .... = Replay operation: This is NOT a replay operation" size="4" pos="282" show="False" value="0" unmaskedvalue="34000000"/>
+      </field>
+      <field name="smb2.chain_offset" showname="Chain Offset: 0x00000000" size="4" pos="286" show="0x00000000" value="00000000"/>
+      <field name="smb2.msg_id" showname="Message ID: 25" size="8" pos="290" show="25" value="1900000000000000"/>
+      <field name="smb2.pid" showname="Process Id: 0x0000feff" size="4" pos="298" show="0x0000feff" value="fffe0000"/>
+      <field name="smb2.tid" showname="Tree Id: 0x00000005  \\192.168.60.101\TempShare" size="4" pos="302" show="0x00000005" value="05000000">
+        <field name="smb2.tree" showname="Tree: \\192.168.60.101\TempShare" size="4" pos="302" show="\\192.168.60.101\TempShare" value="05000000"/>
+        <field name="smb2.share_type" showname="Share Type: Physical disk (0x01)" size="0" pos="302" show="0x01"/>
+        <field name="smb2.tcon_frame" showname="Connected in Frame: 164870" size="0" pos="302" show="164870"/>
+      </field>
+      <field name="smb2.sesid" showname="Session Id: 0x00003c0000000001 Acct:FILE-SRV$ Domain:CORP Host:FILE-SRV" size="8" pos="306" show="0x00003c0000000001" value="01000000003c0000">
+        <field name="smb2.acct" showname="Account: FILE-SRV$" size="0" pos="306" show="FILE-SRV$"/>
+        <field name="smb2.domain" showname="Domain: CORP" size="0" pos="306" show="CORP"/>
+        <field name="smb2.host" showname="Host: FILE-SRV" size="0" pos="306" show="FILE-SRV"/>
+        <field name="smb2.auth_frame" showname="Authenticated in Frame: 165176" size="0" pos="306" show="165176"/>
+      </field>
+      <field name="smb2.signature" showname="Signature: 00000000000000000000000000000000" size="16" pos="314" show="00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00" value="00000000000000000000000000000000"/>
+    </field>
+    <field name="" show="SetInfo Request (0x11)" size="72" pos="330" value="21000104280000006000000000000000ffffffffffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000000000000000a000000000000000">
+      <field name="smb2.buffer_code" showname="StructureSize: 0x0021" size="2" pos="330" show="0x0021" value="2100">
+        <field name="smb2.buffer_code.length" showname="0000 0000 0010 000. = Fixed Part Length: 16" size="2" pos="330" show="16" value="10" unmaskedvalue="2100"/>
+        <field name="smb2.buffer_code.dynamic" showname=".... .... .... ...1 = Dynamic Part: True" size="2" pos="330" show="True" value="1" unmaskedvalue="2100"/>
+      </field>
+      <field name="smb2.class" showname="Class: FILE_INFO (0x01)" size="1" pos="332" show="0x01" value="01"/>
+      <field name="smb2.file_info.infolevel" showname="InfoLevel: SMB2_FILE_BASIC_INFO (0x04)" size="1" pos="333" show="0x04" value="04"/>
+      <field name="smb2.setinfo_size" showname="Setinfo Size: 40" size="4" pos="334" show="40" value="28000000"/>
+      <field name="smb2.setinfo_offset" showname="Setinfo Offset: 0x0060" size="2" pos="338" show="0x0060" value="6000"/>
+      <field name="smb2.setinfo_reserved" showname="Reserved: 0" size="2" pos="340" show="0" value="0000"/>
+      <field name="smb2.getsetinfo_additional" showname="Additional Info: 0x00000000" size="4" pos="342" show="0x00000000" value="00000000"/>
+      <field name="" show="GUID handle" size="16" pos="346" value="ffffffffffffffffffffffffffffffff">
+        <field name="smb2.fid" showname="File Id: ffffffff-ffff-ffff-ffff-ffffffffffff" size="16" pos="346" show="ffffffff-ffff-ffff-ffff-ffffffffffff" value="ffffffffffffffffffffffffffffffff"/>
+      </field>
+      <field name="smb2.file_basic_info" showname="SMB2_FILE_BASIC_INFO" size="40" pos="362" show="" value="">
+        <field name="smb2.create.time" showname="Create: No time specified (0)" size="8" pos="362" show="Jan  1, 1970 00:00:00.000000000 UTC" value="0000000000000000"/>
+        <field name="smb2.last_access.time" showname="Last Access: No time specified (0)" size="8" pos="370" show="Jan  1, 1970 00:00:00.000000000 UTC" value="0000000000000000"/>
+        <field name="smb2.last_write.time" showname="Last Write: No time specified (0)" size="8" pos="378" show="Jan  1, 1970 00:00:00.000000000 UTC" value="0000000000000000"/>
+        <field name="smb2.last_change.time" showname="Last Change: No time specified (0)" size="8" pos="386" show="Jan  1, 1970 00:00:00.000000000 UTC" value="0000000000000000"/>
+        <field name="smb2.file_attribute" showname="File Attributes: 0x000000a0" size="4" pos="394" show="0x000000a0" value="a0000000">
+          <field name="smb2.file_attribute.read_only" showname=".... .... .... .... .... .... .... ...0 = Read Only: No" size="4" pos="394" show="False" value="0" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.hidden" showname=".... .... .... .... .... .... .... ..0. = Hidden: No" size="4" pos="394" show="False" value="0" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.system" showname=".... .... .... .... .... .... .... .0.. = System: No" size="4" pos="394" show="False" value="0" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.directory" showname=".... .... .... .... .... .... ...0 .... = Directory: No" size="4" pos="394" show="False" value="0" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.archive" showname=".... .... .... .... .... .... ..1. .... = Requires archived: Yes" size="4" pos="394" show="True" value="1" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.normal" showname=".... .... .... .... .... .... 1... .... = Normal: Yes" size="4" pos="394" show="True" value="1" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.temporary" showname=".... .... .... .... .... ...0 .... .... = Temporary: No" size="4" pos="394" show="False" value="0" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.sparse" showname=".... .... .... .... .... ..0. .... .... = Sparse: No" size="4" pos="394" show="False" value="0" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.reparse" showname=".... .... .... .... .... .0.. .... .... = Reparse Point: Does NOT have an associated reparse point" size="4" pos="394" show="False" value="0" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.compressed" showname=".... .... .... .... .... 0... .... .... = Compressed: Uncompressed" size="4" pos="394" show="False" value="0" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.offline" showname=".... .... .... .... ...0 .... .... .... = Offline: Online" size="4" pos="394" show="False" value="0" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.not_content_indexed" showname=".... .... .... .... ..0. .... .... .... = Not Content Indexed: Is indexed by the content indexing service" size="4" pos="394" show="False" value="0" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.encrypted" showname=".... .... .... .... .0.. .... .... .... = Encrypted: No" size="4" pos="394" show="False" value="0" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.integrity_stream" showname=".... .... .... .... 0... .... .... .... = Integrity Stream: Does NOT have Integrity Support" size="4" pos="394" show="False" value="0" unmaskedvalue="a0000000"/>
+          <field name="smb2.file_attribute.no_scrub_data" showname=".... .... .... ..0. .... .... .... .... = No Scrub Data: Is not excluded from the data integrity scan" size="4" pos="394" show="False" value="0" unmaskedvalue="a0000000"/>
+        </field>
+        <field name="smb2.unknown" showname="Unknown: 00000000" size="4" pos="398" show="00:00:00:00" value="00000000"/>
+      </field>
+    </field>
+  </proto>
+</packet>
+
+
+</pdml>

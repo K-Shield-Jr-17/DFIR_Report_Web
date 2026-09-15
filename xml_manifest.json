@@ -1,0 +1,3274 @@
+[
+  {
+    "File": "application.evtx",
+    "RecordID": 885,
+    "EventID": 1001,
+    "UTC": "2026-09-15T17:54:52.0634830Z",
+    "XMLFile": "xml/application-885.xml",
+    "SHA256": "4fb7762257fb8c9ba85c26148b3efe4a6ebb6b05de7ec1696890f7988f904da9"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 886,
+    "EventID": 1704,
+    "UTC": "2026-09-15T17:55:00.8412071Z",
+    "XMLFile": "xml/application-886.xml",
+    "SHA256": "5c6baf1368b9990735eb8201502b0692aa20f3ea7335215e9c4995322efc7a15"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 887,
+    "EventID": 102,
+    "UTC": "2026-09-15T17:56:50.8402406Z",
+    "XMLFile": "xml/application-887.xml",
+    "SHA256": "aca95f5233b00eb6d9f87492b94b21678c15e390e5c4435baf04d867ed3dc841"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 888,
+    "EventID": 300,
+    "UTC": "2026-09-15T17:56:50.8402406Z",
+    "XMLFile": "xml/application-888.xml",
+    "SHA256": "973f934ef8395575d437e3b31d913e1a17cf0ce16106b9a434400627886d4af5"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 889,
+    "EventID": 301,
+    "UTC": "2026-09-15T17:56:50.8557118Z",
+    "XMLFile": "xml/application-889.xml",
+    "SHA256": "a3ded855784fe4b8f319bc1b583c1d672bdb675c21307d1a6def27aad07ef477"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 890,
+    "EventID": 302,
+    "UTC": "2026-09-15T17:56:50.8870996Z",
+    "XMLFile": "xml/application-890.xml",
+    "SHA256": "74b9d7af8f9aa8f085f82f123438e252dd258a293bd0744dac0e3e3701e8ada9"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 891,
+    "EventID": 105,
+    "UTC": "2026-09-15T17:56:50.8870996Z",
+    "XMLFile": "xml/application-891.xml",
+    "SHA256": "80f4924eaf1fa1312ba2a8e345e90c46921312b7ea04712d480831126ada42ca"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 892,
+    "EventID": 326,
+    "UTC": "2026-09-15T17:56:50.9182248Z",
+    "XMLFile": "xml/application-892.xml",
+    "SHA256": "bea9c0bd06b1ae5781d7f95f8e7b8e5f07bc963d8eb6cdfddda76e64d3e7ec71"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 893,
+    "EventID": 1040,
+    "UTC": "2026-09-15T17:59:04.1467587Z",
+    "XMLFile": "xml/application-893.xml",
+    "SHA256": "d7101df43805e757d7a20909a98acdc810506dfda015346a453b48bc70cf5b8a"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 894,
+    "EventID": 10000,
+    "UTC": "2026-09-15T17:59:16.7197847Z",
+    "XMLFile": "xml/application-894.xml",
+    "SHA256": "01cb46c09f4706aa55bb49790033adaa453bc8c6d08d545cc677c8174684568a"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 895,
+    "EventID": 10000,
+    "UTC": "2026-09-15T17:59:17.0834036Z",
+    "XMLFile": "xml/application-895.xml",
+    "SHA256": "4808719e62133f8a3ebc88fc69d48a6e2f6c58c3a43e67a652fef2b604b321ee"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 896,
+    "EventID": 11707,
+    "UTC": "2026-09-15T17:59:18.9245104Z",
+    "XMLFile": "xml/application-896.xml",
+    "SHA256": "6d27460ae54ca43cb82aa68f4a0158cbb67e8f0c33cb0d142c1090ffa0bc927a"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 897,
+    "EventID": 1033,
+    "UTC": "2026-09-15T17:59:18.9245104Z",
+    "XMLFile": "xml/application-897.xml",
+    "SHA256": "1508ecaf00bbd55517b4734aae785e44f1b4b733a84bf89ae026c8ed265a10da"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 898,
+    "EventID": 1042,
+    "UTC": "2026-09-15T17:59:18.9658162Z",
+    "XMLFile": "xml/application-898.xml",
+    "SHA256": "dda3d05ee143adf8c0d64412a99d1ab53bbeb97ecaa74748a6954514459410e6"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 899,
+    "EventID": 1040,
+    "UTC": "2026-09-15T17:59:19.0249007Z",
+    "XMLFile": "xml/application-899.xml",
+    "SHA256": "010ded6a2954d1d9fa53188d0ebefa0ada4133f6fcd9541d546ca46b18dc60ac"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 900,
+    "EventID": 10001,
+    "UTC": "2026-09-15T17:59:18.9392805Z",
+    "XMLFile": "xml/application-900.xml",
+    "SHA256": "7cdbdd76ec43ee08aab2cd3630250350de427152d51ed8807a567bc033d55b64"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 901,
+    "EventID": 10001,
+    "UTC": "2026-09-15T17:59:18.9427678Z",
+    "XMLFile": "xml/application-901.xml",
+    "SHA256": "d164c63be6d415be9142f1eb07bc33e3622119fb0e90dc55445bdb0c60ca7074"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 902,
+    "EventID": 10000,
+    "UTC": "2026-09-15T17:59:19.1002953Z",
+    "XMLFile": "xml/application-902.xml",
+    "SHA256": "62f5308b03d514c540c5fae8a82427bd3273dcd4066b247693de825ab69ca171"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 903,
+    "EventID": 10000,
+    "UTC": "2026-09-15T17:59:19.4027309Z",
+    "XMLFile": "xml/application-903.xml",
+    "SHA256": "1ee324b7de281bc20461c806ed71502475627509bca88b03092294e2632bf396"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 904,
+    "EventID": 11707,
+    "UTC": "2026-09-15T17:59:20.6496354Z",
+    "XMLFile": "xml/application-904.xml",
+    "SHA256": "690a4a54c7533c375219594f91eb7a42d799ddf5a07b700df13ad3f819015716"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 905,
+    "EventID": 1033,
+    "UTC": "2026-09-15T17:59:20.6496354Z",
+    "XMLFile": "xml/application-905.xml",
+    "SHA256": "8434c92ebb13b6cadbff3aa3aa2850a61d80a7833cbd6f8f456705d851b42bba"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 906,
+    "EventID": 1042,
+    "UTC": "2026-09-15T17:59:20.6810419Z",
+    "XMLFile": "xml/application-906.xml",
+    "SHA256": "1e20bc3251aa684bdc017b1abbd62a66a666ac165585eeb81edcaaeb3e0197c8"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 907,
+    "EventID": 10001,
+    "UTC": "2026-09-15T17:59:20.6724164Z",
+    "XMLFile": "xml/application-907.xml",
+    "SHA256": "b73a4fd4941e66cd85d74d031301341eb2a5492423419d38c5065ea5a43eeb33"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 908,
+    "EventID": 10001,
+    "UTC": "2026-09-15T17:59:20.6749821Z",
+    "XMLFile": "xml/application-908.xml",
+    "SHA256": "026ca5a4834127373a0bd248e0c7c682cc54b074c91a138571057e540345e47b"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 909,
+    "EventID": 1040,
+    "UTC": "2026-09-15T17:59:23.5505283Z",
+    "XMLFile": "xml/application-909.xml",
+    "SHA256": "b3f7e4490f970bb5283c29bf328997948adcc97dd818607bca4c3e0290ed6434"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 910,
+    "EventID": 10000,
+    "UTC": "2026-09-15T17:59:23.6163585Z",
+    "XMLFile": "xml/application-910.xml",
+    "SHA256": "cfcb313de4801de93bbee332cfa94bf0f18f2a5ac114a6973cd7c4fc9044c386"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 911,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:23.8494916Z",
+    "XMLFile": "xml/application-911.xml",
+    "SHA256": "edd93e77def6ab936c9acecfee0c4be0289b2cf570b25dea1efd1262c11ba5f9"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 912,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:23.8549054Z",
+    "XMLFile": "xml/application-912.xml",
+    "SHA256": "aba8ca49c03b4590d34bdde601ef0ca3daa7389efc916d4a8bc0c430483b5de3"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 913,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:23.8623463Z",
+    "XMLFile": "xml/application-913.xml",
+    "SHA256": "2a9d1f5a63cb5b494be13d68f91ed4f9174b318ad1805851eea88991099aae32"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 914,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:23.8673932Z",
+    "XMLFile": "xml/application-914.xml",
+    "SHA256": "b115d60969baea2d04eb61306da2c1e205505a4043b88cce4b5d2c8da0091708"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 915,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:23.8721690Z",
+    "XMLFile": "xml/application-915.xml",
+    "SHA256": "ec03ba1239a14eb998970af8b8ae3e2f7a62ed96e0a7382850c495ca0baf8b45"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 916,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:23.8742776Z",
+    "XMLFile": "xml/application-916.xml",
+    "SHA256": "655a4e61d3cc20ba9f4e99e483b0186b20c2aa0d0ff6011ed3bfe99c9d0f50f5"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 917,
+    "EventID": 10005,
+    "UTC": "2026-09-15T17:59:23.8742943Z",
+    "XMLFile": "xml/application-917.xml",
+    "SHA256": "49fd1f7869509ca44c845cd6743ac1e747247d2e6742132bfd4be45fe7291c1b"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 918,
+    "EventID": 10000,
+    "UTC": "2026-09-15T17:59:23.8878758Z",
+    "XMLFile": "xml/application-918.xml",
+    "SHA256": "c224740865ada7c4a3e0b8712bf8ec2b7698ff11d7b508c57a3474d11aec91f6"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 919,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:23.9159888Z",
+    "XMLFile": "xml/application-919.xml",
+    "SHA256": "581c88a9a30ee555fe2ce9199f8d4d6b1e69f272dbcd6570b259925a06c7227d"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 920,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:23.9221211Z",
+    "XMLFile": "xml/application-920.xml",
+    "SHA256": "6e7a4712aed4421cfa6a7d5ec8efbc065fa3608d98ccb1155fa8cb3acfec71bb"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 921,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:23.9274904Z",
+    "XMLFile": "xml/application-921.xml",
+    "SHA256": "0430c60b4e92fe98ed01cc441d461fd7301da35ff5199e870fea0c76c3aa3331"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 922,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:23.9317049Z",
+    "XMLFile": "xml/application-922.xml",
+    "SHA256": "e8da5468f35f0e2b5942c7ddf31fe7e174b414e8b69a170935eafa85b409dc08"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 923,
+    "EventID": 10005,
+    "UTC": "2026-09-15T17:59:23.9392317Z",
+    "XMLFile": "xml/application-923.xml",
+    "SHA256": "a9f615a391f227e7dd4dde006a22dc232cf2ae84e84e255cac164f11781ce0c9"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 924,
+    "EventID": 10000,
+    "UTC": "2026-09-15T17:59:23.9926601Z",
+    "XMLFile": "xml/application-924.xml",
+    "SHA256": "cbc698416bca10d236febd1db4dce9ea06cbaf982e76a13c174de92d428b838d"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 925,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:24.2077996Z",
+    "XMLFile": "xml/application-925.xml",
+    "SHA256": "2dc32a3e3b7811d11330cae77213fa908f048db10ccaee2daa01c6b3142195da"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 926,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:24.2117688Z",
+    "XMLFile": "xml/application-926.xml",
+    "SHA256": "6796018d17adbfd8658c3f3609bcc92387d4270b1803bc8629a9e0f881d9fa3d"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 927,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:24.2156221Z",
+    "XMLFile": "xml/application-927.xml",
+    "SHA256": "1c1c2c9e062ad07004fdc5d564bf6a1e1a7c8889163a391a150dcd40a3b8cc0f"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 928,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:24.2197244Z",
+    "XMLFile": "xml/application-928.xml",
+    "SHA256": "f344f673861db7041651a6cc2c04c3bfb0a227d0d96e45ab1118ef34debfac49"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 929,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:24.2236060Z",
+    "XMLFile": "xml/application-929.xml",
+    "SHA256": "d554e4d6a8eeafbb34246700e192f6278c9a4b0f1fde1de928f6dda215f1b91c"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 930,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:24.2252885Z",
+    "XMLFile": "xml/application-930.xml",
+    "SHA256": "a2d1f40c85cf433d89c505b1c1f34bd477a02333080c53caeeb03058ff878946"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 931,
+    "EventID": 10005,
+    "UTC": "2026-09-15T17:59:24.2253053Z",
+    "XMLFile": "xml/application-931.xml",
+    "SHA256": "990615b6cd7fbd006f10001b75536d2ebfdd5ce65c3885d4b5550d925c38ca39"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 932,
+    "EventID": 10000,
+    "UTC": "2026-09-15T17:59:24.2265714Z",
+    "XMLFile": "xml/application-932.xml",
+    "SHA256": "72094309ccf8ed8c9a99844622e6a7c6a0a3512c74d5d97d59922f8592e975c9"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 933,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:24.2640517Z",
+    "XMLFile": "xml/application-933.xml",
+    "SHA256": "2addb36d194f8b662edaf730df1616ac62ef7218a98a0b3183b5851071c80e7c"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 934,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:24.2675848Z",
+    "XMLFile": "xml/application-934.xml",
+    "SHA256": "771deb4c559eac849da5517e0f669a563e84ff4933edb650903adfdcc71cff24"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 935,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:24.2707795Z",
+    "XMLFile": "xml/application-935.xml",
+    "SHA256": "bec8df912c3194fb2b330b5c43452f2d9e0050b3c491433271191866ccb3a2d8"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 936,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:24.2740239Z",
+    "XMLFile": "xml/application-936.xml",
+    "SHA256": "c41caf8269f2c85946c72b32fe9431283b0c5bad1e7d9a2f14f5cc854365e673"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 937,
+    "EventID": 10005,
+    "UTC": "2026-09-15T17:59:24.2800011Z",
+    "XMLFile": "xml/application-937.xml",
+    "SHA256": "6e6adab5267ad3d40d49a1df4e5c753b46f3e65c6073c0fb4ac2a4b99ed87e3f"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 938,
+    "EventID": 11707,
+    "UTC": "2026-09-15T17:59:25.6610979Z",
+    "XMLFile": "xml/application-938.xml",
+    "SHA256": "9c3f87eb470c5f151b69262d3ea684bb5e91b9fba3add8e7f89ebc85a70214c3"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 939,
+    "EventID": 1033,
+    "UTC": "2026-09-15T17:59:25.6610979Z",
+    "XMLFile": "xml/application-939.xml",
+    "SHA256": "819267fd8f6bccf1ee4518c081e631976b003890bcac3f1e115f659a5cc19f3d"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 940,
+    "EventID": 1042,
+    "UTC": "2026-09-15T17:59:25.7866214Z",
+    "XMLFile": "xml/application-940.xml",
+    "SHA256": "076cc4199e0cb06acf5e012c00f9b7472b1f4ea209ca9d4ae4e9148ce4cac7f5"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 941,
+    "EventID": 1040,
+    "UTC": "2026-09-15T17:59:25.8964940Z",
+    "XMLFile": "xml/application-941.xml",
+    "SHA256": "2634acbfac4ce5cb4c1070f31914cc14f62d4329185f4da7bdbd074a789a069c"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 942,
+    "EventID": 10001,
+    "UTC": "2026-09-15T17:59:25.7177907Z",
+    "XMLFile": "xml/application-942.xml",
+    "SHA256": "9e264987e1359475c549d01d574dc36f2a76f2c8bd0a043a6d22dea57f78b85a"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 943,
+    "EventID": 10001,
+    "UTC": "2026-09-15T17:59:25.7216339Z",
+    "XMLFile": "xml/application-943.xml",
+    "SHA256": "b68f67ee358a15cf9ecde950d32008e013189366337c722666824385b32a57dd"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 944,
+    "EventID": 10001,
+    "UTC": "2026-09-15T17:59:25.8113339Z",
+    "XMLFile": "xml/application-944.xml",
+    "SHA256": "6a26910edd9cbe8d05ffb06ec981e32f46fda1175d2ff7e4c4ee65ed7ce8441b"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 945,
+    "EventID": 10001,
+    "UTC": "2026-09-15T17:59:25.8199447Z",
+    "XMLFile": "xml/application-945.xml",
+    "SHA256": "b7344f3eeb34a02b40925ea57e8873f7d4c237be25ec25faca1fa452a224220a"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 946,
+    "EventID": 10000,
+    "UTC": "2026-09-15T17:59:26.0569183Z",
+    "XMLFile": "xml/application-946.xml",
+    "SHA256": "3d18a768bdd86b5e6c5a318d97b6d4109738832924cbe26528e01aae92364879"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 947,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:26.7733501Z",
+    "XMLFile": "xml/application-947.xml",
+    "SHA256": "fdd237cbc2b62d186960983f1de49260892a269f5fab42e4951418f813c9df16"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 948,
+    "EventID": 10005,
+    "UTC": "2026-09-15T17:59:26.7733631Z",
+    "XMLFile": "xml/application-948.xml",
+    "SHA256": "1df2b7c550ff2110f35258ef61fb9fcf37cf39fb2daeb8563c29a6da101a8ef6"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 949,
+    "EventID": 10000,
+    "UTC": "2026-09-15T17:59:26.7751669Z",
+    "XMLFile": "xml/application-949.xml",
+    "SHA256": "a1dcd1712448d550052439705529cfdd94610b9203d0b1175787f0e254d94a2b"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 950,
+    "EventID": 10005,
+    "UTC": "2026-09-15T17:59:26.7953271Z",
+    "XMLFile": "xml/application-950.xml",
+    "SHA256": "d3c3c825be06b2684b00b1b7955d398086c1b57b81089dab39d105633ee0bfde"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 951,
+    "EventID": 10000,
+    "UTC": "2026-09-15T17:59:26.9001878Z",
+    "XMLFile": "xml/application-951.xml",
+    "SHA256": "591961ffd65ab54c9b081008b5e1c8979e83131510aa57a2be1dbf5e69371d15"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 952,
+    "EventID": 10010,
+    "UTC": "2026-09-15T17:59:27.2403192Z",
+    "XMLFile": "xml/application-952.xml",
+    "SHA256": "1e4a2641f2e10b0e2f03a82c76e07cfc7d77c574ba8a367a9ce6b5b66156859a"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 953,
+    "EventID": 10005,
+    "UTC": "2026-09-15T17:59:27.2403336Z",
+    "XMLFile": "xml/application-953.xml",
+    "SHA256": "f158acb9216e4ff2b89069b71bae342cc9bc313dd03560b1777618d54c5ace00"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 954,
+    "EventID": 10000,
+    "UTC": "2026-09-15T17:59:27.2417772Z",
+    "XMLFile": "xml/application-954.xml",
+    "SHA256": "8fea06c6de5a9af025973fbe1f2041b21d56d73eff437dd84815166fcde48c2e"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 955,
+    "EventID": 10005,
+    "UTC": "2026-09-15T17:59:27.2534774Z",
+    "XMLFile": "xml/application-955.xml",
+    "SHA256": "c747c376ce385642c984e41b9c17f1a059a134ed7f4223eb1530a58b70b830c2"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 956,
+    "EventID": 11707,
+    "UTC": "2026-09-15T17:59:28.4318953Z",
+    "XMLFile": "xml/application-956.xml",
+    "SHA256": "44f655ec5a4f6dc6ab1ebdfc96af51a6ff28838fb7fe94af64de41e92a8624ed"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 957,
+    "EventID": 1033,
+    "UTC": "2026-09-15T17:59:28.4318953Z",
+    "XMLFile": "xml/application-957.xml",
+    "SHA256": "a229521cb2da2294dee1a5e77bece2941215fe5649aa72a1c2f00e753e96ec6e"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 958,
+    "EventID": 1042,
+    "UTC": "2026-09-15T17:59:28.4630712Z",
+    "XMLFile": "xml/application-958.xml",
+    "SHA256": "7c926fe48234a1e7a2bda49fd58cec8baf5402717c5f9dfd1c7fbc1cbb5c1295"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 959,
+    "EventID": 10001,
+    "UTC": "2026-09-15T17:59:28.4450844Z",
+    "XMLFile": "xml/application-959.xml",
+    "SHA256": "05c015e07da1feecd4688267e210bddd1fecc27ee75364c40f567e86fe2f6831"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 960,
+    "EventID": 10001,
+    "UTC": "2026-09-15T17:59:28.4472368Z",
+    "XMLFile": "xml/application-960.xml",
+    "SHA256": "d48de0a0f0f02a302078b57ac2a5e8254f69bc22f9616a5ca8dff9dc0638a98c"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 961,
+    "EventID": 10001,
+    "UTC": "2026-09-15T17:59:28.4726747Z",
+    "XMLFile": "xml/application-961.xml",
+    "SHA256": "baca32ef219f0e2a091ae51765c354701aaba619dc1174e53aa38b3bcd99a7d7"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 962,
+    "EventID": 10001,
+    "UTC": "2026-09-15T17:59:28.4745938Z",
+    "XMLFile": "xml/application-962.xml",
+    "SHA256": "b2c902269a113185a9f76539d5ed897571718f693b4f12acca867618ee19b67d"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 963,
+    "EventID": 8224,
+    "UTC": "2026-09-15T17:59:48.3335959Z",
+    "XMLFile": "xml/application-963.xml",
+    "SHA256": "458c8cf912790b6ba24ac2e20ded3d8ee23d6369827e7cef0447a88f36e660ef"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 964,
+    "EventID": 1040,
+    "UTC": "2026-09-15T18:00:06.4172913Z",
+    "XMLFile": "xml/application-964.xml",
+    "SHA256": "a4b786e01c1413f024ba97fbb93d93fee67088bcc4d2ef978c4490bc086dad03"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 965,
+    "EventID": 260,
+    "UTC": "2026-09-15T18:00:46.3244061Z",
+    "XMLFile": "xml/application-965.xml",
+    "SHA256": "000fc998f0d495690549a99e5d82311e168359443be55130145447c88c0cca39"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 966,
+    "EventID": 272,
+    "UTC": "2026-09-15T18:00:46.3244061Z",
+    "XMLFile": "xml/application-966.xml",
+    "SHA256": "d875979ac38750d88f4b198e60691e844a1458eaa7d310e126790a0cbd0126c5"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 967,
+    "EventID": 108,
+    "UTC": "2026-09-15T18:00:46.3399439Z",
+    "XMLFile": "xml/application-967.xml",
+    "SHA256": "522be9bf3d4be09ce88bd35bf1983516cc089743dfd5f6a4ddec5ee1e6ddccb1"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 968,
+    "EventID": 10000,
+    "UTC": "2026-09-15T18:00:46.2902608Z",
+    "XMLFile": "xml/application-968.xml",
+    "SHA256": "74ca808073766592eec8a84e5f000021ea726935fff48d2ffa5a6538b9b5aae5"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 969,
+    "EventID": 10002,
+    "UTC": "2026-09-15T18:00:46.3545917Z",
+    "XMLFile": "xml/application-969.xml",
+    "SHA256": "36366ea636298f3e2a519a195088bfb47e6a318f52e0f5124c593fe8832a9d8a"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 970,
+    "EventID": 10001,
+    "UTC": "2026-09-15T18:00:46.3552668Z",
+    "XMLFile": "xml/application-970.xml",
+    "SHA256": "0ca4fcb5852189619ca68897c88a29a18434f63e8f2dcad03ab59e5bcedc716f"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 971,
+    "EventID": 105,
+    "UTC": "2026-09-15T18:01:41.4030848Z",
+    "XMLFile": "xml/application-971.xml",
+    "SHA256": "05153a597257740d254cebb68018f40f63d2d9a65b03af91c993de5c59f828a5"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 972,
+    "EventID": 1038,
+    "UTC": "2026-09-15T18:01:50.4735868Z",
+    "XMLFile": "xml/application-972.xml",
+    "SHA256": "6e16ee06d6fcbd392ef02d3ec18c8815232628ed0045c8aaa7e44d552f06585c"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 973,
+    "EventID": 1042,
+    "UTC": "2026-09-15T18:01:50.5827229Z",
+    "XMLFile": "xml/application-973.xml",
+    "SHA256": "de20f5b60f6e6c8dba4ee815e7c39d3b81b778e44b6984943af413a6020a15ab"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 974,
+    "EventID": 1001,
+    "UTC": "2026-09-15T18:02:04.0899559Z",
+    "XMLFile": "xml/application-974.xml",
+    "SHA256": "1c10686a35b21b5cb4e1b40bbc593276cfde9a10323d8bd811b8470eb891ebcc"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 975,
+    "EventID": 11707,
+    "UTC": "2026-09-15T18:10:59.3729723Z",
+    "XMLFile": "xml/application-975.xml",
+    "SHA256": "d8ffabf155a3fc8e4a465d4c67bb6ca074f4265002de8775b54ce3cea457ee0d"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 976,
+    "EventID": 1033,
+    "UTC": "2026-09-15T18:10:59.3729723Z",
+    "XMLFile": "xml/application-976.xml",
+    "SHA256": "4af029dce298c03569a38a0ee4f18cd2fd2fb5d9171602796f5741a6dd23efb8"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 977,
+    "EventID": 1038,
+    "UTC": "2026-09-15T18:10:59.3729723Z",
+    "XMLFile": "xml/application-977.xml",
+    "SHA256": "71545c2a78db50e8f0fa7cb386680237e7c0cdb29619c00a3aac725f338b1267"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 978,
+    "EventID": 1029,
+    "UTC": "2026-09-15T18:10:59.3729723Z",
+    "XMLFile": "xml/application-978.xml",
+    "SHA256": "ff5eb99e177f5ef1f3fbddfb15d307c9ff93bfacb61f1eae96e79bbe362c163f"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 979,
+    "EventID": 1109,
+    "UTC": "2026-09-15T18:12:01.8247211Z",
+    "XMLFile": "xml/application-979.xml",
+    "SHA256": "a6e1d8a34aa8a56c4caee7941b35ab71a55d646ec1d7c835e96134c9e084ecfd"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 980,
+    "EventID": 6000,
+    "UTC": "2026-09-15T18:12:53.2759930Z",
+    "XMLFile": "xml/application-980.xml",
+    "SHA256": "7c3dcfd49717d8ed714b0ad70d1c65a6c5c154dcceabf31eb34e5e28d39cbb24"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 981,
+    "EventID": 6000,
+    "UTC": "2026-09-15T18:12:54.0211521Z",
+    "XMLFile": "xml/application-981.xml",
+    "SHA256": "14daf57810286402b5536e4e05429feee25279501a7cace8050a4f0e8d4e5f41"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 982,
+    "EventID": 1040,
+    "UTC": "2026-09-15T18:15:04.7331286Z",
+    "XMLFile": "xml/application-982.xml",
+    "SHA256": "fdd7d0d5b8ef6b739126e2b56ab0fd4b3ed9ad2142c3a5c6fdd44c474103bcdc"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 983,
+    "EventID": 1038,
+    "UTC": "2026-09-15T18:15:13.1509935Z",
+    "XMLFile": "xml/application-983.xml",
+    "SHA256": "30df15350201e0f12c89c5627c8d4a755dd9bf78a4294893c26456b701b6e450"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 984,
+    "EventID": 1042,
+    "UTC": "2026-09-15T18:15:13.1820271Z",
+    "XMLFile": "xml/application-984.xml",
+    "SHA256": "fdf7b740641355863b4b0760b94d92a15f9d68bec90f455706f037fd30d520de"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 985,
+    "EventID": 11728,
+    "UTC": "2026-09-15T18:15:17.4695644Z",
+    "XMLFile": "xml/application-985.xml",
+    "SHA256": "3133cb99427edf03de473810c549c8436153786b10af249276650e720f8045f8"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 986,
+    "EventID": 1035,
+    "UTC": "2026-09-15T18:15:17.4695644Z",
+    "XMLFile": "xml/application-986.xml",
+    "SHA256": "dba63c9ebee6aaf2bcb80056a63898807bf143242299b4516f2b4492233eb4de"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 987,
+    "EventID": 1038,
+    "UTC": "2026-09-15T18:15:17.4852597Z",
+    "XMLFile": "xml/application-987.xml",
+    "SHA256": "f89dbd847ba03ef3f15ea51f1b16952e85dd65b5adb01600ef20b9e6fb9477f4"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 988,
+    "EventID": 1029,
+    "UTC": "2026-09-15T18:15:17.4862555Z",
+    "XMLFile": "xml/application-988.xml",
+    "SHA256": "66db42cb81d7b5e7fade248c66f97cdc19dcf088da303ac1487162a2867468b0"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 989,
+    "EventID": 1001,
+    "UTC": "2026-09-15T18:15:41.5877218Z",
+    "XMLFile": "xml/application-989.xml",
+    "SHA256": "65d6b8acd1154d5812bf9199e0774004c1fb735f34cae878bb75243062059faf"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 990,
+    "EventID": 1002,
+    "UTC": "2026-09-15T18:15:41.5877218Z",
+    "XMLFile": "xml/application-990.xml",
+    "SHA256": "cdc3d35ca55c948d94ed5a38b8a395840d6cbde8dd646e323632b3e755e2438a"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 991,
+    "EventID": 260,
+    "UTC": "2026-09-15T18:17:19.2047136Z",
+    "XMLFile": "xml/application-991.xml",
+    "SHA256": "ba69f2fc4362eb0c8cbe0401402eb708c4456d271fed8eb55c8c1d129ca87004"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 992,
+    "EventID": 272,
+    "UTC": "2026-09-15T18:17:19.2047136Z",
+    "XMLFile": "xml/application-992.xml",
+    "SHA256": "a612438fdbb46cd82953c8289c51e53360e60a8a655ba18d39f983e0c51ef65b"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 993,
+    "EventID": 108,
+    "UTC": "2026-09-15T18:17:19.2173192Z",
+    "XMLFile": "xml/application-993.xml",
+    "SHA256": "4fb8db4ad1f2863ea1227b39d5f5c28b5128c08932cf62882a09db06cafe4fde"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 994,
+    "EventID": 105,
+    "UTC": "2026-09-15T18:17:19.3738148Z",
+    "XMLFile": "xml/application-994.xml",
+    "SHA256": "3c429e6f7f39766e1feb6edb687544e0441085273cbf107bf8a12ef3d4a72d4c"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 995,
+    "EventID": 258,
+    "UTC": "2026-09-15T18:17:22.0617260Z",
+    "XMLFile": "xml/application-995.xml",
+    "SHA256": "91292b4f79b7e89b9f82e3a317f77481d42a75a46fec52b9efd85fee55e1d8fb"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 996,
+    "EventID": 271,
+    "UTC": "2026-09-15T18:17:23.3105854Z",
+    "XMLFile": "xml/application-996.xml",
+    "SHA256": "8e74f60edf0f5c2a998eb1ce36585443d20d11fe40c445b798ef5401f6856695"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 997,
+    "EventID": 8224,
+    "UTC": "2026-09-15T18:20:20.7880327Z",
+    "XMLFile": "xml/application-997.xml",
+    "SHA256": "c4bef198a0dbd571411d6564db43219c91f073bf97239ce33fe4374dd5dd6fe0"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 998,
+    "EventID": 105,
+    "UTC": "2026-09-15T18:20:37.9585041Z",
+    "XMLFile": "xml/application-998.xml",
+    "SHA256": "d03af6f47bec7b87ada2c6efb43b4737456685192750528317261942c5e78463"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 999,
+    "EventID": 258,
+    "UTC": "2026-09-15T18:20:39.7969208Z",
+    "XMLFile": "xml/application-999.xml",
+    "SHA256": "dab278dc7fd4dd8ff973b8ed30e58472b5b3c2c14f294b623c083705626ef23e"
+  },
+  {
+    "File": "application.evtx",
+    "RecordID": 1000,
+    "EventID": 271,
+    "UTC": "2026-09-15T18:20:41.7311327Z",
+    "XMLFile": "xml/application-1000.xml",
+    "SHA256": "d224ad55d4593342078238f1411d1be824e34ac12574e2cb0d4b377603d8ba02"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 51,
+    "EventID": 600,
+    "UTC": "2026-09-15T17:59:26.6836865Z",
+    "XMLFile": "xml/powershell_classic-51.xml",
+    "SHA256": "f7e78f0c2afcb8c9b33f056cd79134073ac4b8ffb28369e60171dc22f2188112"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 52,
+    "EventID": 600,
+    "UTC": "2026-09-15T17:59:26.6836865Z",
+    "XMLFile": "xml/powershell_classic-52.xml",
+    "SHA256": "331b49e5852e7fd4542ddd97eb9f0def5f268fb79f290e1deaf4615b0702da9f"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 53,
+    "EventID": 600,
+    "UTC": "2026-09-15T17:59:26.6836865Z",
+    "XMLFile": "xml/powershell_classic-53.xml",
+    "SHA256": "3c880401ddc8785de16c68d65c588583b599d88d76f726ba018fe4ab233b1a85"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 54,
+    "EventID": 600,
+    "UTC": "2026-09-15T17:59:26.6991721Z",
+    "XMLFile": "xml/powershell_classic-54.xml",
+    "SHA256": "c6e7bc2379a09867276963e0ed06eff7119622653f95ce4a0a5c4a1bdf574166"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 55,
+    "EventID": 600,
+    "UTC": "2026-09-15T17:59:26.6991721Z",
+    "XMLFile": "xml/powershell_classic-55.xml",
+    "SHA256": "35ba3c7d635d7f049ceb5726287d48079b150d05849ba32537eb248de05a6435"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 56,
+    "EventID": 600,
+    "UTC": "2026-09-15T17:59:26.6991721Z",
+    "XMLFile": "xml/powershell_classic-56.xml",
+    "SHA256": "c03c61db4f5917b4ce4f6e2096b3b906e094121ee4ff22421110cccb80ec46cb"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 57,
+    "EventID": 400,
+    "UTC": "2026-09-15T17:59:26.6991721Z",
+    "XMLFile": "xml/powershell_classic-57.xml",
+    "SHA256": "3672314136264ed87d092cde0d236989ce630547542da1b4a287c7b3af228583"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 58,
+    "EventID": 600,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "XMLFile": "xml/powershell_classic-58.xml",
+    "SHA256": "0f5c88d3fefa421bdff16818ffce4a0fdb1d50cd92ada5b37eea4101d7db3f83"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 59,
+    "EventID": 600,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "XMLFile": "xml/powershell_classic-59.xml",
+    "SHA256": "0c51ff43f602917d17baf143b67839a671b3d59fdb0124d3e786c5dae30ad751"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 60,
+    "EventID": 600,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "XMLFile": "xml/powershell_classic-60.xml",
+    "SHA256": "a017e79375ab41af99a627deb5dc1c2f185bad044122bdaafba7240e0610ae55"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 61,
+    "EventID": 600,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "XMLFile": "xml/powershell_classic-61.xml",
+    "SHA256": "05e8531b7e6ba5f7a7a39b664fabfcd198565c81af735dbc13e4f15a9dd42fc0"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 62,
+    "EventID": 600,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "XMLFile": "xml/powershell_classic-62.xml",
+    "SHA256": "195a88c7df830f190ef35f37097921c2d33a649e61138cb3c11138f858c9e94d"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 63,
+    "EventID": 600,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "XMLFile": "xml/powershell_classic-63.xml",
+    "SHA256": "2484021463cb5b8d04d95c07b74c7ee3ad1321b653112b4aa73f0cd077f789c7"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 64,
+    "EventID": 400,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "XMLFile": "xml/powershell_classic-64.xml",
+    "SHA256": "d32a0e5a7b8332329a120b1196118164643bf912703c8c67a9cf4eed2d7314ba"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 77,
+    "EventID": 40961,
+    "UTC": "2026-09-15T17:59:26.3740683Z",
+    "XMLFile": "xml/powershell_operational-77.xml",
+    "SHA256": "c5f975cc1945cc4f505119836087c1507619fb2dbb2e1ef418c346faaacd0ef6"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 78,
+    "EventID": 53504,
+    "UTC": "2026-09-15T17:59:26.5040539Z",
+    "XMLFile": "xml/powershell_operational-78.xml",
+    "SHA256": "1ef278ba26c6eace07202dbc5bb4d7c11b7b41fb95da5bdf0cabcda175619e99"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 79,
+    "EventID": 40962,
+    "UTC": "2026-09-15T17:59:26.9538577Z",
+    "XMLFile": "xml/powershell_operational-79.xml",
+    "SHA256": "b0ab25dd7dc0928f710ec2f614481834e38ed3228d42771267bd7a5fe35b458f"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 80,
+    "EventID": 4104,
+    "UTC": "2026-09-15T17:59:26.9667298Z",
+    "XMLFile": "xml/powershell_operational-80.xml",
+    "SHA256": "ba14e0e547e10537b4613bf4fe7238aaba24c448c2c89de82cb5c6906b6d9430"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 81,
+    "EventID": 4104,
+    "UTC": "2026-09-15T17:59:55.7378203Z",
+    "XMLFile": "xml/powershell_operational-81.xml",
+    "SHA256": "1f96b2efe48b679b45b41c5cad7a49ad9df9badca8c1b69488b2281deaad640f"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 82,
+    "EventID": 4104,
+    "UTC": "2026-09-15T17:59:56.3118694Z",
+    "XMLFile": "xml/powershell_operational-82.xml",
+    "SHA256": "b54c3b495b68f93dc095141cc119b2efb3cd14b3fca4c7dd956bf631eb0f813c"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 83,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:00:27.6838776Z",
+    "XMLFile": "xml/powershell_operational-83.xml",
+    "SHA256": "195bb06bebd1d16ee6408a9a6ee74fd4146e4aa132dbfe37217f2754413cdc4d"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 84,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:00:27.9104314Z",
+    "XMLFile": "xml/powershell_operational-84.xml",
+    "SHA256": "b0177a4b32604e2ceed4d24a4424deb92f0413a8676c28f4f59655787733e0ce"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 85,
+    "EventID": 40961,
+    "UTC": "2026-09-15T18:17:09.1848766Z",
+    "XMLFile": "xml/powershell_operational-85.xml",
+    "SHA256": "60b7db3144feaffae73d83f6708c7867057b616ad7a0fafa5f4ea199b1c8d821"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 86,
+    "EventID": 53504,
+    "UTC": "2026-09-15T18:17:09.2872693Z",
+    "XMLFile": "xml/powershell_operational-86.xml",
+    "SHA256": "0430c0a50a38d2890a7338f02d7700e2fc703e86e5026a1ba2c2a7f788bd8c7a"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 87,
+    "EventID": 40962,
+    "UTC": "2026-09-15T18:17:09.6000968Z",
+    "XMLFile": "xml/powershell_operational-87.xml",
+    "SHA256": "e1157c42006bb6364d435ca2d99074e3cd3e06a17b40cce083631b3bfa58099e"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 88,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:17:09.6090771Z",
+    "XMLFile": "xml/powershell_operational-88.xml",
+    "SHA256": "55ca2bd8792038618851b8020e34ecee07bcaaaa8659470b7d886af675402246"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 89,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:17:19.0875493Z",
+    "XMLFile": "xml/powershell_operational-89.xml",
+    "SHA256": "b592d95348344b61a7a977a9f584b1f1fa4b4a8d9e470d3cca20b13895aefb3e"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 90,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:17:19.6521555Z",
+    "XMLFile": "xml/powershell_operational-90.xml",
+    "SHA256": "7947bad37efa264ebd9e8311fe28ebfea7e9d14ddb28b77e5dc07a14bb45cf24"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 91,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:17:20.2923242Z",
+    "XMLFile": "xml/powershell_operational-91.xml",
+    "SHA256": "4386fb83fc125dc4a1cb95545e30a868d1bc886bbfafb82325ec7bf5dfa75ee1"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 92,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:17:20.4283514Z",
+    "XMLFile": "xml/powershell_operational-92.xml",
+    "SHA256": "5e0cef650639195e23395da9e51bd0d10b133cbfd5cb6b497bdb7b2a88776aa9"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 93,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:17:20.5568693Z",
+    "XMLFile": "xml/powershell_operational-93.xml",
+    "SHA256": "2f6ef61e51a99024ce769ee4da9c9468fde9f479adccc22c6124a40c4ce020c7"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 94,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:17:20.7089086Z",
+    "XMLFile": "xml/powershell_operational-94.xml",
+    "SHA256": "63878191fa864c2d34430c8d19a8edd819376f9899b7b7e2d1c370264403e4f7"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 95,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:17:41.5245015Z",
+    "XMLFile": "xml/powershell_operational-95.xml",
+    "SHA256": "6ac21db870f08aa55159b0f2ff05062864f2d495a62b6fcf66a69aa9824fe48c"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 96,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:17:41.5383611Z",
+    "XMLFile": "xml/powershell_operational-96.xml",
+    "SHA256": "1e0c40bc40adfee6286ceaf7351c4e50138983fffeb1d3f91e00730c34f1dfa5"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 97,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:18:23.1968096Z",
+    "XMLFile": "xml/powershell_operational-97.xml",
+    "SHA256": "6b8e77fb2bc5c0bbc2bd1eb7684639a85daaec734cf08a4afb82f7344602ffb8"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 98,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:18:23.2544768Z",
+    "XMLFile": "xml/powershell_operational-98.xml",
+    "SHA256": "645bd328e99d3471321bfb79aceb9259530cd7926b0e14d4a110cf5fc6be9894"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 99,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:18:23.2578310Z",
+    "XMLFile": "xml/powershell_operational-99.xml",
+    "SHA256": "6c3cb4fec6cb8dae457b6d23b12939be104bd2aefba6ec8a73b2125b8a944601"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 100,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:18:23.2729588Z",
+    "XMLFile": "xml/powershell_operational-100.xml",
+    "SHA256": "b4807ee1e4da8b7361433f4ea11c05d6860526e56445b148164fdbbf581ba425"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 101,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:18:23.2841408Z",
+    "XMLFile": "xml/powershell_operational-101.xml",
+    "SHA256": "aeb3c252df0d260053a5b6e336f2517345980984147261eb261e831c63d62e1d"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 102,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:18:23.3134950Z",
+    "XMLFile": "xml/powershell_operational-102.xml",
+    "SHA256": "0997495112080ae56ae3867aac493acc67ee293ab180f9902c0f1266f242c486"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 103,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:19:05.6904058Z",
+    "XMLFile": "xml/powershell_operational-103.xml",
+    "SHA256": "8b5cb1a4f43e88192459afa6579b9d3c4aa2ffe2d4b7cd4c2a1474b859bb4a3a"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 104,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:19:05.7489438Z",
+    "XMLFile": "xml/powershell_operational-104.xml",
+    "SHA256": "52c495ac08532c425ddcebf630b34bd7b3e1e2808e903ea29ca0e0bff64674ee"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 105,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:19:22.5134488Z",
+    "XMLFile": "xml/powershell_operational-105.xml",
+    "SHA256": "e94433c8bfe028fbb1991d8dac424bbeeac685f79a21116d352a7c0db3f9280e"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 106,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:19:22.5237362Z",
+    "XMLFile": "xml/powershell_operational-106.xml",
+    "SHA256": "226667f1b63c0a12f0050551c292c7f9e1f5eb650a23e32ebcade476b303abb4"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 107,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:19:30.2449946Z",
+    "XMLFile": "xml/powershell_operational-107.xml",
+    "SHA256": "c6562698fd57b50ec5ca099336bb0a83e12a4592b4c6310182f9584c569fdc44"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 108,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:19:30.2530274Z",
+    "XMLFile": "xml/powershell_operational-108.xml",
+    "SHA256": "6ef3a56593157c55b36c76def489f221da78da7c6a4de0234f1dff745f2d93e6"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 109,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:19:59.3820532Z",
+    "XMLFile": "xml/powershell_operational-109.xml",
+    "SHA256": "4edd6f5462ac0d11aae6adb53dae3951963df7c4e38018deb88a283c798a5686"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 110,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:19:59.4073229Z",
+    "XMLFile": "xml/powershell_operational-110.xml",
+    "SHA256": "325996fce0d97dcd85331fa7cfb6e17be3ff54b19a2dec5ad2d7323f6068fd7c"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 111,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:20:00.5347315Z",
+    "XMLFile": "xml/powershell_operational-111.xml",
+    "SHA256": "c97263cd54c3bd03faa2821a31036632c7d1c920444f5f7fbb52fa66460f85b1"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 112,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:20:00.5422096Z",
+    "XMLFile": "xml/powershell_operational-112.xml",
+    "SHA256": "7fffa6929062cf0109dc82bd9bcd62b865bded4c986b7044a0c4843029375dca"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 113,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:20:02.2162972Z",
+    "XMLFile": "xml/powershell_operational-113.xml",
+    "SHA256": "909ffa668d6c831f6ab627a1ebd1fb80dc9e84edcf32132872dfae3ca1655f13"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 114,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:20:02.2344758Z",
+    "XMLFile": "xml/powershell_operational-114.xml",
+    "SHA256": "d70443f2d1b5def23c45a15488dd55479f636c51444ac6225d1aa8aefc7869e2"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 115,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:20:03.1786511Z",
+    "XMLFile": "xml/powershell_operational-115.xml",
+    "SHA256": "9742715591128a02368c4c7c6e170b3efd8568edeb4bec7f16f32cc3d0eeb948"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 116,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:20:03.1952842Z",
+    "XMLFile": "xml/powershell_operational-116.xml",
+    "SHA256": "9dca725c9cf7ecc5da3d3eabef54bfd8ecad9097a520a3c0997e49492885d86c"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 117,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:20:05.4962033Z",
+    "XMLFile": "xml/powershell_operational-117.xml",
+    "SHA256": "bec139f48c134fcf4f2262fff03545e74da21ec62706fc7dcad6f79029d12316"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 118,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:20:05.5089355Z",
+    "XMLFile": "xml/powershell_operational-118.xml",
+    "SHA256": "a119a006be20568960c4de4da6e41a39eb8b056f47162bb2fb795ea2abdc200e"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 119,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:20:37.8588558Z",
+    "XMLFile": "xml/powershell_operational-119.xml",
+    "SHA256": "a7cc7e3e785594cc9d3137c1a0af8f836acf4445115784a0741db14e872cfdec"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 120,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:20:38.2420324Z",
+    "XMLFile": "xml/powershell_operational-120.xml",
+    "SHA256": "293083e011585047a6e8d2dd9b1db331a1151a38e6a052801071b18f90d12ba5"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 121,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:20:39.4215198Z",
+    "XMLFile": "xml/powershell_operational-121.xml",
+    "SHA256": "897ce4d950b80a7fdd37f94452e2ba8283202efb4dae082ff756ff8ab0fdbacd"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 122,
+    "EventID": 4104,
+    "UTC": "2026-09-15T18:20:39.4288920Z",
+    "XMLFile": "xml/powershell_operational-122.xml",
+    "SHA256": "044e14b24b93ca16a0a0109b423c0786cc6e971348a3574dd9579cff7cd13fa6"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4256,
+    "EventID": 4616,
+    "UTC": "2026-09-15T17:54:47.0447825Z",
+    "XMLFile": "xml/security-4256.xml",
+    "SHA256": "6a1a443d0e33667d29ab3cdc33208a3553e95812e85c28081a89b700fff360a2"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4257,
+    "EventID": 4616,
+    "UTC": "2026-09-15T17:54:47.0588892Z",
+    "XMLFile": "xml/security-4257.xml",
+    "SHA256": "0b2421b2c2c621ef2b1392f26d054aabd73f2178a8a51668bfaf2eb8f82139dd"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4258,
+    "EventID": 4648,
+    "UTC": "2026-09-15T17:54:48.8223857Z",
+    "XMLFile": "xml/security-4258.xml",
+    "SHA256": "5c2fc912f457ea72983749ce2a5b4b80b1de079adbfd296a91f9e8584ff4ec75"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4259,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:54:48.8236837Z",
+    "XMLFile": "xml/security-4259.xml",
+    "SHA256": "5ab6f8938caaaf9530b9c1e94e054cd8d53668244cf6d500e69289c31574632c"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4260,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:54:48.8254231Z",
+    "XMLFile": "xml/security-4260.xml",
+    "SHA256": "7c993d36e1f71f7e3cfe2b4b3f1597c5951ddf49beae6929c2f4be23ef86537f"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4261,
+    "EventID": 4634,
+    "UTC": "2026-09-15T17:54:48.8305547Z",
+    "XMLFile": "xml/security-4261.xml",
+    "SHA256": "824bf8a819ef912804a5c8e11c6384c578cca5adbcdb97d6655bdac27748f5cb"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4262,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:54:50.2569025Z",
+    "XMLFile": "xml/security-4262.xml",
+    "SHA256": "18f3d49172d8304a36ec43a94c63f175546a3f88640f981a94403e09279755ec"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4263,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:54:50.2569149Z",
+    "XMLFile": "xml/security-4263.xml",
+    "SHA256": "9735cbca78fb70f95cfbaedc29c5938d7393d832ffafefbfaf46c65fbb6fbc92"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4264,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:54:51.0899050Z",
+    "XMLFile": "xml/security-4264.xml",
+    "SHA256": "ac646b3b6f5d02003a431c45a61c4f0e7c9c99222cdd293ebe39392d22341b48"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4265,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:54:51.0899176Z",
+    "XMLFile": "xml/security-4265.xml",
+    "SHA256": "31deb54d3de7f4a3913f4bfbf3409dd733c3df9a49f689117d9531265889dfd2"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4266,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:55:00.2003786Z",
+    "XMLFile": "xml/security-4266.xml",
+    "SHA256": "ef16507be97a3a297a889e51bc04695c6cf9959343ac1537e557b5e6de432a71"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4267,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:55:00.2010459Z",
+    "XMLFile": "xml/security-4267.xml",
+    "SHA256": "a7de94d13cd64e05161d96f703067043e1333adee921688ebf759f23b8a20266"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4268,
+    "EventID": 4634,
+    "UTC": "2026-09-15T17:55:00.4161562Z",
+    "XMLFile": "xml/security-4268.xml",
+    "SHA256": "952cac70bf7251129bcea8c6d353c0cadc5a578311d3e83fbc1c5c36895d57d1"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4269,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:56:44.5299985Z",
+    "XMLFile": "xml/security-4269.xml",
+    "SHA256": "20fd03ed302294e4b5f4ec6f7f2903c2c6e8779236f0a5863ed9d868e7f0b150"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4270,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:56:44.5300109Z",
+    "XMLFile": "xml/security-4270.xml",
+    "SHA256": "189c379cad9c91db1909067d89a6c94982f08ed310c50e56e666f3f1d6e97925"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4271,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:56:44.7811872Z",
+    "XMLFile": "xml/security-4271.xml",
+    "SHA256": "9732c422d32069fa0195043ca28829eb7acf273919ee57dcd36b73daa614559b"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4272,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:56:44.7811999Z",
+    "XMLFile": "xml/security-4272.xml",
+    "SHA256": "1c479d576ee7c30ad78cdccfef584ae081919fabd49ff24203274146044249a6"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4273,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:56:45.5755205Z",
+    "XMLFile": "xml/security-4273.xml",
+    "SHA256": "9583e0b42c435623e673653d3e27883d2a7d469f083be143c2cb266105dbd4ee"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4274,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:56:45.5755332Z",
+    "XMLFile": "xml/security-4274.xml",
+    "SHA256": "8e9078cb566a3d547dd99dd3e132af2917767a1b74359e8438755301169407d6"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4275,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:56:46.5316102Z",
+    "XMLFile": "xml/security-4275.xml",
+    "SHA256": "834dfc3c15b3a4b485e81989dda775f0de97bf39da47f966d663b9345806df93"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4276,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:56:46.5316239Z",
+    "XMLFile": "xml/security-4276.xml",
+    "SHA256": "8b6ae4d971ac66e2087eb6cef373853c078ae18700b4980a0bc61040d7aa0018"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4277,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:56:46.6950116Z",
+    "XMLFile": "xml/security-4277.xml",
+    "SHA256": "177fd009e5d2503fa59d6d112e8dd5b4f9c8392b0a7065088268ac9eaf068ccf"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4278,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:56:46.6950240Z",
+    "XMLFile": "xml/security-4278.xml",
+    "SHA256": "554e005570a6d5ec0f266cd43fea1a95d75e3478bb187badf59b0410e3b1121f"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4279,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:56:47.1160700Z",
+    "XMLFile": "xml/security-4279.xml",
+    "SHA256": "739c415400324fe00b4a0381d2174496b146ee87f0bc221e098e450b6b542dc9"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4280,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:56:47.1160830Z",
+    "XMLFile": "xml/security-4280.xml",
+    "SHA256": "4231f46854f4ee25a313ddd90b277f62747e1f4b5e53305896a1a0f23d113b45"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4281,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:56:47.1734618Z",
+    "XMLFile": "xml/security-4281.xml",
+    "SHA256": "a027874dbdaf38c3ab10700dba216c9edd502ae4accf2c6fa01a6d9a02853e3b"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4282,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:56:47.1734742Z",
+    "XMLFile": "xml/security-4282.xml",
+    "SHA256": "b3f4c037f5cc41c1094ab1da6f1d4dc05560407e37ca3f12a985ecef8a0e80cf"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4283,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:56:47.3290652Z",
+    "XMLFile": "xml/security-4283.xml",
+    "SHA256": "ec414c08ecadeafa104acc5274e1ed64e67f6cc1373136ecb49b5545ac1042d3"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4284,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:56:47.3290783Z",
+    "XMLFile": "xml/security-4284.xml",
+    "SHA256": "579e1b7ffa340f583fa4a95e07b23da37c428267c92f6095b0e46b346ec43af1"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4285,
+    "EventID": 4799,
+    "UTC": "2026-09-15T17:56:47.6092274Z",
+    "XMLFile": "xml/security-4285.xml",
+    "SHA256": "e850c4b20d642f4bc8515d2b44980d3a360bc28f87403f2acc3213a76acb84c6"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4286,
+    "EventID": 4799,
+    "UTC": "2026-09-15T17:56:47.6129510Z",
+    "XMLFile": "xml/security-4286.xml",
+    "SHA256": "91da1386770787c74c4357cbea3859885e7c0e2f9c31d72c679c3bef54ae0582"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4287,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:56:47.6511982Z",
+    "XMLFile": "xml/security-4287.xml",
+    "SHA256": "d8a1838e8f986e94acab3cea3b5d4601cbe9e55cea32c45f8c32370c69935bfc"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4288,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:56:47.6512106Z",
+    "XMLFile": "xml/security-4288.xml",
+    "SHA256": "f1060e16824e1b64a54ab60a6df05f645ea5d7f827c68804c753a66a46e57923"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4289,
+    "EventID": 4799,
+    "UTC": "2026-09-15T17:56:47.8807674Z",
+    "XMLFile": "xml/security-4289.xml",
+    "SHA256": "e5bc46d8589c767dc13f7dc0e28c64f6ced944ffa1f5358037aaec28dff73694"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4290,
+    "EventID": 4799,
+    "UTC": "2026-09-15T17:56:47.8844138Z",
+    "XMLFile": "xml/security-4290.xml",
+    "SHA256": "896f6e69ba42f7f6e1778f7969c846dda5c6f3b44f1288f17925e37044aa62da"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4291,
+    "EventID": 4799,
+    "UTC": "2026-09-15T17:56:48.0570797Z",
+    "XMLFile": "xml/security-4291.xml",
+    "SHA256": "fffa0405e75743646009ea76bc88b9935f81d311f130a609395a580c404c236f"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4292,
+    "EventID": 4799,
+    "UTC": "2026-09-15T17:56:48.0596167Z",
+    "XMLFile": "xml/security-4292.xml",
+    "SHA256": "ef91ee73324d718d5a94af6b89a22f0fb4ba190a130dc84a600bbc2e48df7129"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4293,
+    "EventID": 4799,
+    "UTC": "2026-09-15T17:56:48.1749596Z",
+    "XMLFile": "xml/security-4293.xml",
+    "SHA256": "843f4535c13627a4365a6c304c85dac63e92dc60919023b1582084dbb3430205"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4294,
+    "EventID": 4799,
+    "UTC": "2026-09-15T17:56:48.1786959Z",
+    "XMLFile": "xml/security-4294.xml",
+    "SHA256": "59f37c44a13968bdf48557fc7813325140d2ac4b3cb137030027d52cbf2d1b1c"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4295,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:56:50.3705686Z",
+    "XMLFile": "xml/security-4295.xml",
+    "SHA256": "492b26c28851b3a8108305672d118b114bb15956af92020bc7ba725ee0cd8c50"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4296,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:56:50.3705819Z",
+    "XMLFile": "xml/security-4296.xml",
+    "SHA256": "e6e20b3941b41505d4a7710895fea1e00b7558c844ee4df11979ae080c354ab4"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4297,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:56:53.4216036Z",
+    "XMLFile": "xml/security-4297.xml",
+    "SHA256": "f19ef204ad1bc9aad40d763ff0d6c04e061ffb23633b20e79180c630631c8d3a"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4298,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:56:53.4216273Z",
+    "XMLFile": "xml/security-4298.xml",
+    "SHA256": "7b9025f00f527412c702af7463b96afb36ccf865d75b54f8e22570df9720bce7"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4299,
+    "EventID": 4799,
+    "UTC": "2026-09-15T17:58:54.5300442Z",
+    "XMLFile": "xml/security-4299.xml",
+    "SHA256": "bf066ef879fdbaaf5e9520c3d5eb93bc110c193de685748ad03aa7b9420db729"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4300,
+    "EventID": 4799,
+    "UTC": "2026-09-15T17:58:54.5300442Z",
+    "XMLFile": "xml/security-4300.xml",
+    "SHA256": "d3ec928fe0e3f33bc4143aad003490818b496d4c5db4cbc465c2521cad0e23de"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4301,
+    "EventID": 4648,
+    "UTC": "2026-09-15T17:59:00.7259931Z",
+    "XMLFile": "xml/security-4301.xml",
+    "SHA256": "a58d8f134f4a1de0c5678cf2cd5414b783fc122c6685600bd16b75fb71be7f8e"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4302,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:59:00.7261091Z",
+    "XMLFile": "xml/security-4302.xml",
+    "SHA256": "04e18e55d734f9fa3119878d2d626de075ca1e501920d17a5c311be4f96d1544"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4303,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:59:00.7261328Z",
+    "XMLFile": "xml/security-4303.xml",
+    "SHA256": "823091100b3e1d2400310639cad19abeb0884ce42586d56b41a85e730b7d17b3"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4304,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:59:03.9262728Z",
+    "XMLFile": "xml/security-4304.xml",
+    "SHA256": "501b6dbcbc5eb54656876c34de2fcf9462653e0b159ff1137a3fd26f962cefda"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4305,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:59:03.9262848Z",
+    "XMLFile": "xml/security-4305.xml",
+    "SHA256": "d3dba454579664a8747bef30eef00cc1c5f635a96cc1c96bc812bec1e177de07"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4306,
+    "EventID": 4799,
+    "UTC": "2026-09-15T17:59:18.6134128Z",
+    "XMLFile": "xml/security-4306.xml",
+    "SHA256": "7e83a6d7ccdbdaec8991ed8642bf4f3a789141c8409a84bb89c154f70889212d"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4307,
+    "EventID": 4799,
+    "UTC": "2026-09-15T17:59:18.6144002Z",
+    "XMLFile": "xml/security-4307.xml",
+    "SHA256": "487ac8176c7f8a42c495337f15b2f56b1669e1d834cc2a3dc54fefdb95cd5b86"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4308,
+    "EventID": 4648,
+    "UTC": "2026-09-15T17:59:24.8417222Z",
+    "XMLFile": "xml/security-4308.xml",
+    "SHA256": "c5656a146833dcbb8d5e6c7f299260b79b10942021d4116ed116a1b2ca468427"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4309,
+    "EventID": 4624,
+    "UTC": "2026-09-15T17:59:24.8417867Z",
+    "XMLFile": "xml/security-4309.xml",
+    "SHA256": "88631ef88ed2b93fa12149bb6e2887ac5df7efa10d06de6da844febef51eda07"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4310,
+    "EventID": 4672,
+    "UTC": "2026-09-15T17:59:24.8417997Z",
+    "XMLFile": "xml/security-4310.xml",
+    "SHA256": "97e2867f9a1813806f2cf221f74fe80fc28b159b536e2e9cda84ad2a8804d35c"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4311,
+    "EventID": 5889,
+    "UTC": "2026-09-15T18:00:54.5766276Z",
+    "XMLFile": "xml/security-4311.xml",
+    "SHA256": "9be2cb3ed14447c99bbe9613479583ff0eb923b104dcc6ad968e8d95754b45e9"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4312,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:00:55.1091337Z",
+    "XMLFile": "xml/security-4312.xml",
+    "SHA256": "6cc15c89753b18937e56e1c6a3d343ea55029562d462c4a3969c4fd6f734f3a2"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4313,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:01:21.9047038Z",
+    "XMLFile": "xml/security-4313.xml",
+    "SHA256": "cbc1ed7af13f6cd6cde1321ce99974cf0e48711a93ea31bd320fe353875e766c"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4314,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:01:21.9047169Z",
+    "XMLFile": "xml/security-4314.xml",
+    "SHA256": "b9b6381dd4cc40e0e4adaee86d717a257251c6d053834fce261969b0a0e26c95"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4315,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:27.2964944Z",
+    "XMLFile": "xml/security-4315.xml",
+    "SHA256": "881e18bbc2ff6168705dd604e1a4d4a0944760b7d766fa7d52e23e9f70a36ff2"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4316,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:01:34.1557104Z",
+    "XMLFile": "xml/security-4316.xml",
+    "SHA256": "eb2c297292aa5ef2ae81f2e632d7c0550caa27d1221edff70cdd38f2fc6f66f9"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4317,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:01:34.1557227Z",
+    "XMLFile": "xml/security-4317.xml",
+    "SHA256": "4919e206ada7ceb8a604ecb5a4c1d402998850851082b2984d7c3fd0bbc21e59"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4318,
+    "EventID": 5890,
+    "UTC": "2026-09-15T18:01:42.5034904Z",
+    "XMLFile": "xml/security-4318.xml",
+    "SHA256": "68af91377d961ea8956d11d8ee39915f3ea7e167f199d24e85600749d234f9b5"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4319,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:43.1917767Z",
+    "XMLFile": "xml/security-4319.xml",
+    "SHA256": "f9b20aa44d84e71e0dcc2927423d2d1fa45b959b4e2fc022d2bd99be2fc1341c"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4320,
+    "EventID": 5890,
+    "UTC": "2026-09-15T18:01:43.7084148Z",
+    "XMLFile": "xml/security-4320.xml",
+    "SHA256": "ee02155c234a8b192ba5a0959b0717166eb2a3c82430523495a9de9dbcc20398"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4321,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:44.0418662Z",
+    "XMLFile": "xml/security-4321.xml",
+    "SHA256": "9a8264bd9dd2ae4d71e5989c2c4e5bb2b1c205eae5e78f5aa2152e3c84423cb7"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4322,
+    "EventID": 5890,
+    "UTC": "2026-09-15T18:01:44.2258056Z",
+    "XMLFile": "xml/security-4322.xml",
+    "SHA256": "4de7d14d6b741e40f3e235593094d0dfb74e364008b33a4897b978b6fb6dd6eb"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4323,
+    "EventID": 5890,
+    "UTC": "2026-09-15T18:01:44.2261247Z",
+    "XMLFile": "xml/security-4323.xml",
+    "SHA256": "7bcd1e45872a91d221bb6414a1f5275477af49877cee352b3b185a93e0a15057"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4324,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:44.8122804Z",
+    "XMLFile": "xml/security-4324.xml",
+    "SHA256": "54c0e0a938e53ac1b4a1852e56a6d260de6339de4479d46a94398a3d2c0f9dbc"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4325,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:51.3743801Z",
+    "XMLFile": "xml/security-4325.xml",
+    "SHA256": "db3801d467c0811ceaa3b57fb686a08a6a9e08f1514e16b1a1c530dc2ae029eb"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4326,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:56.0541281Z",
+    "XMLFile": "xml/security-4326.xml",
+    "SHA256": "b63bc1433380cdb5e7e8770151bf41d5f5277a98091c21c832c7d39e9ad52c8e"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4327,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:56.0564730Z",
+    "XMLFile": "xml/security-4327.xml",
+    "SHA256": "17c721405e32b479059bcca7e7e5bde80220125466a6a6ab90513a8845a72e1f"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4328,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:56.0566564Z",
+    "XMLFile": "xml/security-4328.xml",
+    "SHA256": "57e6c39a5be4df02b63032512eca35d5ee991df3e442f1514c5831fa555a1c3e"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4329,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:56.0583694Z",
+    "XMLFile": "xml/security-4329.xml",
+    "SHA256": "887204fe015757defa124577c3583d9ce7192dfa98b7b179139c9ac4be1931a5"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4330,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:56.0585986Z",
+    "XMLFile": "xml/security-4330.xml",
+    "SHA256": "346839f97444cafd2d8b403905a905adbcf44fe2a8a9624152d5b4347e52ddd7"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4331,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:56.0602267Z",
+    "XMLFile": "xml/security-4331.xml",
+    "SHA256": "56b60c4ddf49eef499d64f87bead4c2328df72abc80ae790e75e56e977d3a7b0"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4332,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:56.0604740Z",
+    "XMLFile": "xml/security-4332.xml",
+    "SHA256": "7627140896419448403223acc717a685a5bb13f95591860f657cd43a059fc461"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4333,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:56.0620101Z",
+    "XMLFile": "xml/security-4333.xml",
+    "SHA256": "7d4d6cc51695d9d96b9bfff5429a98bcf888a641c82539e24828e565be3be785"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4334,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:56.0624171Z",
+    "XMLFile": "xml/security-4334.xml",
+    "SHA256": "e0b21dd74a4b37e7d01b2106b156b27b68db7d5404d1613bd076874672bb3101"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4335,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:01:56.0635376Z",
+    "XMLFile": "xml/security-4335.xml",
+    "SHA256": "fcf4edddb3c439f643140ff0f3640bcc45a5acdea86d2ae6f2ec1c6b49d7623a"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4336,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:01:59.0265613Z",
+    "XMLFile": "xml/security-4336.xml",
+    "SHA256": "0804007829ad2708dad5ead9ec5566f9833252093af3ec33adb6d1b5128add6a"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4337,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:01:59.0265736Z",
+    "XMLFile": "xml/security-4337.xml",
+    "SHA256": "5149df786219c34aead63d2a8920715af1c9a81451c8f415918a92bd6c751fb0"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4338,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:02:02.8499441Z",
+    "XMLFile": "xml/security-4338.xml",
+    "SHA256": "f19bd1203c1b90c89d9caadae1272b1d689472fe8adcfd912473d8893865d5a5"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4339,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:02:02.8499568Z",
+    "XMLFile": "xml/security-4339.xml",
+    "SHA256": "2a08f72ba95e046335de53e0292ad371b4134e46e01153e56b1e2741d1725aa5"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4340,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:02:03.5909630Z",
+    "XMLFile": "xml/security-4340.xml",
+    "SHA256": "e5eac7062ed94c6c4fa66c3c89cc72267c89a866fc6ba85c2a4b7838f7affc5b"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4341,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:02:03.5909764Z",
+    "XMLFile": "xml/security-4341.xml",
+    "SHA256": "f5809a3f99d2fc1749dc427358b88373f8e5a9db67494385fb989dd34113e48c"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4342,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:04:08.6463904Z",
+    "XMLFile": "xml/security-4342.xml",
+    "SHA256": "9632510e6551a698b53c132a3146299e3be65e06f29ee28d197cc856bc224b2c"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4343,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:04:08.6464028Z",
+    "XMLFile": "xml/security-4343.xml",
+    "SHA256": "231da2a0502d4bf6c58fabe1648befa76a06e2b1029c1897cae8b1441f4f6047"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4344,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:04:09.2440899Z",
+    "XMLFile": "xml/security-4344.xml",
+    "SHA256": "10414097370ca9dd0139cbfa22d7d27da6801751abacc4ad60c4c8513f7186d1"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4345,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:04:09.2441016Z",
+    "XMLFile": "xml/security-4345.xml",
+    "SHA256": "f80c053a35038209b2593ec22f3644d751b0cd555971351ead67252a3f221697"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4346,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:05:51.8488033Z",
+    "XMLFile": "xml/security-4346.xml",
+    "SHA256": "e606a3d985b800ca9e4a25292d085f00d523a7b85d21d306850338c21a946921"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4347,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:05:51.8488157Z",
+    "XMLFile": "xml/security-4347.xml",
+    "SHA256": "ed8023591212d81d12b5a87f274fa38bb31222a7087ee114f2544c95b52bdc33"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4348,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:07:29.9590525Z",
+    "XMLFile": "xml/security-4348.xml",
+    "SHA256": "1ff9450d323ce8f4e001280667f07257431445f3c754952c9215a2e88a2f91d0"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4349,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:07:29.9590658Z",
+    "XMLFile": "xml/security-4349.xml",
+    "SHA256": "29ec8cd1628182414bce13a7d74b536f21994ca83c98ac150f81da9c9e785fef"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4350,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:10:30.5031341Z",
+    "XMLFile": "xml/security-4350.xml",
+    "SHA256": "5b05cfaf486e6d7e62c26ebe6718f3d1413517e8a799eea44e2a5bfefa6dd975"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4351,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:10:30.5233240Z",
+    "XMLFile": "xml/security-4351.xml",
+    "SHA256": "ca4064fefbb4107edd56cc8f2201f3625286cebdb9536c19c559ab4570d7b715"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4352,
+    "EventID": 4634,
+    "UTC": "2026-09-15T18:10:30.5422801Z",
+    "XMLFile": "xml/security-4352.xml",
+    "SHA256": "7f9ae17cdd0216384ea2f4e20f06aadf07a5f5e759cfa1d260f09d68f47cd243"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4353,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:10:30.6298902Z",
+    "XMLFile": "xml/security-4353.xml",
+    "SHA256": "f1e4d8b3e34c68d4b87e4658d964e1bb915397b29e0b10c8f957e4306d1e0f9d"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4354,
+    "EventID": 4634,
+    "UTC": "2026-09-15T18:10:30.6518798Z",
+    "XMLFile": "xml/security-4354.xml",
+    "SHA256": "a2a1faf76eaaf218f01f19bdff851316ba451a35b1bbbfc5b0f02e1c17d69ff1"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4355,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:10:30.7394159Z",
+    "XMLFile": "xml/security-4355.xml",
+    "SHA256": "194ee92e7a9638859647d256928664e11d119a5fab35f6f5a77fbad933b0c7d1"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4356,
+    "EventID": 4634,
+    "UTC": "2026-09-15T18:10:30.7617092Z",
+    "XMLFile": "xml/security-4356.xml",
+    "SHA256": "7e770e7e4ddd115819115561f4e7ab30396f815528cb1bc910a283b4e4d05cc5"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4357,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:10:30.8474889Z",
+    "XMLFile": "xml/security-4357.xml",
+    "SHA256": "d66d3e5553a28a51c92b503231c9724a19f6d74fbf63fd88a2b537421128c8e1"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4358,
+    "EventID": 4634,
+    "UTC": "2026-09-15T18:10:30.8971599Z",
+    "XMLFile": "xml/security-4358.xml",
+    "SHA256": "f5496b16df529b062842740ddc978d5277792abaa14fcb9ee97f85327511bd84"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4359,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:10:30.9601056Z",
+    "XMLFile": "xml/security-4359.xml",
+    "SHA256": "bce5f56348c801a9b2c25a00d8cb966a088c9ac6e4139859aa3a4d0b583dec7e"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4360,
+    "EventID": 4634,
+    "UTC": "2026-09-15T18:10:31.0050673Z",
+    "XMLFile": "xml/security-4360.xml",
+    "SHA256": "a4f200cdb776def22a4b58d5db8c750acdbed59a7a67f25ecb72745c37ae5b64"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4361,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:10:31.0688838Z",
+    "XMLFile": "xml/security-4361.xml",
+    "SHA256": "98db0d543ecfe88f7b073d057cc6504560edcee9a1aba071eb148f692d68186a"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4362,
+    "EventID": 4634,
+    "UTC": "2026-09-15T18:10:31.1126461Z",
+    "XMLFile": "xml/security-4362.xml",
+    "SHA256": "f100cd3c319efff99c9b41d77079159b634d4eb34d0088cc6ddfe35aa86984b1"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4363,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:10:31.1787753Z",
+    "XMLFile": "xml/security-4363.xml",
+    "SHA256": "649a33765f374fbde6ff32fff382f5134b344f763511fad037dc4524badaad26"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4364,
+    "EventID": 4634,
+    "UTC": "2026-09-15T18:10:31.2227689Z",
+    "XMLFile": "xml/security-4364.xml",
+    "SHA256": "83845c7b70d66a3849f0957b7309f874393229741937df3b3bf35373b219e420"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4365,
+    "EventID": 4634,
+    "UTC": "2026-09-15T18:10:41.2437988Z",
+    "XMLFile": "xml/security-4365.xml",
+    "SHA256": "c31940987651c9cb5e452071dac3c013dc64d5cd7efe1dba71db073789ea57ce"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4366,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:11:04.8735673Z",
+    "XMLFile": "xml/security-4366.xml",
+    "SHA256": "9347a4348002bb976e900aac5a10829e6fc9f45c3044b73deb3df2a5b9c4cc29"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4367,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:11:04.8735804Z",
+    "XMLFile": "xml/security-4367.xml",
+    "SHA256": "948fca3a276bedf2cdb719d87563a266e50489b8e8c852f6fe401cdeb7ecc027"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4368,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:11:57.5546754Z",
+    "XMLFile": "xml/security-4368.xml",
+    "SHA256": "73b1c1ff685413d1ca48f56ff90bb6e098cd9e807c16f12b0886c112d3b4210c"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4369,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:11:57.5643605Z",
+    "XMLFile": "xml/security-4369.xml",
+    "SHA256": "43b9bb5bff252b82617d44cfc23b6d02f03855dfa03fa758913cd026e86213f7"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4370,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:11:57.5736469Z",
+    "XMLFile": "xml/security-4370.xml",
+    "SHA256": "79628d8d7a3cba1e5bec4b6bac1aa3f42a0fd2c9dbc22b7d575bdfe61b0d314c"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4371,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:11:57.5810453Z",
+    "XMLFile": "xml/security-4371.xml",
+    "SHA256": "6fc5291379f18c11c28bcd644f035b93993581fc6e72d050adc85821ac190bf5"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4372,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:11:57.5889700Z",
+    "XMLFile": "xml/security-4372.xml",
+    "SHA256": "8d1842f27df8268ef1e37517df64c4c2a15e49a07e50ee425937bb38875b209a"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4373,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:12:28.0566498Z",
+    "XMLFile": "xml/security-4373.xml",
+    "SHA256": "89ae5e30c2b270e17e01a7ec09880665492958b748ac75ca493cfae928ffecff"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4374,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:12:37.5669748Z",
+    "XMLFile": "xml/security-4374.xml",
+    "SHA256": "21a3c05bd93bae5cd3347fc8128e48d37946c1d42b3bb260f5babe22d08b6fd3"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4375,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:12:51.4330157Z",
+    "XMLFile": "xml/security-4375.xml",
+    "SHA256": "9a620ac9cf6a2e74fddd185f38f4712da738289e83c187ebcaf068bf39cfc83d"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4376,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:12:51.4402677Z",
+    "XMLFile": "xml/security-4376.xml",
+    "SHA256": "796d6236efacf5bc87481e3222672d2a42f3e2f578de74b67df6cb4d8b53c3de"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4377,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:12:51.4475294Z",
+    "XMLFile": "xml/security-4377.xml",
+    "SHA256": "883b96775bc0ec1f4d917e1629c11d70cc79c76774b0d5c09dfec4106f4a2da5"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4378,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:12:51.4545858Z",
+    "XMLFile": "xml/security-4378.xml",
+    "SHA256": "bfbd653076d7e9bfdc8087a05943e50dbab1ffbff14b00fe53e17bf674995977"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4379,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:12:51.4637846Z",
+    "XMLFile": "xml/security-4379.xml",
+    "SHA256": "3d610adef068e881a0456684eafe57b3eb29247fba7e7cad04eba9d8251cbb78"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4380,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:12:51.4814210Z",
+    "XMLFile": "xml/security-4380.xml",
+    "SHA256": "5a7ddbda5fae90b720471d04328963e948e460bc7050e62b45fe731939509bb4"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4381,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:12:51.5308139Z",
+    "XMLFile": "xml/security-4381.xml",
+    "SHA256": "d66fbb1f7f7bd3279f2a2548f5efdeb8ae7f3d0d391e984152ca034003b1b078"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4382,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:12:51.5531843Z",
+    "XMLFile": "xml/security-4382.xml",
+    "SHA256": "3d99f492b51076931945d3d1f9bfe959b8cac693a775bee4c4fb019fafccd124"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4383,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:12:51.5713274Z",
+    "XMLFile": "xml/security-4383.xml",
+    "SHA256": "a988d3737ca7e88fb1b124ebd072fc072efc51112a51851a601abda3ce954702"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4384,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:12:51.5896327Z",
+    "XMLFile": "xml/security-4384.xml",
+    "SHA256": "09b183b6568a2c5a6742372185f8e145fe7ce1a4d2a55b7d77d9aaf4cf1f5afd"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4385,
+    "EventID": 4797,
+    "UTC": "2026-09-15T18:12:51.6309781Z",
+    "XMLFile": "xml/security-4385.xml",
+    "SHA256": "02f794b474e4a9e305b195d20e5a1f8342213ea3d46f0e62462928ac1839a766"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4386,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:12:59.2355728Z",
+    "XMLFile": "xml/security-4386.xml",
+    "SHA256": "fec440e51a35b967626ebf35d5f624114c9f86162ac6be91ba627a3817f9d5fe"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4387,
+    "EventID": 4648,
+    "UTC": "2026-09-15T18:13:02.2662576Z",
+    "XMLFile": "xml/security-4387.xml",
+    "SHA256": "a2f84b63219eca48a7e1454419b87340b9bb41201517fd367bc27b3f99be72ff"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4388,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:13:02.2663404Z",
+    "XMLFile": "xml/security-4388.xml",
+    "SHA256": "c97794ca84eceda04b2e8ab8fe1e1d099f6b6c80581c469a983282d31b49a58e"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4389,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:13:02.2663536Z",
+    "XMLFile": "xml/security-4389.xml",
+    "SHA256": "0a821055d339cffe7aa6e91ae5367607a0dee7d3b669c3b66402145c9d883d0c"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4390,
+    "EventID": 4648,
+    "UTC": "2026-09-15T18:13:02.3278094Z",
+    "XMLFile": "xml/security-4390.xml",
+    "SHA256": "3530438d66a63a5ee3f95243c6500dfb339c83faaa02c4f05d8b8e0a33b07836"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4391,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:13:02.3278429Z",
+    "XMLFile": "xml/security-4391.xml",
+    "SHA256": "aa3fd4528581ea7f70c6487ed147ff56706535ac512d0302377954fe346f7774"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4392,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:13:02.3278548Z",
+    "XMLFile": "xml/security-4392.xml",
+    "SHA256": "6c63c82586f39d823abbfb418b877415042dbf1ecaa506a5a2b140c344a7a717"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4393,
+    "EventID": 4634,
+    "UTC": "2026-09-15T18:13:02.3375732Z",
+    "XMLFile": "xml/security-4393.xml",
+    "SHA256": "964241836d2494b668c4c15e5dcd898a1b1b4e72b29ba88bff456d85d08bec18"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4394,
+    "EventID": 4634,
+    "UTC": "2026-09-15T18:13:02.3705284Z",
+    "XMLFile": "xml/security-4394.xml",
+    "SHA256": "0997e009aad0623ba421eea31b444f3272744a661ba4f1a9c0691f7f75831ed3"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4395,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:14:05.3359344Z",
+    "XMLFile": "xml/security-4395.xml",
+    "SHA256": "86d010e144ee2d118124db1b51b7288370d9405d8818534eaece3198645c632a"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4396,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:15:09.9744733Z",
+    "XMLFile": "xml/security-4396.xml",
+    "SHA256": "df6f5a0546c22696b0fda439b7f5fcdd872ab55c1c7957d3adc0b2dfa4de79b3"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4397,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:15:14.4260463Z",
+    "XMLFile": "xml/security-4397.xml",
+    "SHA256": "d48c9dd6c5f4f72c18024d4c08203b7cd051281d4628e84b83e7be5ea275ee71"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4398,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:15:20.0757399Z",
+    "XMLFile": "xml/security-4398.xml",
+    "SHA256": "fe2a3e27a8f6b37d846b6507d8d768bd41283c111889cacbfee1df380994b532"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4399,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:15:20.0757528Z",
+    "XMLFile": "xml/security-4399.xml",
+    "SHA256": "ff2c7bed12546a1a33a53fb9c8369074314a13d184bddf94a75777dc77f201ee"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4400,
+    "EventID": 4798,
+    "UTC": "2026-09-15T18:15:43.3645377Z",
+    "XMLFile": "xml/security-4400.xml",
+    "SHA256": "e3d7de03355d97617efd0db3d84d36486b048f2a6492aef78b12969fce541320"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4401,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:17:20.2687147Z",
+    "XMLFile": "xml/security-4401.xml",
+    "SHA256": "5048a723957c784464e1bfd856fdb528706413cde89f7144a32c144b9daaa8e0"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4402,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:17:20.2687277Z",
+    "XMLFile": "xml/security-4402.xml",
+    "SHA256": "6881e2e43985a6d4f58168156127fcb967051627afb57d5d8d11c96aea70f871"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4403,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:17:20.4596829Z",
+    "XMLFile": "xml/security-4403.xml",
+    "SHA256": "f99ab05a9b2097dd64c86df7b43973da393134bb60494b0491d1c2dd05145108"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4404,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:17:20.4631195Z",
+    "XMLFile": "xml/security-4404.xml",
+    "SHA256": "49b86ebef5a0a816c4b8f62d0781949a6630de6ddb1300f1ff6f1a5936228d13"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4405,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:17:20.5674969Z",
+    "XMLFile": "xml/security-4405.xml",
+    "SHA256": "2c0b170ac7eed644bcfaa86287d353f13bd61927dd4c13ceba13a2c1d6ba66a1"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4406,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:17:20.5702984Z",
+    "XMLFile": "xml/security-4406.xml",
+    "SHA256": "05413425fd1331ed61edb6418712e3dd87655d67e2fd7cea21d27c82dd80c2f5"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4407,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:17:20.6341042Z",
+    "XMLFile": "xml/security-4407.xml",
+    "SHA256": "9f85beb3f0e4c65b3e6caee77837c378512f1df5c493e432320be905302563c9"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4408,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:17:20.6365558Z",
+    "XMLFile": "xml/security-4408.xml",
+    "SHA256": "756269fab80bca00c86be7a6e6aaa55c2c4ee69ad337adf012ebb12869f683dc"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4409,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:17:20.7013901Z",
+    "XMLFile": "xml/security-4409.xml",
+    "SHA256": "3c59f5bbcc2491f631518365fa403a5add1a9758751539e79a5196dd0f2219b0"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4410,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:17:20.7043559Z",
+    "XMLFile": "xml/security-4410.xml",
+    "SHA256": "c0af8225a4ea383f23458de650a9afde5e1e99b23f78c087fc84478071a70cd6"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4411,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:17:40.9989184Z",
+    "XMLFile": "xml/security-4411.xml",
+    "SHA256": "5e736767fa31674f527b7a06206eeed9356627e8c1cfec63fe3f19172a25d72d"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4412,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:17:40.9989394Z",
+    "XMLFile": "xml/security-4412.xml",
+    "SHA256": "ee22db2fab7e1c332010fab4872f98434dee8bc4fc3ee03fa8dff5a373a73bc7"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4413,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:19:47.8590435Z",
+    "XMLFile": "xml/security-4413.xml",
+    "SHA256": "8b364efe1709f74a57ffd63f951cf7211df7ec65778549d3b663b0550287cc0c"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4414,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:19:47.8590572Z",
+    "XMLFile": "xml/security-4414.xml",
+    "SHA256": "2ce59ce1b12fe9ce3a13f1a7739e67507d4d71481392e65fe47581f4c1794fc2"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4415,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:19:48.7451562Z",
+    "XMLFile": "xml/security-4415.xml",
+    "SHA256": "ffa5ba14f930dcb4e2e5e1fda73473eeea05d274bbedf4104c70724cc80f354c"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4416,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:19:48.7451695Z",
+    "XMLFile": "xml/security-4416.xml",
+    "SHA256": "853a04800ccebd95871bb09173ad4570d289cdb4b7a8781948213d03716bbc22"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4417,
+    "EventID": 4624,
+    "UTC": "2026-09-15T18:20:38.5740056Z",
+    "XMLFile": "xml/security-4417.xml",
+    "SHA256": "e3ab22b472feeb8e9b16cd8dffd1b3614b5f0b43bb9980259717e2d3ff65c894"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4418,
+    "EventID": 4672,
+    "UTC": "2026-09-15T18:20:38.5740180Z",
+    "XMLFile": "xml/security-4418.xml",
+    "SHA256": "bd1cf92f5d93da2925e6002e3456ba36aed4784213dd81d838e8d9d19c08fe2e"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4419,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:20:38.7304354Z",
+    "XMLFile": "xml/security-4419.xml",
+    "SHA256": "951d8abbc28f80e500f002c4e8601df7573d8401b8dbd9b2ab9d82ad4d0691f4"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4420,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:20:38.7337789Z",
+    "XMLFile": "xml/security-4420.xml",
+    "SHA256": "962a0a7da5d21c622d1882bc9176ed1a7c3583688337318f58288d804b5f434c"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4421,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:20:38.8104718Z",
+    "XMLFile": "xml/security-4421.xml",
+    "SHA256": "b13bb3677dcd13a8be78be136d95c83c1f9b8ac93f9ff388a72b078a2887deb0"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4422,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:20:38.8127303Z",
+    "XMLFile": "xml/security-4422.xml",
+    "SHA256": "1f8a5c6f18c214dc18b883c38f86c456275c2f5099dc0c288a59a0342a80ce4b"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4423,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:20:38.8672669Z",
+    "XMLFile": "xml/security-4423.xml",
+    "SHA256": "2a1f9a0de717596d8144cc7bccb7f35bc9e1f19cf91f84957f15ed94ef86d9c8"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4424,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:20:38.8696413Z",
+    "XMLFile": "xml/security-4424.xml",
+    "SHA256": "0312583290f876ddf0ea8c057bcecdbc5be1c46c207c1faa41e37c0998b8ca3e"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4425,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:20:38.9215869Z",
+    "XMLFile": "xml/security-4425.xml",
+    "SHA256": "54b427761b635ed9ff5351cad36494da4810794d7a3db821a0a8c09d80db0b4e"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4426,
+    "EventID": 4799,
+    "UTC": "2026-09-15T18:20:38.9244238Z",
+    "XMLFile": "xml/security-4426.xml",
+    "SHA256": "d5382ea0b45479815b96a07483ba3285f2c8ceccbdf2180869aceab4c3cfbd93"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1427,
+    "EventID": 6013,
+    "UTC": "2026-09-15T17:54:47.0715717Z",
+    "XMLFile": "xml/system-1427.xml",
+    "SHA256": "c7e0fc84e65972a72acee91f995a9a80d2285d6d28d3a3cedc0e27f83dd885e1"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1428,
+    "EventID": 1,
+    "UTC": "2026-09-15T17:54:47.0447482Z",
+    "XMLFile": "xml/system-1428.xml",
+    "SHA256": "abbec054c18d8bffb8a6a70be688a30a8f06b866e43b128d9c1c54c360e71ca9"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1429,
+    "EventID": 52,
+    "UTC": "2026-09-15T17:54:47.0456892Z",
+    "XMLFile": "xml/system-1429.xml",
+    "SHA256": "517fd87ee2c9eef50671b07dc77135a2da751b68d729fa458e7e372027ebb43a"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1430,
+    "EventID": 1,
+    "UTC": "2026-09-15T17:54:47.0587786Z",
+    "XMLFile": "xml/system-1430.xml",
+    "SHA256": "ad3c08f1b1a362fbe2b6aab2508a0cfe3a7cfa41ee4a7406c17f942c9327bfc8"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1431,
+    "EventID": 1501,
+    "UTC": "2026-09-15T17:54:49.4925252Z",
+    "XMLFile": "xml/system-1431.xml",
+    "SHA256": "17dda09ed2a1cfd9c0d236792b86f3462937fbb56ad9e667b8844439b1f78806"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1432,
+    "EventID": 1501,
+    "UTC": "2026-09-15T17:55:00.6963931Z",
+    "XMLFile": "xml/system-1432.xml",
+    "SHA256": "146cca20781418beaa1f2e06e38b5417c541da272b5d07d73a79660d8611d66f"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1433,
+    "EventID": 1500,
+    "UTC": "2026-09-15T17:55:00.8701427Z",
+    "XMLFile": "xml/system-1433.xml",
+    "SHA256": "cc75ad654907baa03eb9990d01cf3f44c331d4f1913aa90af9c870d65c5a3eee"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1434,
+    "EventID": 16,
+    "UTC": "2026-09-15T17:56:46.5448488Z",
+    "XMLFile": "xml/system-1434.xml",
+    "SHA256": "a530589c867134f282a1faab2ded4173d4bb1c716ebb4024bd740773cb29d885"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1435,
+    "EventID": 22,
+    "UTC": "2026-09-15T17:56:59.6818315Z",
+    "XMLFile": "xml/system-1435.xml",
+    "SHA256": "b5ba40c4a9b843893b85c5440d39dde23c5743927974df041bd1602c4c80ef57"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1436,
+    "EventID": 105,
+    "UTC": "2026-09-15T17:57:14.8202137Z",
+    "XMLFile": "xml/system-1436.xml",
+    "SHA256": "7965c976c769b20bb06e87fd9740208bac25c9e26b3565c578102b6e99206a72"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1437,
+    "EventID": 12,
+    "UTC": "2026-09-15T18:00:56.0595614Z",
+    "XMLFile": "xml/system-1437.xml",
+    "SHA256": "6c0d540e3cf6c3248953a81d778d9fff58809d0bd3391196b1dfd94997173e39"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1438,
+    "EventID": 12,
+    "UTC": "2026-09-15T18:00:56.2091711Z",
+    "XMLFile": "xml/system-1438.xml",
+    "SHA256": "139aaff0f81ea5caeec051a3442bf72d86ef8a6f88dbbfdec6a49475d15bece8"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1439,
+    "EventID": 12,
+    "UTC": "2026-09-15T18:00:56.3421092Z",
+    "XMLFile": "xml/system-1439.xml",
+    "SHA256": "6d6519ad099158670fbdff8bdf1fb0b81a556f1c652cf0555406d0517ef6966a"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1440,
+    "EventID": 12,
+    "UTC": "2026-09-15T18:00:56.4773945Z",
+    "XMLFile": "xml/system-1440.xml",
+    "SHA256": "c158b00d760940f9ea01032028c369e5d779d4b86a35938b12fad7cfde693210"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1441,
+    "EventID": 1501,
+    "UTC": "2026-09-15T18:01:04.5341001Z",
+    "XMLFile": "xml/system-1441.xml",
+    "SHA256": "a9bc064a64deb3e9b69bd28f2d3e562baf6ae34badcf3aa13000739ff8cf0717"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1442,
+    "EventID": 1501,
+    "UTC": "2026-09-15T18:01:05.2689493Z",
+    "XMLFile": "xml/system-1442.xml",
+    "SHA256": "081a57d0dcddd6c81bcdd739dc76ff30f5e38fc2c5766416b0ca732d160f9843"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1443,
+    "EventID": 7045,
+    "UTC": "2026-09-15T18:01:15.6290127Z",
+    "XMLFile": "xml/system-1443.xml",
+    "SHA256": "59a523e2a8d76eca98f29401e3368e6779e21e415aae8bc371c52dc204e46810"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1444,
+    "EventID": 7040,
+    "UTC": "2026-09-15T18:01:16.1741865Z",
+    "XMLFile": "xml/system-1444.xml",
+    "SHA256": "c2a6f49897648e95886363f9ddc5d8927d267d53ea399651a8d8545fc8198a37"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1445,
+    "EventID": 7045,
+    "UTC": "2026-09-15T18:01:17.1772598Z",
+    "XMLFile": "xml/system-1445.xml",
+    "SHA256": "cebcda6402564a65af9a458ea087996472dbc67dd74c04a74ba385f76e51aa1e"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1446,
+    "EventID": 7040,
+    "UTC": "2026-09-15T18:01:17.3193124Z",
+    "XMLFile": "xml/system-1446.xml",
+    "SHA256": "d159a56b2a9452a43aee61fe21eecd52244c2551bc6af764fbfe2af8064d3d87"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1447,
+    "EventID": 20001,
+    "UTC": "2026-09-15T18:01:26.5932183Z",
+    "XMLFile": "xml/system-1447.xml",
+    "SHA256": "104b729c334e0303a85b4808c4d78d9fb2477fa67916cf773328d60e5064080d"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1448,
+    "EventID": 20001,
+    "UTC": "2026-09-15T18:01:29.1854626Z",
+    "XMLFile": "xml/system-1448.xml",
+    "SHA256": "c25d67aa757e0f9bf03e29632d1d11a29cc77b5b8c2310b9a6c5e4774eca7ec5"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1449,
+    "EventID": 7045,
+    "UTC": "2026-09-15T18:01:30.3374390Z",
+    "XMLFile": "xml/system-1449.xml",
+    "SHA256": "81eb278fbc6d49eaa9eefb5e73b40c45e35ba53e398e5fab2f332ee2b113c0d6"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1450,
+    "EventID": 7045,
+    "UTC": "2026-09-15T18:01:32.0927409Z",
+    "XMLFile": "xml/system-1450.xml",
+    "SHA256": "6ff572bc7f1725682651d24d05c762334a5ad1ed00826c2493d707d0529c6d73"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1451,
+    "EventID": 20003,
+    "UTC": "2026-09-15T18:01:38.2252562Z",
+    "XMLFile": "xml/system-1451.xml",
+    "SHA256": "2b4440f5b9b8838b3951ec0413c65de2c22bf189c1193be8c05907028f5bcf70"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1452,
+    "EventID": 20003,
+    "UTC": "2026-09-15T18:01:38.2351009Z",
+    "XMLFile": "xml/system-1452.xml",
+    "SHA256": "62af89691e4688e2dacdbc57b768c06332b5e5491c112bcc9232c75a41665d6a"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1453,
+    "EventID": 20003,
+    "UTC": "2026-09-15T18:01:38.2435696Z",
+    "XMLFile": "xml/system-1453.xml",
+    "SHA256": "72dc2752a990af5cd462bc91893277d86b973d0a51954bcd8632b55ddbfb1fc5"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1454,
+    "EventID": 20003,
+    "UTC": "2026-09-15T18:01:38.2515121Z",
+    "XMLFile": "xml/system-1454.xml",
+    "SHA256": "89a4950db7b26c396f5abdaa4a920ada83586a09c7dce6528e4aaa57ee11d962"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1455,
+    "EventID": 7045,
+    "UTC": "2026-09-15T18:01:38.2607927Z",
+    "XMLFile": "xml/system-1455.xml",
+    "SHA256": "4455d07de449c276bdc64db37e3fe551b15765721d0843fb9f0df8b7a55ca3c5"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1456,
+    "EventID": 20003,
+    "UTC": "2026-09-15T18:01:38.3977067Z",
+    "XMLFile": "xml/system-1456.xml",
+    "SHA256": "909c095f8e90151870ab0322340284454e6ab42f7b21d6332f4c999a3e356e92"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1457,
+    "EventID": 20001,
+    "UTC": "2026-09-15T18:01:39.0865363Z",
+    "XMLFile": "xml/system-1457.xml",
+    "SHA256": "c2a735144b2fe8bdb3fb9354d88ef74bc8e0c79057be675190a298de6ecf6d8b"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1458,
+    "EventID": 7045,
+    "UTC": "2026-09-15T18:01:41.1878252Z",
+    "XMLFile": "xml/system-1458.xml",
+    "SHA256": "a29303b59898e123a7fa739b00177be84d7fc2e768e29fd7b7a624974bdc1ec8"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1459,
+    "EventID": 7045,
+    "UTC": "2026-09-15T18:01:42.5880976Z",
+    "XMLFile": "xml/system-1459.xml",
+    "SHA256": "156f99a535cd4c56f489bbdec9f8b808c8f3add1516f9beb0e416887a51da934"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1460,
+    "EventID": 105,
+    "UTC": "2026-09-15T18:01:51.2247714Z",
+    "XMLFile": "xml/system-1460.xml",
+    "SHA256": "a5695efcaa5f2e89b098d93c1512aeba3c6dd7da2ef3dcdec519682c347d8cae"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1461,
+    "EventID": 26,
+    "UTC": "2026-09-15T18:05:58.7846807Z",
+    "XMLFile": "xml/system-1461.xml",
+    "SHA256": "b140794ac13371b27acff18e542ad3259d31d351f82bda5d49f960324c36e36f"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1462,
+    "EventID": 8015,
+    "UTC": "2026-09-15T18:09:27.9578471Z",
+    "XMLFile": "xml/system-1462.xml",
+    "SHA256": "66a0c51d9febd9e20a55f3319045e60ddcd0ab5060429485e09f3c7c5667fe27"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1463,
+    "EventID": 8010,
+    "UTC": "2026-09-15T18:09:38.0433955Z",
+    "XMLFile": "xml/system-1463.xml",
+    "SHA256": "fb7c517f51c456c6c99a1acbb2bfdef57eeddec312e86cdcfc48614464d4c655"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1464,
+    "EventID": 6038,
+    "UTC": "2026-09-15T18:10:30.4868534Z",
+    "XMLFile": "xml/system-1464.xml",
+    "SHA256": "030dc68e429076b5352c6ca17d622cb3110e4a1e82197b2a70638eaad7bdc04d"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1465,
+    "EventID": 26,
+    "UTC": "2026-09-15T18:10:58.1235972Z",
+    "XMLFile": "xml/system-1465.xml",
+    "SHA256": "9e187d9e8348879c7de9b85b541f87dab17058d9efb55d718c3dde23d240b81b"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1466,
+    "EventID": 26,
+    "UTC": "2026-09-15T18:10:58.1247705Z",
+    "XMLFile": "xml/system-1466.xml",
+    "SHA256": "a6ff952190df2b9113beaa6ca849e9dcce5b5adc513f6490ed0e50676b07e740"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1467,
+    "EventID": 105,
+    "UTC": "2026-09-15T18:11:50.6965943Z",
+    "XMLFile": "xml/system-1467.xml",
+    "SHA256": "25c884c7131534146781f54fa978653a371289e2408f69f92185033e123f6891"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1468,
+    "EventID": 10016,
+    "UTC": "2026-09-15T18:12:54.6062973Z",
+    "XMLFile": "xml/system-1468.xml",
+    "SHA256": "bb81cbd813ef3e0179c5ba3f270a0e9012d1472a689cab2f51087be76efc4984"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1469,
+    "EventID": 26,
+    "UTC": "2026-09-15T18:15:14.8961377Z",
+    "XMLFile": "xml/system-1469.xml",
+    "SHA256": "d615706c05e8dfbf454a0b6ac51a019fef964968d18db3080dca038cd4dbf7c2"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1470,
+    "EventID": 26,
+    "UTC": "2026-09-15T18:15:14.8973543Z",
+    "XMLFile": "xml/system-1470.xml",
+    "SHA256": "7afb70c52c98fc2ff923dabb0522c177b4c3f8f28a86eeebd95d082bb57c586e"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1471,
+    "EventID": 7031,
+    "UTC": "2026-09-15T18:17:41.5345004Z",
+    "XMLFile": "xml/system-1471.xml",
+    "SHA256": "5af3c106933f446bfdd9c2098ca8e235a65a66d68384d818a55939273db37c22"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1472,
+    "EventID": 105,
+    "UTC": "2026-09-15T18:19:33.2981634Z",
+    "XMLFile": "xml/system-1472.xml",
+    "SHA256": "3de9c838a96a0e21268c750e3ab7c07eaec10425f433a970b177d9b53c2b6b87"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4133,
+    "EventID": 4624,
+    "UTC": "2026-09-15T00:20:51.8379402Z",
+    "XMLFile": "xml/security-4133.xml",
+    "SHA256": "aad6ff6ac077e7f427538e7598eab23f762468d8634dbdbc58fad5151ff512b5"
+  },
+  {
+    "File": "security.evtx",
+    "RecordID": 4181,
+    "EventID": 4624,
+    "UTC": "2026-09-15T00:25:00.3173873Z",
+    "XMLFile": "xml/security-4181.xml",
+    "SHA256": "cb2f5f8165f85d08cb85628c44d7857fcdcaa7e705edbe5d9e08b171edf0823a"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 60,
+    "EventID": 4104,
+    "UTC": "2026-09-15T00:23:03.3170146Z",
+    "XMLFile": "xml/powershell_operational-60.xml",
+    "SHA256": "2f8343a0ba66c6d68c6db037a6503d80235fac1918dd9357cb4accf575e94528"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 62,
+    "EventID": 4104,
+    "UTC": "2026-09-15T00:23:16.2522210Z",
+    "XMLFile": "xml/powershell_operational-62.xml",
+    "SHA256": "af72ddfe2452cebc943f69e69e0d5bbdc5d83e64f222c6e47baf119206958167"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 64,
+    "EventID": 4104,
+    "UTC": "2026-09-15T00:23:24.1247844Z",
+    "XMLFile": "xml/powershell_operational-64.xml",
+    "SHA256": "f751a8389cba05bcdd079406eb858bf3ebe691d9e9f1ee2ce3e0ab219e120c3f"
+  },
+  {
+    "File": "system.evtx",
+    "RecordID": 1422,
+    "EventID": 7045,
+    "UTC": "2026-09-15T00:23:24.1282712Z",
+    "XMLFile": "xml/system-1422.xml",
+    "SHA256": "1fdb804464190043c5a9e5bea4066b928cb8fd6a156ccd2a51147c0627a01b59"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 66,
+    "EventID": 4104,
+    "UTC": "2026-09-15T00:23:31.1247084Z",
+    "XMLFile": "xml/powershell_operational-66.xml",
+    "SHA256": "11b73f21a5b5ceeb1fd7a1f562c01541c8b44377200b155b7f16a35411b522e3"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 68,
+    "EventID": 4104,
+    "UTC": "2026-09-15T00:23:37.6929885Z",
+    "XMLFile": "xml/powershell_operational-68.xml",
+    "SHA256": "88f39f8abd422e0f103059acee7f9d886d7fa76ca75cd17492b69a16ef304ea0"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 70,
+    "EventID": 4104,
+    "UTC": "2026-09-15T00:23:42.9733239Z",
+    "XMLFile": "xml/powershell_operational-70.xml",
+    "SHA256": "eca5077d976d64431fc9d28032d84bde9ca6a3734de05afbe1025754403bcdb4"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 72,
+    "EventID": 40961,
+    "UTC": "2026-09-15T01:53:25.7920522Z",
+    "XMLFile": "xml/powershell_operational-72.xml",
+    "SHA256": "4674be8de2615c897b0aa4588e45cf1ba92e490f2a9336baaa5d9c450a31ed13"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 73,
+    "EventID": 53504,
+    "UTC": "2026-09-15T01:53:25.8689807Z",
+    "XMLFile": "xml/powershell_operational-73.xml",
+    "SHA256": "e2865a7e0c99cdaeb07a43c4ddbd260d8b2f30adf134b3414c392bfe6ca24c58"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 74,
+    "EventID": 40962,
+    "UTC": "2026-09-15T01:53:26.0832210Z",
+    "XMLFile": "xml/powershell_operational-74.xml",
+    "SHA256": "402fc3723ad4b3da1496325b58b7dc8a69ce065ec85791687f9987cc2105cf03"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 75,
+    "EventID": 4104,
+    "UTC": "2026-09-15T01:53:26.1183816Z",
+    "XMLFile": "xml/powershell_operational-75.xml",
+    "SHA256": "16bc055c4dc8a0f10ec768616a0d0e084dbda37e91c88a44c0a2da4e5a177455"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "RecordID": 76,
+    "EventID": 4104,
+    "UTC": "2026-09-15T01:53:28.4179589Z",
+    "XMLFile": "xml/powershell_operational-76.xml",
+    "SHA256": "5da84308997f544dab32ba8f41783ecc4e71980a2b69d8644bb2f3558ec27264"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 49,
+    "EventID": 400,
+    "UTC": "2026-09-15T01:53:26.0525056Z",
+    "XMLFile": "xml/powershell_classic-49.xml",
+    "SHA256": "b4dd52c3f9e7c76ccf09fdc35bf2867e5b9d88af428f3227415540e7ba974099"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "RecordID": 50,
+    "EventID": 403,
+    "UTC": "2026-09-15T01:53:28.4121079Z",
+    "XMLFile": "xml/powershell_classic-50.xml",
+    "SHA256": "cd620981adaf5e37d60a54087566a6000ce8e7206261743a8c933ef4bbb880f9"
+  }
+]

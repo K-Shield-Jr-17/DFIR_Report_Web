@@ -1,0 +1,141 @@
+{
+  "SourceHashesVerified": 6,
+  "XMLVerified": 27,
+  "Results": [
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+      "Record": 372192
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+      "Record": 372275
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+      "Record": 372400
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+      "Record": 372627
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+      "Record": 373176
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+      "Record": 373183
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+      "Record": 373237
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+      "Record": 373270
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+      "Record": 373278
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+      "Record": 373619
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+      "Record": 392738
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+      "Record": 392739
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+      "Record": 392742
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-01-45-868.evtx",
+      "Record": 421265
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-01-45-868.evtx",
+      "Record": 450274
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-01-45-868.evtx",
+      "Record": 450645
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-01-45-868.evtx",
+      "Record": 467855
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-01-45-868.evtx",
+      "Record": 467858
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+      "Record": 492577
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+      "Record": 507720
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+      "Record": 507721
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+      "Record": 508053
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+      "Record": 508054
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+      "Record": 508094
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+      "Record": 508548
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+      "Record": 508550
+    },
+    {
+      "ExactMatch": true,
+      "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+      "Record": 512131
+    }
+  ]
+}

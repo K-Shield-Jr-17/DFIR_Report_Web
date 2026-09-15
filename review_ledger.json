@@ -1,0 +1,3932 @@
+[
+  {
+    "File": "application.evtx",
+    "Provider": "Windows Error Reporting",
+    "Record": 885,
+    "ID": 1001,
+    "UTC": "2026-09-15T17:54:52.0634830Z",
+    "Category": "응용 오류·WER",
+    "Reason": "대상 이미지·오류 유형·ReportQueue 경로 확인. a.exe 또는 LSASS 덤프 성공 증거 미발견.",
+    "XML": "xml/application-885.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "SceCli",
+    "Record": 886,
+    "ID": 1704,
+    "UTC": "2026-09-15T17:55:00.8412071Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-886.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "ESENT",
+    "Record": 887,
+    "ID": 102,
+    "UTC": "2026-09-15T17:56:50.8402406Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-887.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "ESENT",
+    "Record": 888,
+    "ID": 300,
+    "UTC": "2026-09-15T17:56:50.8402406Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-888.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "ESENT",
+    "Record": 889,
+    "ID": 301,
+    "UTC": "2026-09-15T17:56:50.8557118Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-889.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "ESENT",
+    "Record": 890,
+    "ID": 302,
+    "UTC": "2026-09-15T17:56:50.8870996Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-890.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "ESENT",
+    "Record": 891,
+    "ID": 105,
+    "UTC": "2026-09-15T17:56:50.8870996Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-891.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "ESENT",
+    "Record": 892,
+    "ID": 326,
+    "UTC": "2026-09-15T17:56:50.9182248Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-892.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 893,
+    "ID": 1040,
+    "UTC": "2026-09-15T17:59:04.1467587Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-893.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 894,
+    "ID": 10000,
+    "UTC": "2026-09-15T17:59:16.7197847Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-894.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 895,
+    "ID": 10000,
+    "UTC": "2026-09-15T17:59:17.0834036Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-895.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 896,
+    "ID": 11707,
+    "UTC": "2026-09-15T17:59:18.9245104Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-896.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 897,
+    "ID": 1033,
+    "UTC": "2026-09-15T17:59:18.9245104Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-897.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 898,
+    "ID": 1042,
+    "UTC": "2026-09-15T17:59:18.9658162Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-898.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 899,
+    "ID": 1040,
+    "UTC": "2026-09-15T17:59:19.0249007Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-899.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 900,
+    "ID": 10001,
+    "UTC": "2026-09-15T17:59:18.9392805Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-900.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 901,
+    "ID": 10001,
+    "UTC": "2026-09-15T17:59:18.9427678Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-901.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 902,
+    "ID": 10000,
+    "UTC": "2026-09-15T17:59:19.1002953Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-902.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 903,
+    "ID": 10000,
+    "UTC": "2026-09-15T17:59:19.4027309Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-903.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 904,
+    "ID": 11707,
+    "UTC": "2026-09-15T17:59:20.6496354Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-904.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 905,
+    "ID": 1033,
+    "UTC": "2026-09-15T17:59:20.6496354Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-905.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 906,
+    "ID": 1042,
+    "UTC": "2026-09-15T17:59:20.6810419Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-906.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 907,
+    "ID": 10001,
+    "UTC": "2026-09-15T17:59:20.6724164Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-907.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 908,
+    "ID": 10001,
+    "UTC": "2026-09-15T17:59:20.6749821Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-908.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 909,
+    "ID": 1040,
+    "UTC": "2026-09-15T17:59:23.5505283Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-909.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 910,
+    "ID": 10000,
+    "UTC": "2026-09-15T17:59:23.6163585Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-910.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 911,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:23.8494916Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-911.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 912,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:23.8549054Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-912.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 913,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:23.8623463Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-913.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 914,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:23.8673932Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-914.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 915,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:23.8721690Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-915.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 916,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:23.8742776Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-916.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 917,
+    "ID": 10005,
+    "UTC": "2026-09-15T17:59:23.8742943Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-917.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 918,
+    "ID": 10000,
+    "UTC": "2026-09-15T17:59:23.8878758Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-918.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 919,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:23.9159888Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-919.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 920,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:23.9221211Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-920.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 921,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:23.9274904Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-921.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 922,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:23.9317049Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-922.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 923,
+    "ID": 10005,
+    "UTC": "2026-09-15T17:59:23.9392317Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-923.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 924,
+    "ID": 10000,
+    "UTC": "2026-09-15T17:59:23.9926601Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-924.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 925,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:24.2077996Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-925.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 926,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:24.2117688Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-926.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 927,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:24.2156221Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-927.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 928,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:24.2197244Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-928.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 929,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:24.2236060Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-929.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 930,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:24.2252885Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-930.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 931,
+    "ID": 10005,
+    "UTC": "2026-09-15T17:59:24.2253053Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-931.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 932,
+    "ID": 10000,
+    "UTC": "2026-09-15T17:59:24.2265714Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-932.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 933,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:24.2640517Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-933.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 934,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:24.2675848Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-934.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 935,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:24.2707795Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-935.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 936,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:24.2740239Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-936.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 937,
+    "ID": 10005,
+    "UTC": "2026-09-15T17:59:24.2800011Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-937.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 938,
+    "ID": 11707,
+    "UTC": "2026-09-15T17:59:25.6610979Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-938.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 939,
+    "ID": 1033,
+    "UTC": "2026-09-15T17:59:25.6610979Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-939.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 940,
+    "ID": 1042,
+    "UTC": "2026-09-15T17:59:25.7866214Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-940.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 941,
+    "ID": 1040,
+    "UTC": "2026-09-15T17:59:25.8964940Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-941.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 942,
+    "ID": 10001,
+    "UTC": "2026-09-15T17:59:25.7177907Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-942.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 943,
+    "ID": 10001,
+    "UTC": "2026-09-15T17:59:25.7216339Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-943.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 944,
+    "ID": 10001,
+    "UTC": "2026-09-15T17:59:25.8113339Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-944.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 945,
+    "ID": 10001,
+    "UTC": "2026-09-15T17:59:25.8199447Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-945.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 946,
+    "ID": 10000,
+    "UTC": "2026-09-15T17:59:26.0569183Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-946.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 947,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:26.7733501Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-947.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 948,
+    "ID": 10005,
+    "UTC": "2026-09-15T17:59:26.7733631Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-948.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 949,
+    "ID": 10000,
+    "UTC": "2026-09-15T17:59:26.7751669Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-949.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 950,
+    "ID": 10005,
+    "UTC": "2026-09-15T17:59:26.7953271Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-950.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 951,
+    "ID": 10000,
+    "UTC": "2026-09-15T17:59:26.9001878Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-951.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 952,
+    "ID": 10010,
+    "UTC": "2026-09-15T17:59:27.2403192Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-952.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 953,
+    "ID": 10005,
+    "UTC": "2026-09-15T17:59:27.2403336Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-953.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 954,
+    "ID": 10000,
+    "UTC": "2026-09-15T17:59:27.2417772Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-954.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 955,
+    "ID": 10005,
+    "UTC": "2026-09-15T17:59:27.2534774Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-955.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 956,
+    "ID": 11707,
+    "UTC": "2026-09-15T17:59:28.4318953Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-956.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 957,
+    "ID": 1033,
+    "UTC": "2026-09-15T17:59:28.4318953Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-957.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 958,
+    "ID": 1042,
+    "UTC": "2026-09-15T17:59:28.4630712Z",
+    "Category": "설치 관리",
+    "Reason": "제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.",
+    "XML": "xml/application-958.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 959,
+    "ID": 10001,
+    "UTC": "2026-09-15T17:59:28.4450844Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-959.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 960,
+    "ID": 10001,
+    "UTC": "2026-09-15T17:59:28.4472368Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-960.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 961,
+    "ID": 10001,
+    "UTC": "2026-09-15T17:59:28.4726747Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-961.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 962,
+    "ID": 10001,
+    "UTC": "2026-09-15T17:59:28.4745938Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-962.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VSS",
+    "Record": 963,
+    "ID": 8224,
+    "UTC": "2026-09-15T17:59:48.3335959Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-963.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 964,
+    "ID": 1040,
+    "UTC": "2026-09-15T18:00:06.4172913Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-964.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VMUpgradeHelper",
+    "Record": 965,
+    "ID": 260,
+    "UTC": "2026-09-15T18:00:46.3244061Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-965.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VMUpgradeHelper",
+    "Record": 966,
+    "ID": 272,
+    "UTC": "2026-09-15T18:00:46.3244061Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-966.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VMTools",
+    "Record": 967,
+    "ID": 108,
+    "UTC": "2026-09-15T18:00:46.3399439Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-967.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 968,
+    "ID": 10000,
+    "UTC": "2026-09-15T18:00:46.2902608Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-968.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 969,
+    "ID": 10002,
+    "UTC": "2026-09-15T18:00:46.3545917Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-969.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-RestartManager",
+    "Record": 970,
+    "ID": 10001,
+    "UTC": "2026-09-15T18:00:46.3552668Z",
+    "Category": "프로세스 보조 관측",
+    "Reason": "UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.",
+    "XML": "xml/application-970.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VMTools",
+    "Record": 971,
+    "ID": 105,
+    "UTC": "2026-09-15T18:01:41.4030848Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-971.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 972,
+    "ID": 1038,
+    "UTC": "2026-09-15T18:01:50.4735868Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-972.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 973,
+    "ID": 1042,
+    "UTC": "2026-09-15T18:01:50.5827229Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-973.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Windows Error Reporting",
+    "Record": 974,
+    "ID": 1001,
+    "UTC": "2026-09-15T18:02:04.0899559Z",
+    "Category": "응용 오류·WER",
+    "Reason": "대상 이미지·오류 유형·ReportQueue 경로 확인. a.exe 또는 LSASS 덤프 성공 증거 미발견.",
+    "XML": "xml/application-974.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 975,
+    "ID": 11707,
+    "UTC": "2026-09-15T18:10:59.3729723Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-975.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 976,
+    "ID": 1033,
+    "UTC": "2026-09-15T18:10:59.3729723Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-976.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 977,
+    "ID": 1038,
+    "UTC": "2026-09-15T18:10:59.3729723Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-977.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 978,
+    "ID": 1029,
+    "UTC": "2026-09-15T18:10:59.3729723Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-978.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Wow64 Emulation Layer",
+    "Record": 979,
+    "ID": 1109,
+    "UTC": "2026-09-15T18:12:01.8247211Z",
+    "Category": "프로그램 실행 실패",
+    "Reason": "시스템 익스플로러.exe 호환성 실행 실패. a.exe와 동일 파일이라는 근거 없음.",
+    "XML": "xml/application-979.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-Winlogon",
+    "Record": 980,
+    "ID": 6000,
+    "UTC": "2026-09-15T18:12:53.2759930Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-980.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Microsoft-Windows-Winlogon",
+    "Record": 981,
+    "ID": 6000,
+    "UTC": "2026-09-15T18:12:54.0211521Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-981.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 982,
+    "ID": 1040,
+    "UTC": "2026-09-15T18:15:04.7331286Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-982.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 983,
+    "ID": 1038,
+    "UTC": "2026-09-15T18:15:13.1509935Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-983.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 984,
+    "ID": 1042,
+    "UTC": "2026-09-15T18:15:13.1820271Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-984.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 985,
+    "ID": 11728,
+    "UTC": "2026-09-15T18:15:17.4695644Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-985.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 986,
+    "ID": 1035,
+    "UTC": "2026-09-15T18:15:17.4695644Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-986.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 987,
+    "ID": 1038,
+    "UTC": "2026-09-15T18:15:17.4852597Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-987.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "MsiInstaller",
+    "Record": 988,
+    "ID": 1029,
+    "UTC": "2026-09-15T18:15:17.4862555Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-988.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Windows Error Reporting",
+    "Record": 989,
+    "ID": 1001,
+    "UTC": "2026-09-15T18:15:41.5877218Z",
+    "Category": "응용 오류·WER",
+    "Reason": "대상 이미지·오류 유형·ReportQueue 경로 확인. a.exe 또는 LSASS 덤프 성공 증거 미발견.",
+    "XML": "xml/application-989.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "Application Hang",
+    "Record": 990,
+    "ID": 1002,
+    "UTC": "2026-09-15T18:15:41.5877218Z",
+    "Category": "응용 오류·WER",
+    "Reason": "대상 이미지·오류 유형·ReportQueue 경로 확인. a.exe 또는 LSASS 덤프 성공 증거 미발견.",
+    "XML": "xml/application-990.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VMUpgradeHelper",
+    "Record": 991,
+    "ID": 260,
+    "UTC": "2026-09-15T18:17:19.2047136Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-991.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VMUpgradeHelper",
+    "Record": 992,
+    "ID": 272,
+    "UTC": "2026-09-15T18:17:19.2047136Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-992.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VMTools",
+    "Record": 993,
+    "ID": 108,
+    "UTC": "2026-09-15T18:17:19.2173192Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-993.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VMTools",
+    "Record": 994,
+    "ID": 105,
+    "UTC": "2026-09-15T18:17:19.3738148Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-994.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VMUpgradeHelper",
+    "Record": 995,
+    "ID": 258,
+    "UTC": "2026-09-15T18:17:22.0617260Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-995.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VMUpgradeHelper",
+    "Record": 996,
+    "ID": 271,
+    "UTC": "2026-09-15T18:17:23.3105854Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-996.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VSS",
+    "Record": 997,
+    "ID": 8224,
+    "UTC": "2026-09-15T18:20:20.7880327Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-997.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VMTools",
+    "Record": 998,
+    "ID": 105,
+    "UTC": "2026-09-15T18:20:37.9585041Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/application-998.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VMUpgradeHelper",
+    "Record": 999,
+    "ID": 258,
+    "UTC": "2026-09-15T18:20:39.7969208Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-999.xml"
+  },
+  {
+    "File": "application.evtx",
+    "Provider": "VMUpgradeHelper",
+    "Record": 1000,
+    "ID": 271,
+    "UTC": "2026-09-15T18:20:41.7311327Z",
+    "Category": "응용·환경 일반",
+    "Reason": "Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",
+    "XML": "xml/application-1000.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 51,
+    "ID": 600,
+    "UTC": "2026-09-15T17:59:26.6836865Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-51.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 52,
+    "ID": 600,
+    "UTC": "2026-09-15T17:59:26.6836865Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-52.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 53,
+    "ID": 600,
+    "UTC": "2026-09-15T17:59:26.6836865Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-53.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 54,
+    "ID": 600,
+    "UTC": "2026-09-15T17:59:26.6991721Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-54.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 55,
+    "ID": 600,
+    "UTC": "2026-09-15T17:59:26.6991721Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-55.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 56,
+    "ID": 600,
+    "UTC": "2026-09-15T17:59:26.6991721Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-56.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 57,
+    "ID": 400,
+    "UTC": "2026-09-15T17:59:26.6991721Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-57.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 58,
+    "ID": 600,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-58.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 59,
+    "ID": 600,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-59.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 60,
+    "ID": 600,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-60.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 61,
+    "ID": 600,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-61.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 62,
+    "ID": 600,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-62.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 63,
+    "ID": 600,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-63.xml"
+  },
+  {
+    "File": "powershell_classic.evtx",
+    "Provider": "PowerShell",
+    "Record": 64,
+    "ID": 400,
+    "UTC": "2026-09-15T18:17:09.4478424Z",
+    "Category": "PowerShell 세션",
+    "Reason": "HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.",
+    "XML": "xml/powershell_classic-64.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 77,
+    "ID": 40961,
+    "UTC": "2026-09-15T17:59:26.3740683Z",
+    "Category": "PowerShell 세션",
+    "Reason": "엔진/호스트 초기화 및 IPC 정보. SID·PID·시각 대조 완료.",
+    "XML": "xml/powershell_operational-77.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 78,
+    "ID": 53504,
+    "UTC": "2026-09-15T17:59:26.5040539Z",
+    "Category": "PowerShell 세션",
+    "Reason": "엔진/호스트 초기화 및 IPC 정보. SID·PID·시각 대조 완료.",
+    "XML": "xml/powershell_operational-78.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 79,
+    "ID": 40962,
+    "UTC": "2026-09-15T17:59:26.9538577Z",
+    "Category": "PowerShell 세션",
+    "Reason": "엔진/호스트 초기화 및 IPC 정보. SID·PID·시각 대조 완료.",
+    "XML": "xml/powershell_operational-79.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 80,
+    "ID": 4104,
+    "UTC": "2026-09-15T17:59:26.9667298Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-80.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 81,
+    "ID": 4104,
+    "UTC": "2026-09-15T17:59:55.7378203Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-81.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 82,
+    "ID": 4104,
+    "UTC": "2026-09-15T17:59:56.3118694Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-82.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 83,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:00:27.6838776Z",
+    "Category": "서비스 시작 명령",
+    "Reason": "관리자 SID에서 sc.exe start VulnAppSvc 처리 기록. 서비스 시작 결과·실행 이미지 미기록.",
+    "XML": "xml/powershell_operational-83.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 84,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:00:27.9104314Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-84.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 85,
+    "ID": 40961,
+    "UTC": "2026-09-15T18:17:09.1848766Z",
+    "Category": "PowerShell 세션",
+    "Reason": "엔진/호스트 초기화 및 IPC 정보. SID·PID·시각 대조 완료.",
+    "XML": "xml/powershell_operational-85.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 86,
+    "ID": 53504,
+    "UTC": "2026-09-15T18:17:09.2872693Z",
+    "Category": "PowerShell 세션",
+    "Reason": "엔진/호스트 초기화 및 IPC 정보. SID·PID·시각 대조 완료.",
+    "XML": "xml/powershell_operational-86.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 87,
+    "ID": 40962,
+    "UTC": "2026-09-15T18:17:09.6000968Z",
+    "Category": "PowerShell 세션",
+    "Reason": "엔진/호스트 초기화 및 IPC 정보. SID·PID·시각 대조 완료.",
+    "XML": "xml/powershell_operational-87.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 88,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:17:09.6090771Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-88.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 89,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:17:19.0875493Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/powershell_operational-89.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 90,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:17:19.6521555Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-90.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 91,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:17:20.2923242Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-91.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 92,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:17:20.4283514Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-92.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 93,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:17:20.5568693Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-93.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 94,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:17:20.7089086Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-94.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 95,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:17:41.5245015Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/powershell_operational-95.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 96,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:17:41.5383611Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-96.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 97,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:18:23.1968096Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/powershell_operational-97.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 98,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:18:23.2544768Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "오류 표시 속성 관련 스크립트. 출력 결과나 공격 명령으로 단정하지 않음.",
+    "XML": "xml/powershell_operational-98.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 99,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:18:23.2578310Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "오류 표시 속성 관련 스크립트. 출력 결과나 공격 명령으로 단정하지 않음.",
+    "XML": "xml/powershell_operational-99.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 100,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:18:23.2729588Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "오류 표시 속성 관련 스크립트. 출력 결과나 공격 명령으로 단정하지 않음.",
+    "XML": "xml/powershell_operational-100.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 101,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:18:23.2841408Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "오류 표시 속성 관련 스크립트. 출력 결과나 공격 명령으로 단정하지 않음.",
+    "XML": "xml/powershell_operational-101.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 102,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:18:23.3134950Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-102.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 103,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:19:05.6904058Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/powershell_operational-103.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 104,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:19:05.7489438Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-104.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 105,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:19:22.5134488Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/powershell_operational-105.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 106,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:19:22.5237362Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-106.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 107,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:19:30.2449946Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/powershell_operational-107.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 108,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:19:30.2530274Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-108.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 109,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:19:59.3820532Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/powershell_operational-109.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 110,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:19:59.4073229Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-110.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 111,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:20:00.5347315Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/powershell_operational-111.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 112,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:20:00.5422096Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-112.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 113,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:20:02.2162972Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/powershell_operational-113.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 114,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:20:02.2344758Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-114.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 115,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:20:03.1786511Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/powershell_operational-115.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 116,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:20:03.1952842Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-116.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 117,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:20:05.4962033Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/powershell_operational-117.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 118,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:20:05.5089355Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-118.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 119,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:20:37.8588558Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/powershell_operational-119.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 120,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:20:38.2420324Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-120.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 121,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:20:39.4215198Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/powershell_operational-121.xml"
+  },
+  {
+    "File": "powershell_operational.evtx",
+    "Provider": "Microsoft-Windows-PowerShell",
+    "Record": 122,
+    "ID": 4104,
+    "UTC": "2026-09-15T18:20:39.4288920Z",
+    "Category": "PowerShell 보조 기록",
+    "Reason": "프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.",
+    "XML": "xml/powershell_operational-122.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4256,
+    "ID": 4616,
+    "UTC": "2026-09-15T17:54:47.0447825Z",
+    "Category": "시간 기준",
+    "Reason": "사용자가 설명한 환경 시간 통일. 공격 징후로 분류하지 않음.",
+    "XML": "xml/security-4256.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4257,
+    "ID": 4616,
+    "UTC": "2026-09-15T17:54:47.0588892Z",
+    "Category": "시간 기준",
+    "Reason": "사용자가 설명한 환경 시간 통일. 공격 징후로 분류하지 않음.",
+    "XML": "xml/security-4257.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4258,
+    "ID": 4648,
+    "UTC": "2026-09-15T17:54:48.8223857Z",
+    "Category": "명시적 자격증명",
+    "Reason": "대상 서버·계정·ProcessName 확인. 5건 모두 localhost 또는 자기 컴퓨터 계정 대상.",
+    "XML": "xml/security-4258.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4259,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:54:48.8236837Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4259.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4260,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:54:48.8254231Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4260.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4261,
+    "ID": 4634,
+    "UTC": "2026-09-15T17:54:48.8305547Z",
+    "Category": "로그오프",
+    "Reason": "계정·LogonId·유형 대조 완료.",
+    "XML": "xml/security-4261.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4262,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:54:50.2569025Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4262.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4263,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:54:50.2569149Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4263.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4264,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:54:51.0899050Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4264.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4265,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:54:51.0899176Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4265.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4266,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:55:00.2003786Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4266.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4267,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:55:00.2010459Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4267.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4268,
+    "ID": 4634,
+    "UTC": "2026-09-15T17:55:00.4161562Z",
+    "Category": "로그오프",
+    "Reason": "계정·LogonId·유형 대조 완료.",
+    "XML": "xml/security-4268.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4269,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:56:44.5299985Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4269.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4270,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:56:44.5300109Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4270.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4271,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:56:44.7811872Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4271.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4272,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:56:44.7811999Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4272.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4273,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:56:45.5755205Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4273.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4274,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:56:45.5755332Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4274.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4275,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:56:46.5316102Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4275.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4276,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:56:46.5316239Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4276.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4277,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:56:46.6950116Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4277.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4278,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:56:46.6950240Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4278.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4279,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:56:47.1160700Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4279.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4280,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:56:47.1160830Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4280.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4281,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:56:47.1734618Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4281.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4282,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:56:47.1734742Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4282.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4283,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:56:47.3290652Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4283.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4284,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:56:47.3290783Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4284.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4285,
+    "ID": 4799,
+    "UTC": "2026-09-15T17:56:47.6092274Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4285.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4286,
+    "ID": 4799,
+    "UTC": "2026-09-15T17:56:47.6129510Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4286.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4287,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:56:47.6511982Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4287.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4288,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:56:47.6512106Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4288.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4289,
+    "ID": 4799,
+    "UTC": "2026-09-15T17:56:47.8807674Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4289.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4290,
+    "ID": 4799,
+    "UTC": "2026-09-15T17:56:47.8844138Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4290.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4291,
+    "ID": 4799,
+    "UTC": "2026-09-15T17:56:48.0570797Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4291.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4292,
+    "ID": 4799,
+    "UTC": "2026-09-15T17:56:48.0596167Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4292.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4293,
+    "ID": 4799,
+    "UTC": "2026-09-15T17:56:48.1749596Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4293.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4294,
+    "ID": 4799,
+    "UTC": "2026-09-15T17:56:48.1786959Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4294.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4295,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:56:50.3705686Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4295.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4296,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:56:50.3705819Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4296.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4297,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:56:53.4216036Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4297.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4298,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:56:53.4216273Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4298.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4299,
+    "ID": 4799,
+    "UTC": "2026-09-15T17:58:54.5300442Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4299.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4300,
+    "ID": 4799,
+    "UTC": "2026-09-15T17:58:54.5300442Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4300.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4301,
+    "ID": 4648,
+    "UTC": "2026-09-15T17:59:00.7259931Z",
+    "Category": "명시적 자격증명",
+    "Reason": "대상 서버·계정·ProcessName 확인. 5건 모두 localhost 또는 자기 컴퓨터 계정 대상.",
+    "XML": "xml/security-4301.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4302,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:59:00.7261091Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4302.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4303,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:59:00.7261328Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4303.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4304,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:59:03.9262728Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4304.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4305,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:59:03.9262848Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4305.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4306,
+    "ID": 4799,
+    "UTC": "2026-09-15T17:59:18.6134128Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4306.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4307,
+    "ID": 4799,
+    "UTC": "2026-09-15T17:59:18.6144002Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4307.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4308,
+    "ID": 4648,
+    "UTC": "2026-09-15T17:59:24.8417222Z",
+    "Category": "명시적 자격증명",
+    "Reason": "대상 서버·계정·ProcessName 확인. 5건 모두 localhost 또는 자기 컴퓨터 계정 대상.",
+    "XML": "xml/security-4308.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4309,
+    "ID": 4624,
+    "UTC": "2026-09-15T17:59:24.8417867Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4309.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4310,
+    "ID": 4672,
+    "UTC": "2026-09-15T17:59:24.8417997Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4310.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4311,
+    "ID": 5889,
+    "UTC": "2026-09-15T18:00:54.5766276Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/security-4311.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4312,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:00:55.1091337Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4312.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4313,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:01:21.9047038Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4313.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4314,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:01:21.9047169Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4314.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4315,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:27.2964944Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4315.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4316,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:01:34.1557104Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4316.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4317,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:01:34.1557227Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4317.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4318,
+    "ID": 5890,
+    "UTC": "2026-09-15T18:01:42.5034904Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/security-4318.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4319,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:43.1917767Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4319.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4320,
+    "ID": 5890,
+    "UTC": "2026-09-15T18:01:43.7084148Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/security-4320.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4321,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:44.0418662Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4321.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4322,
+    "ID": 5890,
+    "UTC": "2026-09-15T18:01:44.2258056Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/security-4322.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4323,
+    "ID": 5890,
+    "UTC": "2026-09-15T18:01:44.2261247Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/security-4323.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4324,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:44.8122804Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4324.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4325,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:51.3743801Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4325.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4326,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:56.0541281Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4326.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4327,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:56.0564730Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4327.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4328,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:56.0566564Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4328.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4329,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:56.0583694Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4329.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4330,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:56.0585986Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4330.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4331,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:56.0602267Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4331.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4332,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:56.0604740Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4332.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4333,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:56.0620101Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4333.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4334,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:56.0624171Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4334.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4335,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:01:56.0635376Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4335.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4336,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:01:59.0265613Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4336.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4337,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:01:59.0265736Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4337.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4338,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:02:02.8499441Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4338.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4339,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:02:02.8499568Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4339.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4340,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:02:03.5909630Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4340.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4341,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:02:03.5909764Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4341.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4342,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:04:08.6463904Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4342.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4343,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:04:08.6464028Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4343.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4344,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:04:09.2440899Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4344.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4345,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:04:09.2441016Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4345.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4346,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:05:51.8488033Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4346.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4347,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:05:51.8488157Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4347.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4348,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:07:29.9590525Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4348.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4349,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:07:29.9590658Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4349.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4350,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:10:30.5031341Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4350.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4351,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:10:30.5233240Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4351.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4352,
+    "ID": 4634,
+    "UTC": "2026-09-15T18:10:30.5422801Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4352.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4353,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:10:30.6298902Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4353.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4354,
+    "ID": 4634,
+    "UTC": "2026-09-15T18:10:30.6518798Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4354.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4355,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:10:30.7394159Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4355.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4356,
+    "ID": 4634,
+    "UTC": "2026-09-15T18:10:30.7617092Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4356.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4357,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:10:30.8474889Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4357.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4358,
+    "ID": 4634,
+    "UTC": "2026-09-15T18:10:30.8971599Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4358.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4359,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:10:30.9601056Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4359.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4360,
+    "ID": 4634,
+    "UTC": "2026-09-15T18:10:31.0050673Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4360.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4361,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:10:31.0688838Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4361.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4362,
+    "ID": 4634,
+    "UTC": "2026-09-15T18:10:31.1126461Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4362.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4363,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:10:31.1787753Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4363.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4364,
+    "ID": 4634,
+    "UTC": "2026-09-15T18:10:31.2227689Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4364.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4365,
+    "ID": 4634,
+    "UTC": "2026-09-15T18:10:41.2437988Z",
+    "Category": "FILE-SRV 인바운드 인증",
+    "Reason": "피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.",
+    "XML": "xml/security-4365.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4366,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:11:04.8735673Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4366.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4367,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:11:04.8735804Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4367.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4368,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:11:57.5546754Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4368.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4369,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:11:57.5643605Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4369.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4370,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:11:57.5736469Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4370.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4371,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:11:57.5810453Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4371.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4372,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:11:57.5889700Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4372.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4373,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:12:28.0566498Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4373.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4374,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:12:37.5669748Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4374.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4375,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:12:51.4330157Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4375.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4376,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:12:51.4402677Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4376.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4377,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:12:51.4475294Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4377.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4378,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:12:51.4545858Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4378.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4379,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:12:51.4637846Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4379.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4380,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:12:51.4814210Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4380.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4381,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:12:51.5308139Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4381.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4382,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:12:51.5531843Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4382.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4383,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:12:51.5713274Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4383.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4384,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:12:51.5896327Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4384.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4385,
+    "ID": 4797,
+    "UTC": "2026-09-15T18:12:51.6309781Z",
+    "Category": "계정 조회",
+    "Reason": "employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.",
+    "XML": "xml/security-4385.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4386,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:12:59.2355728Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4386.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4387,
+    "ID": 4648,
+    "UTC": "2026-09-15T18:13:02.2662576Z",
+    "Category": "명시적 자격증명",
+    "Reason": "대상 서버·계정·ProcessName 확인. 5건 모두 localhost 또는 자기 컴퓨터 계정 대상.",
+    "XML": "xml/security-4387.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4388,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:13:02.2663404Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4388.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4389,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:13:02.2663536Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4389.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4390,
+    "ID": 4648,
+    "UTC": "2026-09-15T18:13:02.3278094Z",
+    "Category": "명시적 자격증명",
+    "Reason": "대상 서버·계정·ProcessName 확인. 5건 모두 localhost 또는 자기 컴퓨터 계정 대상.",
+    "XML": "xml/security-4390.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4391,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:13:02.3278429Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4391.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4392,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:13:02.3278548Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4392.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4393,
+    "ID": 4634,
+    "UTC": "2026-09-15T18:13:02.3375732Z",
+    "Category": "로그오프",
+    "Reason": "계정·LogonId·유형 대조 완료.",
+    "XML": "xml/security-4393.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4394,
+    "ID": 4634,
+    "UTC": "2026-09-15T18:13:02.3705284Z",
+    "Category": "로그오프",
+    "Reason": "계정·LogonId·유형 대조 완료.",
+    "XML": "xml/security-4394.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4395,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:14:05.3359344Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4395.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4396,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:15:09.9744733Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4396.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4397,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:15:14.4260463Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4397.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4398,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:15:20.0757399Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4398.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4399,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:15:20.0757528Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4399.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4400,
+    "ID": 4798,
+    "UTC": "2026-09-15T18:15:43.3645377Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4400.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4401,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:17:20.2687147Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4401.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4402,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:17:20.2687277Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4402.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4403,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:17:20.4596829Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4403.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4404,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:17:20.4631195Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4404.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4405,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:17:20.5674969Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4405.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4406,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:17:20.5702984Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4406.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4407,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:17:20.6341042Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4407.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4408,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:17:20.6365558Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4408.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4409,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:17:20.7013901Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4409.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4410,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:17:20.7043559Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4410.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4411,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:17:40.9989184Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4411.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4412,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:17:40.9989394Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4412.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4413,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:19:47.8590435Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4413.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4414,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:19:47.8590572Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4414.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4415,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:19:48.7451562Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4415.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4416,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:19:48.7451695Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4416.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4417,
+    "ID": 4624,
+    "UTC": "2026-09-15T18:20:38.5740056Z",
+    "Category": "로그온",
+    "Reason": "계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.",
+    "XML": "xml/security-4417.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4418,
+    "ID": 4672,
+    "UTC": "2026-09-15T18:20:38.5740180Z",
+    "Category": "특수 권한 할당",
+    "Reason": "주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.",
+    "XML": "xml/security-4418.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4419,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:20:38.7304354Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4419.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4420,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:20:38.7337789Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4420.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4421,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:20:38.8104718Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4421.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4422,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:20:38.8127303Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4422.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4423,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:20:38.8672669Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4423.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4424,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:20:38.8696413Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4424.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4425,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:20:38.9215869Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4425.xml"
+  },
+  {
+    "File": "security.evtx",
+    "Provider": "Microsoft-Windows-Security-Auditing",
+    "Record": 4426,
+    "ID": 4799,
+    "UTC": "2026-09-15T18:20:38.9244238Z",
+    "Category": "계정·그룹 열거",
+    "Reason": "CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.",
+    "XML": "xml/security-4426.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "EventLog",
+    "Record": 1427,
+    "ID": 6013,
+    "UTC": "2026-09-15T17:54:47.0715717Z",
+    "Category": "시간 기준",
+    "Reason": "시각 통일·시간대 기준 확인. 공격 타임라인의 사건으로 분류하지 않음.",
+    "XML": "xml/system-1427.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-Kernel-General",
+    "Record": 1428,
+    "ID": 1,
+    "UTC": "2026-09-15T17:54:47.0447482Z",
+    "Category": "시간 기준",
+    "Reason": "시각 통일·시간대 기준 확인. 공격 타임라인의 사건으로 분류하지 않음.",
+    "XML": "xml/system-1428.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-Time-Service",
+    "Record": 1429,
+    "ID": 52,
+    "UTC": "2026-09-15T17:54:47.0456892Z",
+    "Category": "시간 기준",
+    "Reason": "시각 통일·시간대 기준 확인. 공격 타임라인의 사건으로 분류하지 않음.",
+    "XML": "xml/system-1429.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-Kernel-General",
+    "Record": 1430,
+    "ID": 1,
+    "UTC": "2026-09-15T17:54:47.0587786Z",
+    "Category": "시간 기준",
+    "Reason": "시각 통일·시간대 기준 확인. 공격 타임라인의 사건으로 분류하지 않음.",
+    "XML": "xml/system-1430.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-GroupPolicy",
+    "Record": 1431,
+    "ID": 1501,
+    "UTC": "2026-09-15T17:54:49.4925252Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1431.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-GroupPolicy",
+    "Record": 1432,
+    "ID": 1501,
+    "UTC": "2026-09-15T17:55:00.6963931Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1432.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-GroupPolicy",
+    "Record": 1433,
+    "ID": 1500,
+    "UTC": "2026-09-15T17:55:00.8701427Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1433.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-Kernel-General",
+    "Record": 1434,
+    "ID": 16,
+    "UTC": "2026-09-15T17:56:46.5448488Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1434.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-UserModePowerService",
+    "Record": 1435,
+    "ID": 22,
+    "UTC": "2026-09-15T17:56:59.6818315Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1435.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-Eventlog",
+    "Record": 1436,
+    "ID": 105,
+    "UTC": "2026-09-15T17:57:14.8202137Z",
+    "Category": "로그 보관 메타데이터",
+    "Reason": "Eventlog AutoBackup 기록. 다른 채널 원문을 열거나 해당 채널 행위를 분석한 것은 아님.",
+    "XML": "xml/system-1436.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-UserModePowerService",
+    "Record": 1437,
+    "ID": 12,
+    "UTC": "2026-09-15T18:00:56.0595614Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1437.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-UserModePowerService",
+    "Record": 1438,
+    "ID": 12,
+    "UTC": "2026-09-15T18:00:56.2091711Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1438.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-UserModePowerService",
+    "Record": 1439,
+    "ID": 12,
+    "UTC": "2026-09-15T18:00:56.3421092Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1439.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-UserModePowerService",
+    "Record": 1440,
+    "ID": 12,
+    "UTC": "2026-09-15T18:00:56.4773945Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1440.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-GroupPolicy",
+    "Record": 1441,
+    "ID": 1501,
+    "UTC": "2026-09-15T18:01:04.5341001Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1441.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-GroupPolicy",
+    "Record": 1442,
+    "ID": 1501,
+    "UTC": "2026-09-15T18:01:05.2689493Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1442.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Service Control Manager",
+    "Record": 1443,
+    "ID": 7045,
+    "UTC": "2026-09-15T18:01:15.6290127Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1443.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Service Control Manager",
+    "Record": 1444,
+    "ID": 7040,
+    "UTC": "2026-09-15T18:01:16.1741865Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1444.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Service Control Manager",
+    "Record": 1445,
+    "ID": 7045,
+    "UTC": "2026-09-15T18:01:17.1772598Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1445.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Service Control Manager",
+    "Record": 1446,
+    "ID": 7040,
+    "UTC": "2026-09-15T18:01:17.3193124Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1446.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-UserPnp",
+    "Record": 1447,
+    "ID": 20001,
+    "UTC": "2026-09-15T18:01:26.5932183Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1447.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-UserPnp",
+    "Record": 1448,
+    "ID": 20001,
+    "UTC": "2026-09-15T18:01:29.1854626Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1448.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Service Control Manager",
+    "Record": 1449,
+    "ID": 7045,
+    "UTC": "2026-09-15T18:01:30.3374390Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1449.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Service Control Manager",
+    "Record": 1450,
+    "ID": 7045,
+    "UTC": "2026-09-15T18:01:32.0927409Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1450.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-UserPnp",
+    "Record": 1451,
+    "ID": 20003,
+    "UTC": "2026-09-15T18:01:38.2252562Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1451.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-UserPnp",
+    "Record": 1452,
+    "ID": 20003,
+    "UTC": "2026-09-15T18:01:38.2351009Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1452.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-UserPnp",
+    "Record": 1453,
+    "ID": 20003,
+    "UTC": "2026-09-15T18:01:38.2435696Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1453.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-UserPnp",
+    "Record": 1454,
+    "ID": 20003,
+    "UTC": "2026-09-15T18:01:38.2515121Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1454.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Service Control Manager",
+    "Record": 1455,
+    "ID": 7045,
+    "UTC": "2026-09-15T18:01:38.2607927Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1455.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-UserPnp",
+    "Record": 1456,
+    "ID": 20003,
+    "UTC": "2026-09-15T18:01:38.3977067Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1456.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-UserPnp",
+    "Record": 1457,
+    "ID": 20001,
+    "UTC": "2026-09-15T18:01:39.0865363Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1457.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Service Control Manager",
+    "Record": 1458,
+    "ID": 7045,
+    "UTC": "2026-09-15T18:01:41.1878252Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1458.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Service Control Manager",
+    "Record": 1459,
+    "ID": 7045,
+    "UTC": "2026-09-15T18:01:42.5880976Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1459.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-Eventlog",
+    "Record": 1460,
+    "ID": 105,
+    "UTC": "2026-09-15T18:01:51.2247714Z",
+    "Category": "로그 보관 메타데이터",
+    "Reason": "Eventlog AutoBackup 기록. 다른 채널 원문을 열거나 해당 채널 행위를 분석한 것은 아님.",
+    "XML": "xml/system-1460.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Application Popup",
+    "Record": 1461,
+    "ID": 26,
+    "UTC": "2026-09-15T18:05:58.7846807Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1461.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-DNS-Client",
+    "Record": 1462,
+    "ID": 8015,
+    "UTC": "2026-09-15T18:09:27.9578471Z",
+    "Category": "DNS 등록",
+    "Reason": "피해 PC 인터페이스·DNS 서버·오류 코드 확인. C2 통신 증거가 아님.",
+    "XML": "xml/system-1462.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-DNS-Client",
+    "Record": 1463,
+    "ID": 8010,
+    "UTC": "2026-09-15T18:09:38.0433955Z",
+    "Category": "DNS 등록",
+    "Reason": "피해 PC 인터페이스·DNS 서버·오류 코드 확인. C2 통신 증거가 아님.",
+    "XML": "xml/system-1463.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "LsaSrv",
+    "Record": 1464,
+    "ID": 6038,
+    "UTC": "2026-09-15T18:10:30.4868534Z",
+    "Category": "NTLM 보조 기록",
+    "Reason": "LsaSrv의 NTLM 관련 기록. 연결 상대·공유 접근·원격 실행을 단독 입증하지 않음.",
+    "XML": "xml/system-1464.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Application Popup",
+    "Record": 1465,
+    "ID": 26,
+    "UTC": "2026-09-15T18:10:58.1235972Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1465.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Application Popup",
+    "Record": 1466,
+    "ID": 26,
+    "UTC": "2026-09-15T18:10:58.1247705Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1466.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-Eventlog",
+    "Record": 1467,
+    "ID": 105,
+    "UTC": "2026-09-15T18:11:50.6965943Z",
+    "Category": "로그 보관 메타데이터",
+    "Reason": "Eventlog AutoBackup 기록. 다른 채널 원문을 열거나 해당 채널 행위를 분석한 것은 아님.",
+    "XML": "xml/system-1467.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-DistributedCOM",
+    "Record": 1468,
+    "ID": 10016,
+    "UTC": "2026-09-15T18:12:54.6062973Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1468.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Application Popup",
+    "Record": 1469,
+    "ID": 26,
+    "UTC": "2026-09-15T18:15:14.8961377Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1469.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Application Popup",
+    "Record": 1470,
+    "ID": 26,
+    "UTC": "2026-09-15T18:15:14.8973543Z",
+    "Category": "시스템·환경 일반",
+    "Reason": "Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.",
+    "XML": "xml/system-1470.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Service Control Manager",
+    "Record": 1471,
+    "ID": 7031,
+    "UTC": "2026-09-15T18:17:41.5345004Z",
+    "Category": "VMware 환경 구성 제외",
+    "Reason": "VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.",
+    "XML": "xml/system-1471.xml"
+  },
+  {
+    "File": "system.evtx",
+    "Provider": "Microsoft-Windows-Eventlog",
+    "Record": 1472,
+    "ID": 105,
+    "UTC": "2026-09-15T18:19:33.2981634Z",
+    "Category": "로그 보관 메타데이터",
+    "Reason": "Eventlog AutoBackup 기록. 다른 채널 원문을 열거나 해당 채널 행위를 분석한 것은 아님.",
+    "XML": "xml/system-1472.xml"
+  }
+]

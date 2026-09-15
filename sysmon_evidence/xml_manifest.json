@@ -1,0 +1,218 @@
+[
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "Record": 372192,
+    "ID": 11,
+    "UTC": "2026-09-15T01:53:26.4439410Z",
+    "XMLFile": "sysmon-372192.xml",
+    "SHA256": "40182022fc881bd634bb57370d95a5edec4f855ea383e52f4a52277f152609b8"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "Record": 372275,
+    "ID": 1,
+    "UTC": "2026-09-15T01:53:27.1886761Z",
+    "XMLFile": "sysmon-372275.xml",
+    "SHA256": "1c0097a59b36e2b0031d2adc9c52b40322c6dada525b9d63f0dcd07d3e665a18"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "Record": 372400,
+    "ID": 11,
+    "UTC": "2026-09-15T01:53:27.2757719Z",
+    "XMLFile": "sysmon-372400.xml",
+    "SHA256": "6f7596453d254ab48573d47df3c121e00c0e593696fe6ef719cfb00f74a85bb4"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "Record": 372627,
+    "ID": 11,
+    "UTC": "2026-09-15T01:53:27.4182099Z",
+    "XMLFile": "sysmon-372627.xml",
+    "SHA256": "b339476ba6f596ad404b677c55e1fc7916b72d8c5a4b11996fc10e3171dd9361"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "Record": 373176,
+    "ID": 1,
+    "UTC": "2026-09-15T01:53:28.2207219Z",
+    "XMLFile": "sysmon-373176.xml",
+    "SHA256": "5868a6eea3965646552b58f484e751ba71f3d922ff713480dcc4cc87b736b441"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "Record": 373183,
+    "ID": 1,
+    "UTC": "2026-09-15T01:53:28.2443584Z",
+    "XMLFile": "sysmon-373183.xml",
+    "SHA256": "e1151ac8425de7f6c0e1cf5b32422bbbdfe6c3c9bc33b73f17ae3232facfa7f8"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "Record": 373237,
+    "ID": 11,
+    "UTC": "2026-09-15T01:53:28.3256040Z",
+    "XMLFile": "sysmon-373237.xml",
+    "SHA256": "5f3b79db4828dd70e5fc3606321eb16208a96575eae240784ea48c5ceed2636a"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "Record": 373270,
+    "ID": 1,
+    "UTC": "2026-09-15T01:53:28.3763023Z",
+    "XMLFile": "sysmon-373270.xml",
+    "SHA256": "665c469181fc5c5f7449713f5f8dc822e4720d2991d326ee0eb21f2c488b847a"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "Record": 373278,
+    "ID": 11,
+    "UTC": "2026-09-15T01:53:28.3855429Z",
+    "XMLFile": "sysmon-373278.xml",
+    "SHA256": "e462dcc019ce203ccccf20cd3e6685fb90dac2abfc4aaec88f69ad7161cf6f83"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "Record": 373619,
+    "ID": 3,
+    "UTC": "2026-09-15T01:53:31.3273990Z",
+    "XMLFile": "sysmon-373619.xml",
+    "SHA256": "6974a8fbfd98b12a311ca2f06a9c6df6a78eff6294edd206b0e91c73761cfc08"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "Record": 392738,
+    "ID": 1,
+    "UTC": "2026-09-15T17:56:34.3441709Z",
+    "XMLFile": "sysmon-392738.xml",
+    "SHA256": "ceaa88dae27ae348a34fda4e7f81596f6069c56cecf344e43858494b6eaf9fcf"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "Record": 392739,
+    "ID": 10,
+    "UTC": "2026-09-15T17:56:34.3442588Z",
+    "XMLFile": "sysmon-392739.xml",
+    "SHA256": "70a645a9b13ea743ba7dd6f1a39f3dc3ab515f4265dc225061eec1443b59e73c"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "Record": 392742,
+    "ID": 8,
+    "UTC": "2026-09-15T17:56:34.3586463Z",
+    "XMLFile": "sysmon-392742.xml",
+    "SHA256": "c88813331bee545cfe41ed59a5ae80e9b76d6fbecfe09574571df18ef8b228c8"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-01-45-868.evtx",
+    "Record": 421265,
+    "ID": 11,
+    "UTC": "2026-09-15T17:57:38.1996210Z",
+    "XMLFile": "sysmon-421265.xml",
+    "SHA256": "271580edc7828df2613f75f0fef24c3ea91121efc417fe67aa7360506b5ce328"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-01-45-868.evtx",
+    "Record": 450274,
+    "ID": 1,
+    "UTC": "2026-09-15T18:00:27.8078276Z",
+    "XMLFile": "sysmon-450274.xml",
+    "SHA256": "84c8d3f2d80f6e16a8e3e671c438faf3140c68ab9c3b97948a13ab4c8e0630d2"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-01-45-868.evtx",
+    "Record": 450645,
+    "ID": 3,
+    "UTC": "2026-09-15T18:00:30.0249366Z",
+    "XMLFile": "sysmon-450645.xml",
+    "SHA256": "20384fcd49e994d3bc43b751b70f295a5137d609cb8128ad71e2c57779cf9c91"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-01-45-868.evtx",
+    "Record": 467855,
+    "ID": 10,
+    "UTC": "2026-09-15T18:01:33.4998055Z",
+    "XMLFile": "sysmon-467855.xml",
+    "SHA256": "80b7ea43bc82d187233d7dcd349b789f7e38762be5ebff6e6e0f807cf6cfdbe5"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-01-45-868.evtx",
+    "Record": 467858,
+    "ID": 10,
+    "UTC": "2026-09-15T18:01:33.5065136Z",
+    "XMLFile": "sysmon-467858.xml",
+    "SHA256": "dd78164460086c9e7f276113b3bc65e955eaaae981eea8d50e725365037ecf9c"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+    "Record": 492577,
+    "ID": 3,
+    "UTC": "2026-09-15T18:05:11.5911802Z",
+    "XMLFile": "sysmon-492577.xml",
+    "SHA256": "01e612cba3f513068802ab2021e0def7182deb7d8990852eb34b28bdafe84589"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+    "Record": 507720,
+    "ID": 1,
+    "UTC": "2026-09-15T18:09:01.5962105Z",
+    "XMLFile": "sysmon-507720.xml",
+    "SHA256": "a2b471d76607a4817b95260df2d257059c9e414c13f4f91e3566dbc274e2b835"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+    "Record": 507721,
+    "ID": 10,
+    "UTC": "2026-09-15T18:09:01.5966392Z",
+    "XMLFile": "sysmon-507721.xml",
+    "SHA256": "a306e85739df22e39c6384db807cf56817786837ac092a1392bd9fdbfb055960"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+    "Record": 508053,
+    "ID": 1,
+    "UTC": "2026-09-15T18:09:05.9514777Z",
+    "XMLFile": "sysmon-508053.xml",
+    "SHA256": "7e3ed0ad93528576c7a9e29e4196a9683d2d87f750c0d8d8f1928530c57389c7"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+    "Record": 508054,
+    "ID": 10,
+    "UTC": "2026-09-15T18:09:05.9521921Z",
+    "XMLFile": "sysmon-508054.xml",
+    "SHA256": "d28b32c249a4fd0edb8afaff25518ad531fc7981a0e8930f5496793157d52322"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+    "Record": 508094,
+    "ID": 1,
+    "UTC": "2026-09-15T18:09:06.0855902Z",
+    "XMLFile": "sysmon-508094.xml",
+    "SHA256": "0b8ef5367be5bcab7411b18b1fb56c10ac6627803ff841798088cf0022a33a26"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+    "Record": 508548,
+    "ID": 13,
+    "UTC": "2026-09-15T18:09:06.6125331Z",
+    "XMLFile": "sysmon-508548.xml",
+    "SHA256": "850cc421599976be264db7eddd384368fd819a98a766616ceb86e708dff3becd"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+    "Record": 508550,
+    "ID": 13,
+    "UTC": "2026-09-15T18:09:06.6126193Z",
+    "XMLFile": "sysmon-508550.xml",
+    "SHA256": "72988dc9928d2aaa9fd2e73b10f9c13861fee00f298a057cd4abd833eb55fd7f"
+  },
+  {
+    "File": "Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+    "Record": 512131,
+    "ID": 11,
+    "UTC": "2026-09-15T18:10:30.5121606Z",
+    "XMLFile": "sysmon-512131.xml",
+    "SHA256": "ea6ce9378c6628bad6008f9a516873cd3b92f7d35eb96853c994f10ab4f40054"
+  }
+]

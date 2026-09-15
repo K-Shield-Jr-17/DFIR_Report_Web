@@ -1,0 +1,394 @@
+﻿File,Provider,Record,ID,UTC,Category,Reason,XML
+application.evtx,Windows Error Reporting,885,1001,2026-09-15T17:54:52.0634830Z,응용 오류·WER,대상 이미지·오류 유형·ReportQueue 경로 확인. a.exe 또는 LSASS 덤프 성공 증거 미발견.,xml/application-885.xml
+application.evtx,SceCli,886,1704,2026-09-15T17:55:00.8412071Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-886.xml
+application.evtx,ESENT,887,102,2026-09-15T17:56:50.8402406Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-887.xml
+application.evtx,ESENT,888,300,2026-09-15T17:56:50.8402406Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-888.xml
+application.evtx,ESENT,889,301,2026-09-15T17:56:50.8557118Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-889.xml
+application.evtx,ESENT,890,302,2026-09-15T17:56:50.8870996Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-890.xml
+application.evtx,ESENT,891,105,2026-09-15T17:56:50.8870996Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-891.xml
+application.evtx,ESENT,892,326,2026-09-15T17:56:50.9182248Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-892.xml
+application.evtx,MsiInstaller,893,1040,2026-09-15T17:59:04.1467587Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-893.xml
+application.evtx,Microsoft-Windows-RestartManager,894,10000,2026-09-15T17:59:16.7197847Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-894.xml
+application.evtx,Microsoft-Windows-RestartManager,895,10000,2026-09-15T17:59:17.0834036Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-895.xml
+application.evtx,MsiInstaller,896,11707,2026-09-15T17:59:18.9245104Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-896.xml
+application.evtx,MsiInstaller,897,1033,2026-09-15T17:59:18.9245104Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-897.xml
+application.evtx,MsiInstaller,898,1042,2026-09-15T17:59:18.9658162Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-898.xml
+application.evtx,MsiInstaller,899,1040,2026-09-15T17:59:19.0249007Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-899.xml
+application.evtx,Microsoft-Windows-RestartManager,900,10001,2026-09-15T17:59:18.9392805Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-900.xml
+application.evtx,Microsoft-Windows-RestartManager,901,10001,2026-09-15T17:59:18.9427678Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-901.xml
+application.evtx,Microsoft-Windows-RestartManager,902,10000,2026-09-15T17:59:19.1002953Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-902.xml
+application.evtx,Microsoft-Windows-RestartManager,903,10000,2026-09-15T17:59:19.4027309Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-903.xml
+application.evtx,MsiInstaller,904,11707,2026-09-15T17:59:20.6496354Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-904.xml
+application.evtx,MsiInstaller,905,1033,2026-09-15T17:59:20.6496354Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-905.xml
+application.evtx,MsiInstaller,906,1042,2026-09-15T17:59:20.6810419Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-906.xml
+application.evtx,Microsoft-Windows-RestartManager,907,10001,2026-09-15T17:59:20.6724164Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-907.xml
+application.evtx,Microsoft-Windows-RestartManager,908,10001,2026-09-15T17:59:20.6749821Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-908.xml
+application.evtx,MsiInstaller,909,1040,2026-09-15T17:59:23.5505283Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-909.xml
+application.evtx,Microsoft-Windows-RestartManager,910,10000,2026-09-15T17:59:23.6163585Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-910.xml
+application.evtx,Microsoft-Windows-RestartManager,911,10010,2026-09-15T17:59:23.8494916Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-911.xml
+application.evtx,Microsoft-Windows-RestartManager,912,10010,2026-09-15T17:59:23.8549054Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-912.xml
+application.evtx,Microsoft-Windows-RestartManager,913,10010,2026-09-15T17:59:23.8623463Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-913.xml
+application.evtx,Microsoft-Windows-RestartManager,914,10010,2026-09-15T17:59:23.8673932Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-914.xml
+application.evtx,Microsoft-Windows-RestartManager,915,10010,2026-09-15T17:59:23.8721690Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-915.xml
+application.evtx,Microsoft-Windows-RestartManager,916,10010,2026-09-15T17:59:23.8742776Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-916.xml
+application.evtx,Microsoft-Windows-RestartManager,917,10005,2026-09-15T17:59:23.8742943Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-917.xml
+application.evtx,Microsoft-Windows-RestartManager,918,10000,2026-09-15T17:59:23.8878758Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-918.xml
+application.evtx,Microsoft-Windows-RestartManager,919,10010,2026-09-15T17:59:23.9159888Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-919.xml
+application.evtx,Microsoft-Windows-RestartManager,920,10010,2026-09-15T17:59:23.9221211Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-920.xml
+application.evtx,Microsoft-Windows-RestartManager,921,10010,2026-09-15T17:59:23.9274904Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-921.xml
+application.evtx,Microsoft-Windows-RestartManager,922,10010,2026-09-15T17:59:23.9317049Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-922.xml
+application.evtx,Microsoft-Windows-RestartManager,923,10005,2026-09-15T17:59:23.9392317Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-923.xml
+application.evtx,Microsoft-Windows-RestartManager,924,10000,2026-09-15T17:59:23.9926601Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-924.xml
+application.evtx,Microsoft-Windows-RestartManager,925,10010,2026-09-15T17:59:24.2077996Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-925.xml
+application.evtx,Microsoft-Windows-RestartManager,926,10010,2026-09-15T17:59:24.2117688Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-926.xml
+application.evtx,Microsoft-Windows-RestartManager,927,10010,2026-09-15T17:59:24.2156221Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-927.xml
+application.evtx,Microsoft-Windows-RestartManager,928,10010,2026-09-15T17:59:24.2197244Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-928.xml
+application.evtx,Microsoft-Windows-RestartManager,929,10010,2026-09-15T17:59:24.2236060Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-929.xml
+application.evtx,Microsoft-Windows-RestartManager,930,10010,2026-09-15T17:59:24.2252885Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-930.xml
+application.evtx,Microsoft-Windows-RestartManager,931,10005,2026-09-15T17:59:24.2253053Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-931.xml
+application.evtx,Microsoft-Windows-RestartManager,932,10000,2026-09-15T17:59:24.2265714Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-932.xml
+application.evtx,Microsoft-Windows-RestartManager,933,10010,2026-09-15T17:59:24.2640517Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-933.xml
+application.evtx,Microsoft-Windows-RestartManager,934,10010,2026-09-15T17:59:24.2675848Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-934.xml
+application.evtx,Microsoft-Windows-RestartManager,935,10010,2026-09-15T17:59:24.2707795Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-935.xml
+application.evtx,Microsoft-Windows-RestartManager,936,10010,2026-09-15T17:59:24.2740239Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-936.xml
+application.evtx,Microsoft-Windows-RestartManager,937,10005,2026-09-15T17:59:24.2800011Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-937.xml
+application.evtx,MsiInstaller,938,11707,2026-09-15T17:59:25.6610979Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-938.xml
+application.evtx,MsiInstaller,939,1033,2026-09-15T17:59:25.6610979Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-939.xml
+application.evtx,MsiInstaller,940,1042,2026-09-15T17:59:25.7866214Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-940.xml
+application.evtx,MsiInstaller,941,1040,2026-09-15T17:59:25.8964940Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-941.xml
+application.evtx,Microsoft-Windows-RestartManager,942,10001,2026-09-15T17:59:25.7177907Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-942.xml
+application.evtx,Microsoft-Windows-RestartManager,943,10001,2026-09-15T17:59:25.7216339Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-943.xml
+application.evtx,Microsoft-Windows-RestartManager,944,10001,2026-09-15T17:59:25.8113339Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-944.xml
+application.evtx,Microsoft-Windows-RestartManager,945,10001,2026-09-15T17:59:25.8199447Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-945.xml
+application.evtx,Microsoft-Windows-RestartManager,946,10000,2026-09-15T17:59:26.0569183Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-946.xml
+application.evtx,Microsoft-Windows-RestartManager,947,10010,2026-09-15T17:59:26.7733501Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-947.xml
+application.evtx,Microsoft-Windows-RestartManager,948,10005,2026-09-15T17:59:26.7733631Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-948.xml
+application.evtx,Microsoft-Windows-RestartManager,949,10000,2026-09-15T17:59:26.7751669Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-949.xml
+application.evtx,Microsoft-Windows-RestartManager,950,10005,2026-09-15T17:59:26.7953271Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-950.xml
+application.evtx,Microsoft-Windows-RestartManager,951,10000,2026-09-15T17:59:26.9001878Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-951.xml
+application.evtx,Microsoft-Windows-RestartManager,952,10010,2026-09-15T17:59:27.2403192Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-952.xml
+application.evtx,Microsoft-Windows-RestartManager,953,10005,2026-09-15T17:59:27.2403336Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-953.xml
+application.evtx,Microsoft-Windows-RestartManager,954,10000,2026-09-15T17:59:27.2417772Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-954.xml
+application.evtx,Microsoft-Windows-RestartManager,955,10005,2026-09-15T17:59:27.2534774Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-955.xml
+application.evtx,MsiInstaller,956,11707,2026-09-15T17:59:28.4318953Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-956.xml
+application.evtx,MsiInstaller,957,1033,2026-09-15T17:59:28.4318953Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-957.xml
+application.evtx,MsiInstaller,958,1042,2026-09-15T17:59:28.4630712Z,설치 관리,제품·MSI 경로·설치 상태 확인. 설치 활동이며 공격 관련성 입증 없음.,xml/application-958.xml
+application.evtx,Microsoft-Windows-RestartManager,959,10001,2026-09-15T17:59:28.4450844Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-959.xml
+application.evtx,Microsoft-Windows-RestartManager,960,10001,2026-09-15T17:59:28.4472368Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-960.xml
+application.evtx,Microsoft-Windows-RestartManager,961,10001,2026-09-15T17:59:28.4726747Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-961.xml
+application.evtx,Microsoft-Windows-RestartManager,962,10001,2026-09-15T17:59:28.4745938Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-962.xml
+application.evtx,VSS,963,8224,2026-09-15T17:59:48.3335959Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-963.xml
+application.evtx,MsiInstaller,964,1040,2026-09-15T18:00:06.4172913Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-964.xml
+application.evtx,VMUpgradeHelper,965,260,2026-09-15T18:00:46.3244061Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-965.xml
+application.evtx,VMUpgradeHelper,966,272,2026-09-15T18:00:46.3244061Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-966.xml
+application.evtx,VMTools,967,108,2026-09-15T18:00:46.3399439Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-967.xml
+application.evtx,Microsoft-Windows-RestartManager,968,10000,2026-09-15T18:00:46.2902608Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-968.xml
+application.evtx,Microsoft-Windows-RestartManager,969,10002,2026-09-15T18:00:46.3545917Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-969.xml
+application.evtx,Microsoft-Windows-RestartManager,970,10001,2026-09-15T18:00:46.3552668Z,프로세스 보조 관측,UserData의 FullPath·Pid·TSSessionId·상태 확인. 생성 시각·부모·명령줄 미제공.,xml/application-970.xml
+application.evtx,VMTools,971,105,2026-09-15T18:01:41.4030848Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-971.xml
+application.evtx,MsiInstaller,972,1038,2026-09-15T18:01:50.4735868Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-972.xml
+application.evtx,MsiInstaller,973,1042,2026-09-15T18:01:50.5827229Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-973.xml
+application.evtx,Windows Error Reporting,974,1001,2026-09-15T18:02:04.0899559Z,응용 오류·WER,대상 이미지·오류 유형·ReportQueue 경로 확인. a.exe 또는 LSASS 덤프 성공 증거 미발견.,xml/application-974.xml
+application.evtx,MsiInstaller,975,11707,2026-09-15T18:10:59.3729723Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-975.xml
+application.evtx,MsiInstaller,976,1033,2026-09-15T18:10:59.3729723Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-976.xml
+application.evtx,MsiInstaller,977,1038,2026-09-15T18:10:59.3729723Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-977.xml
+application.evtx,MsiInstaller,978,1029,2026-09-15T18:10:59.3729723Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-978.xml
+application.evtx,Wow64 Emulation Layer,979,1109,2026-09-15T18:12:01.8247211Z,프로그램 실행 실패,시스템 익스플로러.exe 호환성 실행 실패. a.exe와 동일 파일이라는 근거 없음.,xml/application-979.xml
+application.evtx,Microsoft-Windows-Winlogon,980,6000,2026-09-15T18:12:53.2759930Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-980.xml
+application.evtx,Microsoft-Windows-Winlogon,981,6000,2026-09-15T18:12:54.0211521Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-981.xml
+application.evtx,MsiInstaller,982,1040,2026-09-15T18:15:04.7331286Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-982.xml
+application.evtx,MsiInstaller,983,1038,2026-09-15T18:15:13.1509935Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-983.xml
+application.evtx,MsiInstaller,984,1042,2026-09-15T18:15:13.1820271Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-984.xml
+application.evtx,MsiInstaller,985,11728,2026-09-15T18:15:17.4695644Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-985.xml
+application.evtx,MsiInstaller,986,1035,2026-09-15T18:15:17.4695644Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-986.xml
+application.evtx,MsiInstaller,987,1038,2026-09-15T18:15:17.4852597Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-987.xml
+application.evtx,MsiInstaller,988,1029,2026-09-15T18:15:17.4862555Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-988.xml
+application.evtx,Windows Error Reporting,989,1001,2026-09-15T18:15:41.5877218Z,응용 오류·WER,대상 이미지·오류 유형·ReportQueue 경로 확인. a.exe 또는 LSASS 덤프 성공 증거 미발견.,xml/application-989.xml
+application.evtx,Application Hang,990,1002,2026-09-15T18:15:41.5877218Z,응용 오류·WER,대상 이미지·오류 유형·ReportQueue 경로 확인. a.exe 또는 LSASS 덤프 성공 증거 미발견.,xml/application-990.xml
+application.evtx,VMUpgradeHelper,991,260,2026-09-15T18:17:19.2047136Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-991.xml
+application.evtx,VMUpgradeHelper,992,272,2026-09-15T18:17:19.2047136Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-992.xml
+application.evtx,VMTools,993,108,2026-09-15T18:17:19.2173192Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-993.xml
+application.evtx,VMTools,994,105,2026-09-15T18:17:19.3738148Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-994.xml
+application.evtx,VMUpgradeHelper,995,258,2026-09-15T18:17:22.0617260Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-995.xml
+application.evtx,VMUpgradeHelper,996,271,2026-09-15T18:17:23.3105854Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-996.xml
+application.evtx,VSS,997,8224,2026-09-15T18:20:20.7880327Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-997.xml
+application.evtx,VMTools,998,105,2026-09-15T18:20:37.9585041Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/application-998.xml
+application.evtx,VMUpgradeHelper,999,258,2026-09-15T18:20:39.7969208Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-999.xml
+application.evtx,VMUpgradeHelper,1000,271,2026-09-15T18:20:41.7311327Z,응용·환경 일반,"Provider, EventData, UserData 및 Binary 존재 확인. 시나리오 실행·통신·덤프·이동 직접 증거 미발견.",xml/application-1000.xml
+powershell_classic.evtx,PowerShell,51,600,2026-09-15T17:59:26.6836865Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-51.xml
+powershell_classic.evtx,PowerShell,52,600,2026-09-15T17:59:26.6836865Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-52.xml
+powershell_classic.evtx,PowerShell,53,600,2026-09-15T17:59:26.6836865Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-53.xml
+powershell_classic.evtx,PowerShell,54,600,2026-09-15T17:59:26.6991721Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-54.xml
+powershell_classic.evtx,PowerShell,55,600,2026-09-15T17:59:26.6991721Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-55.xml
+powershell_classic.evtx,PowerShell,56,600,2026-09-15T17:59:26.6991721Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-56.xml
+powershell_classic.evtx,PowerShell,57,400,2026-09-15T17:59:26.6991721Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-57.xml
+powershell_classic.evtx,PowerShell,58,600,2026-09-15T18:17:09.4478424Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-58.xml
+powershell_classic.evtx,PowerShell,59,600,2026-09-15T18:17:09.4478424Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-59.xml
+powershell_classic.evtx,PowerShell,60,600,2026-09-15T18:17:09.4478424Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-60.xml
+powershell_classic.evtx,PowerShell,61,600,2026-09-15T18:17:09.4478424Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-61.xml
+powershell_classic.evtx,PowerShell,62,600,2026-09-15T18:17:09.4478424Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-62.xml
+powershell_classic.evtx,PowerShell,63,600,2026-09-15T18:17:09.4478424Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-63.xml
+powershell_classic.evtx,PowerShell,64,400,2026-09-15T18:17:09.4478424Z,PowerShell 세션,HostApplication·HostId·RunspaceId·엔진/공급자 상태 대조 완료.,xml/powershell_classic-64.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,77,40961,2026-09-15T17:59:26.3740683Z,PowerShell 세션,엔진/호스트 초기화 및 IPC 정보. SID·PID·시각 대조 완료.,xml/powershell_operational-77.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,78,53504,2026-09-15T17:59:26.5040539Z,PowerShell 세션,엔진/호스트 초기화 및 IPC 정보. SID·PID·시각 대조 완료.,xml/powershell_operational-78.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,79,40962,2026-09-15T17:59:26.9538577Z,PowerShell 세션,엔진/호스트 초기화 및 IPC 정보. SID·PID·시각 대조 완료.,xml/powershell_operational-79.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,80,4104,2026-09-15T17:59:26.9667298Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-80.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,81,4104,2026-09-15T17:59:55.7378203Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-81.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,82,4104,2026-09-15T17:59:56.3118694Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-82.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,83,4104,2026-09-15T18:00:27.6838776Z,서비스 시작 명령,관리자 SID에서 sc.exe start VulnAppSvc 처리 기록. 서비스 시작 결과·실행 이미지 미기록.,xml/powershell_operational-83.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,84,4104,2026-09-15T18:00:27.9104314Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-84.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,85,40961,2026-09-15T18:17:09.1848766Z,PowerShell 세션,엔진/호스트 초기화 및 IPC 정보. SID·PID·시각 대조 완료.,xml/powershell_operational-85.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,86,53504,2026-09-15T18:17:09.2872693Z,PowerShell 세션,엔진/호스트 초기화 및 IPC 정보. SID·PID·시각 대조 완료.,xml/powershell_operational-86.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,87,40962,2026-09-15T18:17:09.6000968Z,PowerShell 세션,엔진/호스트 초기화 및 IPC 정보. SID·PID·시각 대조 완료.,xml/powershell_operational-87.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,88,4104,2026-09-15T18:17:09.6090771Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-88.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,89,4104,2026-09-15T18:17:19.0875493Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/powershell_operational-89.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,90,4104,2026-09-15T18:17:19.6521555Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-90.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,91,4104,2026-09-15T18:17:20.2923242Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-91.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,92,4104,2026-09-15T18:17:20.4283514Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-92.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,93,4104,2026-09-15T18:17:20.5568693Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-93.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,94,4104,2026-09-15T18:17:20.7089086Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-94.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,95,4104,2026-09-15T18:17:41.5245015Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/powershell_operational-95.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,96,4104,2026-09-15T18:17:41.5383611Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-96.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,97,4104,2026-09-15T18:18:23.1968096Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/powershell_operational-97.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,98,4104,2026-09-15T18:18:23.2544768Z,PowerShell 보조 기록,오류 표시 속성 관련 스크립트. 출력 결과나 공격 명령으로 단정하지 않음.,xml/powershell_operational-98.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,99,4104,2026-09-15T18:18:23.2578310Z,PowerShell 보조 기록,오류 표시 속성 관련 스크립트. 출력 결과나 공격 명령으로 단정하지 않음.,xml/powershell_operational-99.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,100,4104,2026-09-15T18:18:23.2729588Z,PowerShell 보조 기록,오류 표시 속성 관련 스크립트. 출력 결과나 공격 명령으로 단정하지 않음.,xml/powershell_operational-100.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,101,4104,2026-09-15T18:18:23.2841408Z,PowerShell 보조 기록,오류 표시 속성 관련 스크립트. 출력 결과나 공격 명령으로 단정하지 않음.,xml/powershell_operational-101.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,102,4104,2026-09-15T18:18:23.3134950Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-102.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,103,4104,2026-09-15T18:19:05.6904058Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/powershell_operational-103.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,104,4104,2026-09-15T18:19:05.7489438Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-104.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,105,4104,2026-09-15T18:19:22.5134488Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/powershell_operational-105.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,106,4104,2026-09-15T18:19:22.5237362Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-106.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,107,4104,2026-09-15T18:19:30.2449946Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/powershell_operational-107.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,108,4104,2026-09-15T18:19:30.2530274Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-108.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,109,4104,2026-09-15T18:19:59.3820532Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/powershell_operational-109.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,110,4104,2026-09-15T18:19:59.4073229Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-110.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,111,4104,2026-09-15T18:20:00.5347315Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/powershell_operational-111.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,112,4104,2026-09-15T18:20:00.5422096Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-112.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,113,4104,2026-09-15T18:20:02.2162972Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/powershell_operational-113.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,114,4104,2026-09-15T18:20:02.2344758Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-114.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,115,4104,2026-09-15T18:20:03.1786511Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/powershell_operational-115.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,116,4104,2026-09-15T18:20:03.1952842Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-116.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,117,4104,2026-09-15T18:20:05.4962033Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/powershell_operational-117.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,118,4104,2026-09-15T18:20:05.5089355Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-118.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,119,4104,2026-09-15T18:20:37.8588558Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/powershell_operational-119.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,120,4104,2026-09-15T18:20:38.2420324Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-120.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,121,4104,2026-09-15T18:20:39.4215198Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/powershell_operational-121.xml
+powershell_operational.evtx,Microsoft-Windows-PowerShell,122,4104,2026-09-15T18:20:39.4288920Z,PowerShell 보조 기록,프롬프트 함수 처리. 다운로드·서비스 시작 성공의 결과값이 아님.,xml/powershell_operational-122.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4256,4616,2026-09-15T17:54:47.0447825Z,시간 기준,사용자가 설명한 환경 시간 통일. 공격 징후로 분류하지 않음.,xml/security-4256.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4257,4616,2026-09-15T17:54:47.0588892Z,시간 기준,사용자가 설명한 환경 시간 통일. 공격 징후로 분류하지 않음.,xml/security-4257.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4258,4648,2026-09-15T17:54:48.8223857Z,명시적 자격증명,대상 서버·계정·ProcessName 확인. 5건 모두 localhost 또는 자기 컴퓨터 계정 대상.,xml/security-4258.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4259,4672,2026-09-15T17:54:48.8236837Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4259.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4260,4624,2026-09-15T17:54:48.8254231Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4260.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4261,4634,2026-09-15T17:54:48.8305547Z,로그오프,계정·LogonId·유형 대조 완료.,xml/security-4261.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4262,4624,2026-09-15T17:54:50.2569025Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4262.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4263,4672,2026-09-15T17:54:50.2569149Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4263.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4264,4624,2026-09-15T17:54:51.0899050Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4264.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4265,4672,2026-09-15T17:54:51.0899176Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4265.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4266,4672,2026-09-15T17:55:00.2003786Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4266.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4267,4624,2026-09-15T17:55:00.2010459Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4267.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4268,4634,2026-09-15T17:55:00.4161562Z,로그오프,계정·LogonId·유형 대조 완료.,xml/security-4268.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4269,4624,2026-09-15T17:56:44.5299985Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4269.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4270,4672,2026-09-15T17:56:44.5300109Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4270.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4271,4624,2026-09-15T17:56:44.7811872Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4271.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4272,4672,2026-09-15T17:56:44.7811999Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4272.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4273,4624,2026-09-15T17:56:45.5755205Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4273.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4274,4672,2026-09-15T17:56:45.5755332Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4274.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4275,4624,2026-09-15T17:56:46.5316102Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4275.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4276,4672,2026-09-15T17:56:46.5316239Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4276.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4277,4624,2026-09-15T17:56:46.6950116Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4277.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4278,4672,2026-09-15T17:56:46.6950240Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4278.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4279,4624,2026-09-15T17:56:47.1160700Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4279.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4280,4672,2026-09-15T17:56:47.1160830Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4280.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4281,4624,2026-09-15T17:56:47.1734618Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4281.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4282,4672,2026-09-15T17:56:47.1734742Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4282.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4283,4624,2026-09-15T17:56:47.3290652Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4283.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4284,4672,2026-09-15T17:56:47.3290783Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4284.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4285,4799,2026-09-15T17:56:47.6092274Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4285.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4286,4799,2026-09-15T17:56:47.6129510Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4286.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4287,4624,2026-09-15T17:56:47.6511982Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4287.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4288,4672,2026-09-15T17:56:47.6512106Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4288.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4289,4799,2026-09-15T17:56:47.8807674Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4289.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4290,4799,2026-09-15T17:56:47.8844138Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4290.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4291,4799,2026-09-15T17:56:48.0570797Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4291.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4292,4799,2026-09-15T17:56:48.0596167Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4292.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4293,4799,2026-09-15T17:56:48.1749596Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4293.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4294,4799,2026-09-15T17:56:48.1786959Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4294.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4295,4624,2026-09-15T17:56:50.3705686Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4295.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4296,4672,2026-09-15T17:56:50.3705819Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4296.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4297,4624,2026-09-15T17:56:53.4216036Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4297.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4298,4672,2026-09-15T17:56:53.4216273Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4298.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4299,4799,2026-09-15T17:58:54.5300442Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4299.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4300,4799,2026-09-15T17:58:54.5300442Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4300.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4301,4648,2026-09-15T17:59:00.7259931Z,명시적 자격증명,대상 서버·계정·ProcessName 확인. 5건 모두 localhost 또는 자기 컴퓨터 계정 대상.,xml/security-4301.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4302,4624,2026-09-15T17:59:00.7261091Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4302.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4303,4672,2026-09-15T17:59:00.7261328Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4303.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4304,4624,2026-09-15T17:59:03.9262728Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4304.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4305,4672,2026-09-15T17:59:03.9262848Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4305.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4306,4799,2026-09-15T17:59:18.6134128Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4306.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4307,4799,2026-09-15T17:59:18.6144002Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4307.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4308,4648,2026-09-15T17:59:24.8417222Z,명시적 자격증명,대상 서버·계정·ProcessName 확인. 5건 모두 localhost 또는 자기 컴퓨터 계정 대상.,xml/security-4308.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4309,4624,2026-09-15T17:59:24.8417867Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4309.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4310,4672,2026-09-15T17:59:24.8417997Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4310.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4311,5889,2026-09-15T18:00:54.5766276Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/security-4311.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4312,4798,2026-09-15T18:00:55.1091337Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4312.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4313,4624,2026-09-15T18:01:21.9047038Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4313.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4314,4672,2026-09-15T18:01:21.9047169Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4314.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4315,4798,2026-09-15T18:01:27.2964944Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4315.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4316,4624,2026-09-15T18:01:34.1557104Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4316.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4317,4672,2026-09-15T18:01:34.1557227Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4317.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4318,5890,2026-09-15T18:01:42.5034904Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/security-4318.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4319,4798,2026-09-15T18:01:43.1917767Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4319.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4320,5890,2026-09-15T18:01:43.7084148Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/security-4320.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4321,4798,2026-09-15T18:01:44.0418662Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4321.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4322,5890,2026-09-15T18:01:44.2258056Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/security-4322.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4323,5890,2026-09-15T18:01:44.2261247Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/security-4323.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4324,4798,2026-09-15T18:01:44.8122804Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4324.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4325,4798,2026-09-15T18:01:51.3743801Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4325.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4326,4798,2026-09-15T18:01:56.0541281Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4326.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4327,4798,2026-09-15T18:01:56.0564730Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4327.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4328,4798,2026-09-15T18:01:56.0566564Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4328.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4329,4798,2026-09-15T18:01:56.0583694Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4329.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4330,4798,2026-09-15T18:01:56.0585986Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4330.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4331,4798,2026-09-15T18:01:56.0602267Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4331.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4332,4798,2026-09-15T18:01:56.0604740Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4332.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4333,4798,2026-09-15T18:01:56.0620101Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4333.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4334,4798,2026-09-15T18:01:56.0624171Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4334.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4335,4798,2026-09-15T18:01:56.0635376Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4335.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4336,4624,2026-09-15T18:01:59.0265613Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4336.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4337,4672,2026-09-15T18:01:59.0265736Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4337.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4338,4624,2026-09-15T18:02:02.8499441Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4338.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4339,4672,2026-09-15T18:02:02.8499568Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4339.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4340,4624,2026-09-15T18:02:03.5909630Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4340.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4341,4672,2026-09-15T18:02:03.5909764Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4341.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4342,4624,2026-09-15T18:04:08.6463904Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4342.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4343,4672,2026-09-15T18:04:08.6464028Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4343.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4344,4624,2026-09-15T18:04:09.2440899Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4344.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4345,4672,2026-09-15T18:04:09.2441016Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4345.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4346,4624,2026-09-15T18:05:51.8488033Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4346.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4347,4672,2026-09-15T18:05:51.8488157Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4347.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4348,4624,2026-09-15T18:07:29.9590525Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4348.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4349,4672,2026-09-15T18:07:29.9590658Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4349.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4350,4624,2026-09-15T18:10:30.5031341Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4350.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4351,4624,2026-09-15T18:10:30.5233240Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4351.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4352,4634,2026-09-15T18:10:30.5422801Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4352.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4353,4624,2026-09-15T18:10:30.6298902Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4353.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4354,4634,2026-09-15T18:10:30.6518798Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4354.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4355,4624,2026-09-15T18:10:30.7394159Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4355.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4356,4634,2026-09-15T18:10:30.7617092Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4356.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4357,4624,2026-09-15T18:10:30.8474889Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4357.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4358,4634,2026-09-15T18:10:30.8971599Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4358.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4359,4624,2026-09-15T18:10:30.9601056Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4359.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4360,4634,2026-09-15T18:10:31.0050673Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4360.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4361,4624,2026-09-15T18:10:31.0688838Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4361.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4362,4634,2026-09-15T18:10:31.1126461Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4362.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4363,4624,2026-09-15T18:10:31.1787753Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4363.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4364,4634,2026-09-15T18:10:31.2227689Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4364.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4365,4634,2026-09-15T18:10:41.2437988Z,FILE-SRV 인바운드 인증,피해 PC에서 FILE-SRV$ 로그온·로그오프. LogonId별 시작/종료 대조 완료.,xml/security-4365.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4366,4624,2026-09-15T18:11:04.8735673Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4366.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4367,4672,2026-09-15T18:11:04.8735804Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4367.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4368,4797,2026-09-15T18:11:57.5546754Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4368.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4369,4797,2026-09-15T18:11:57.5643605Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4369.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4370,4797,2026-09-15T18:11:57.5736469Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4370.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4371,4797,2026-09-15T18:11:57.5810453Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4371.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4372,4797,2026-09-15T18:11:57.5889700Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4372.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4373,4798,2026-09-15T18:12:28.0566498Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4373.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4374,4798,2026-09-15T18:12:37.5669748Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4374.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4375,4797,2026-09-15T18:12:51.4330157Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4375.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4376,4797,2026-09-15T18:12:51.4402677Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4376.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4377,4797,2026-09-15T18:12:51.4475294Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4377.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4378,4797,2026-09-15T18:12:51.4545858Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4378.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4379,4797,2026-09-15T18:12:51.4637846Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4379.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4380,4797,2026-09-15T18:12:51.4814210Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4380.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4381,4797,2026-09-15T18:12:51.5308139Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4381.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4382,4797,2026-09-15T18:12:51.5531843Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4382.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4383,4797,2026-09-15T18:12:51.5713274Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4383.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4384,4797,2026-09-15T18:12:51.5896327Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4384.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4385,4797,2026-09-15T18:12:51.6309781Z,계정 조회,employee의 로컬 계정 빈 암호 존재 여부 조회 시도. 결과와 호출 프로세스는 미기록.,xml/security-4385.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4386,4798,2026-09-15T18:12:59.2355728Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4386.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4387,4648,2026-09-15T18:13:02.2662576Z,명시적 자격증명,대상 서버·계정·ProcessName 확인. 5건 모두 localhost 또는 자기 컴퓨터 계정 대상.,xml/security-4387.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4388,4624,2026-09-15T18:13:02.2663404Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4388.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4389,4672,2026-09-15T18:13:02.2663536Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4389.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4390,4648,2026-09-15T18:13:02.3278094Z,명시적 자격증명,대상 서버·계정·ProcessName 확인. 5건 모두 localhost 또는 자기 컴퓨터 계정 대상.,xml/security-4390.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4391,4624,2026-09-15T18:13:02.3278429Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4391.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4392,4672,2026-09-15T18:13:02.3278548Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4392.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4393,4634,2026-09-15T18:13:02.3375732Z,로그오프,계정·LogonId·유형 대조 완료.,xml/security-4393.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4394,4634,2026-09-15T18:13:02.3705284Z,로그오프,계정·LogonId·유형 대조 완료.,xml/security-4394.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4395,4798,2026-09-15T18:14:05.3359344Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4395.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4396,4798,2026-09-15T18:15:09.9744733Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4396.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4397,4798,2026-09-15T18:15:14.4260463Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4397.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4398,4624,2026-09-15T18:15:20.0757399Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4398.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4399,4672,2026-09-15T18:15:20.0757528Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4399.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4400,4798,2026-09-15T18:15:43.3645377Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4400.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4401,4624,2026-09-15T18:17:20.2687147Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4401.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4402,4672,2026-09-15T18:17:20.2687277Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4402.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4403,4799,2026-09-15T18:17:20.4596829Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4403.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4404,4799,2026-09-15T18:17:20.4631195Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4404.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4405,4799,2026-09-15T18:17:20.5674969Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4405.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4406,4799,2026-09-15T18:17:20.5702984Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4406.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4407,4799,2026-09-15T18:17:20.6341042Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4407.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4408,4799,2026-09-15T18:17:20.6365558Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4408.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4409,4799,2026-09-15T18:17:20.7013901Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4409.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4410,4799,2026-09-15T18:17:20.7043559Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4410.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4411,4624,2026-09-15T18:17:40.9989184Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4411.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4412,4672,2026-09-15T18:17:40.9989394Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4412.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4413,4624,2026-09-15T18:19:47.8590435Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4413.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4414,4672,2026-09-15T18:19:47.8590572Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4414.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4415,4624,2026-09-15T18:19:48.7451562Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4415.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4416,4672,2026-09-15T18:19:48.7451695Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4416.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4417,4624,2026-09-15T18:20:38.5740056Z,로그온,계정·SID·유형·원본 IP·LogonId·ProcessName 대조. 프로세스 생성 이벤트가 아님.,xml/security-4417.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4418,4672,2026-09-15T18:20:38.5740180Z,특수 권한 할당,주체·LogonId·권한목록 확인. SeDebugPrivilege의 실제 사용·LSASS 접근을 입증하지 않음.,xml/security-4418.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4419,4799,2026-09-15T18:20:38.7304354Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4419.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4420,4799,2026-09-15T18:20:38.7337789Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4420.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4421,4799,2026-09-15T18:20:38.8104718Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4421.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4422,4799,2026-09-15T18:20:38.8127303Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4422.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4423,4799,2026-09-15T18:20:38.8672669Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4423.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4424,4799,2026-09-15T18:20:38.8696413Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4424.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4425,4799,2026-09-15T18:20:38.9215869Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4425.xml
+security.evtx,Microsoft-Windows-Security-Auditing,4426,4799,2026-09-15T18:20:38.9244238Z,계정·그룹 열거,CallerProcessName·PID·주체·대상 확인. 그룹 구성원 변경이나 덤프 증거가 아님.,xml/security-4426.xml
+system.evtx,EventLog,1427,6013,2026-09-15T17:54:47.0715717Z,시간 기준,시각 통일·시간대 기준 확인. 공격 타임라인의 사건으로 분류하지 않음.,xml/system-1427.xml
+system.evtx,Microsoft-Windows-Kernel-General,1428,1,2026-09-15T17:54:47.0447482Z,시간 기준,시각 통일·시간대 기준 확인. 공격 타임라인의 사건으로 분류하지 않음.,xml/system-1428.xml
+system.evtx,Microsoft-Windows-Time-Service,1429,52,2026-09-15T17:54:47.0456892Z,시간 기준,시각 통일·시간대 기준 확인. 공격 타임라인의 사건으로 분류하지 않음.,xml/system-1429.xml
+system.evtx,Microsoft-Windows-Kernel-General,1430,1,2026-09-15T17:54:47.0587786Z,시간 기준,시각 통일·시간대 기준 확인. 공격 타임라인의 사건으로 분류하지 않음.,xml/system-1430.xml
+system.evtx,Microsoft-Windows-GroupPolicy,1431,1501,2026-09-15T17:54:49.4925252Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1431.xml
+system.evtx,Microsoft-Windows-GroupPolicy,1432,1501,2026-09-15T17:55:00.6963931Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1432.xml
+system.evtx,Microsoft-Windows-GroupPolicy,1433,1500,2026-09-15T17:55:00.8701427Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1433.xml
+system.evtx,Microsoft-Windows-Kernel-General,1434,16,2026-09-15T17:56:46.5448488Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1434.xml
+system.evtx,Microsoft-Windows-UserModePowerService,1435,22,2026-09-15T17:56:59.6818315Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1435.xml
+system.evtx,Microsoft-Windows-Eventlog,1436,105,2026-09-15T17:57:14.8202137Z,로그 보관 메타데이터,Eventlog AutoBackup 기록. 다른 채널 원문을 열거나 해당 채널 행위를 분석한 것은 아님.,xml/system-1436.xml
+system.evtx,Microsoft-Windows-UserModePowerService,1437,12,2026-09-15T18:00:56.0595614Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1437.xml
+system.evtx,Microsoft-Windows-UserModePowerService,1438,12,2026-09-15T18:00:56.2091711Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1438.xml
+system.evtx,Microsoft-Windows-UserModePowerService,1439,12,2026-09-15T18:00:56.3421092Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1439.xml
+system.evtx,Microsoft-Windows-UserModePowerService,1440,12,2026-09-15T18:00:56.4773945Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1440.xml
+system.evtx,Microsoft-Windows-GroupPolicy,1441,1501,2026-09-15T18:01:04.5341001Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1441.xml
+system.evtx,Microsoft-Windows-GroupPolicy,1442,1501,2026-09-15T18:01:05.2689493Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1442.xml
+system.evtx,Service Control Manager,1443,7045,2026-09-15T18:01:15.6290127Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1443.xml
+system.evtx,Service Control Manager,1444,7040,2026-09-15T18:01:16.1741865Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1444.xml
+system.evtx,Service Control Manager,1445,7045,2026-09-15T18:01:17.1772598Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1445.xml
+system.evtx,Service Control Manager,1446,7040,2026-09-15T18:01:17.3193124Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1446.xml
+system.evtx,Microsoft-Windows-UserPnp,1447,20001,2026-09-15T18:01:26.5932183Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1447.xml
+system.evtx,Microsoft-Windows-UserPnp,1448,20001,2026-09-15T18:01:29.1854626Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1448.xml
+system.evtx,Service Control Manager,1449,7045,2026-09-15T18:01:30.3374390Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1449.xml
+system.evtx,Service Control Manager,1450,7045,2026-09-15T18:01:32.0927409Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1450.xml
+system.evtx,Microsoft-Windows-UserPnp,1451,20003,2026-09-15T18:01:38.2252562Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1451.xml
+system.evtx,Microsoft-Windows-UserPnp,1452,20003,2026-09-15T18:01:38.2351009Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1452.xml
+system.evtx,Microsoft-Windows-UserPnp,1453,20003,2026-09-15T18:01:38.2435696Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1453.xml
+system.evtx,Microsoft-Windows-UserPnp,1454,20003,2026-09-15T18:01:38.2515121Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1454.xml
+system.evtx,Service Control Manager,1455,7045,2026-09-15T18:01:38.2607927Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1455.xml
+system.evtx,Microsoft-Windows-UserPnp,1456,20003,2026-09-15T18:01:38.3977067Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1456.xml
+system.evtx,Microsoft-Windows-UserPnp,1457,20001,2026-09-15T18:01:39.0865363Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1457.xml
+system.evtx,Service Control Manager,1458,7045,2026-09-15T18:01:41.1878252Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1458.xml
+system.evtx,Service Control Manager,1459,7045,2026-09-15T18:01:42.5880976Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1459.xml
+system.evtx,Microsoft-Windows-Eventlog,1460,105,2026-09-15T18:01:51.2247714Z,로그 보관 메타데이터,Eventlog AutoBackup 기록. 다른 채널 원문을 열거나 해당 채널 행위를 분석한 것은 아님.,xml/system-1460.xml
+system.evtx,Application Popup,1461,26,2026-09-15T18:05:58.7846807Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1461.xml
+system.evtx,Microsoft-Windows-DNS-Client,1462,8015,2026-09-15T18:09:27.9578471Z,DNS 등록,피해 PC 인터페이스·DNS 서버·오류 코드 확인. C2 통신 증거가 아님.,xml/system-1462.xml
+system.evtx,Microsoft-Windows-DNS-Client,1463,8010,2026-09-15T18:09:38.0433955Z,DNS 등록,피해 PC 인터페이스·DNS 서버·오류 코드 확인. C2 통신 증거가 아님.,xml/system-1463.xml
+system.evtx,LsaSrv,1464,6038,2026-09-15T18:10:30.4868534Z,NTLM 보조 기록,LsaSrv의 NTLM 관련 기록. 연결 상대·공유 접근·원격 실행을 단독 입증하지 않음.,xml/system-1464.xml
+system.evtx,Application Popup,1465,26,2026-09-15T18:10:58.1235972Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1465.xml
+system.evtx,Application Popup,1466,26,2026-09-15T18:10:58.1247705Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1466.xml
+system.evtx,Microsoft-Windows-Eventlog,1467,105,2026-09-15T18:11:50.6965943Z,로그 보관 메타데이터,Eventlog AutoBackup 기록. 다른 채널 원문을 열거나 해당 채널 행위를 분석한 것은 아님.,xml/system-1467.xml
+system.evtx,Microsoft-Windows-DistributedCOM,1468,10016,2026-09-15T18:12:54.6062973Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1468.xml
+system.evtx,Application Popup,1469,26,2026-09-15T18:15:14.8961377Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1469.xml
+system.evtx,Application Popup,1470,26,2026-09-15T18:15:14.8973543Z,시스템·환경 일반,Provider와 전체 본문 점검. 공격과 연결할 직접 식별자·행위 결과 미발견.,xml/system-1470.xml
+system.evtx,Service Control Manager,1471,7031,2026-09-15T18:17:41.5345004Z,VMware 환경 구성 제외,VMware 제품·경로·드라이버 또는 동일 COM+ AppId가 원문에 확인됨. 사용자 지침으로 사건 판단 제외.,xml/system-1471.xml
+system.evtx,Microsoft-Windows-Eventlog,1472,105,2026-09-15T18:19:33.2981634Z,로그 보관 메타데이터,Eventlog AutoBackup 기록. 다른 채널 원문을 열거나 해당 채널 행위를 분석한 것은 아님.,xml/system-1472.xml

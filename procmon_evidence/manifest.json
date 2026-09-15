@@ -1,0 +1,68 @@
+[
+  {
+    "File": "파워쉘 명령어 및 c2 확인.png",
+    "EvidenceFile": "procmon-01.png",
+    "SHA256": "f26200743fbb686489941e956b2bc7289be6d9591ab3390e624333b60267dd5e",
+    "Observation": "명령 열에 192.168.50.10:8000/a.exe 다운로드, %TEMP%\\a.exe 저장 및 SHA-256 비교·조건부 실행 코드가 표시된다."
+  },
+  {
+    "File": "c2통신하며svc호스트 다운로드.png",
+    "EvidenceFile": "procmon-02.png",
+    "SHA256": "8ca01e985962ff245a3c2ca5035a4e2a980cc503e16bb38547eb41b8dd1ea28c",
+    "Observation": "로컬 포트 49796에서 192.168.50.10:8000과 TCP Receive, Kisec\\payloads\\svchost.exe.part의 WriteFile·ReadFile이 기록되어 다운로드 파일 쓰기를 보강한다."
+  },
+  {
+    "File": "c2통신하며 크롬인스톨러 다운로드.png",
+    "EvidenceFile": "procmon-03.png",
+    "SHA256": "8af6b4a369b9dc07702d931d08ddff5afa96241d655a17caa56a7851b8902298",
+    "Observation": "로컬 포트 49797의 TCP Receive와 chrome_installer.exe.part WriteFile SUCCESS가 관측된다. Offset 0 / Length 884,736 및 Offset 884,736 / Length 512가 표시된다."
+  },
+  {
+    "File": "c2통신하며 크롬 다운로드.png",
+    "EvidenceFile": "procmon-04.png",
+    "SHA256": "cd536ec3806e3b61cfa6eaeeac077f326befc03514f8665effdc06aff0a6c366",
+    "Observation": "로컬 포트 49798의 TCP Receive와 chrome.exe.part WriteFile SUCCESS가 관측된다. 마지막 화면상 EndOfFile은 48,092,160바이트이며 파일 전체의 최종 크기 확정값과는 구분한다."
+  },
+  {
+    "File": "로컬 파일 재귀 탐색.png",
+    "EvidenceFile": "procmon-05.png",
+    "SHA256": "3c3abbb918cdccc1d94294790aaba96d49791fe8432f10c8901c7a549b9329c0",
+    "Observation": "C:\\Users\\employee\\Desktop 하위 파일과 C:\\Windows\\Temp\\Kisec\\Documents 하위의 여러 경로에 CreateFile·이름/속성 조회·ReadFile이 관측된다. 다단계 경로 순회와 로컬 자료 수집 정황이다."
+  },
+  {
+    "File": "재귀탐색 후 저장.png",
+    "EvidenceFile": "procmon-06.png",
+    "SHA256": "ab3c5585486af9d945d37762f7fd3af19f3630148148ff3e15032586dde0c60a",
+    "Observation": "Kisec\\Documents\\Desktop\\도구 하위 경로에 CreateFile·ReadFile·속성 조회가 이어진다. 이 화면에는 WriteFile이 보이지 않으며, 저장 정황은 Sysmon의 파일 생성 기록과 함께 판단한다."
+  },
+  {
+    "File": "tcpip 값 읽은 후 network_info텍스트 파일로 저장.png",
+    "EvidenceFile": "procmon-07.png",
+    "SHA256": "135c1f4b467c2a0ada2716036d282a724018cc0dcb56e9b8581ba39d27edcbcd",
+    "Observation": "HKLM\\SYSTEM\\CurrentControlSet\\Services\\Tcpip6\\Parameters\\Interfaces 하위 조회 후 C:\\Windows\\Temp\\Kisec\\network_info.txt에 WriteFile이 기록된다. 네트워크 정보 수집·저장 정황이다."
+  },
+  {
+    "File": "백도어 설치 및 공격자 내부 탐색.png",
+    "EvidenceFile": "procmon-08.png",
+    "SHA256": "ba38f98235714a604f88813decc95e0dceaae427b471d8c291a9eba472639133",
+    "Observation": "192.168.50.10:8080과 TCP Connect·Send·Receive를 수행하면서 C:\\Windows\\Temp\\Kisec에 QueryDirectory를 수행한다. 제어 서버 통신과 작업 경로 탐색이 함께 관측된다."
+  },
+  {
+    "File": "Company 하위 updater 생성.png",
+    "EvidenceFile": "procmon-09.png",
+    "SHA256": "ad2f64f9974f92ac27cdd0ff856d90e3c17a4f1db119ce3b58ccdc9b37f32a6e",
+    "Observation": "192.168.50.10:8080 통신 후 C:\\Company\\Updater.exe에 CreateFile 및 WriteFile이 관측된다. Sysmon의 동일 경로 생성과 이후 SYSTEM 실행을 연결하는 파일 배치 정황이다."
+  },
+  {
+    "File": "미니덤프 사용 흔적.png",
+    "EvidenceFile": "procmon-10.png",
+    "SHA256": "467478c71b548a9e117361629695c71d9d177cd5931a4e3242771b59614c3e05",
+    "Observation": "HKLM\\Software\\Microsoft\\Windows NT\\CurrentVersion\\MiniDumpAuxiliaryDlls 조회 및 KernelBase.dll 접근이 관측된다. Sysmon의 LSASS 접근·dbgcore 호출 스택과 함께 덤프 정황을 보강한다."
+  },
+  {
+    "File": "파일서버데이터 반출 흔적.png",
+    "EvidenceFile": "procmon-11.png",
+    "SHA256": "139ba5a419ff44967539d7cadd260ff0e8bb3627243ea55090b41fe55b87d83b",
+    "Observation": "C:\\TempShare\\FileServer_Data.zip에 반복 ReadFile이 관측된다. 같은 프로세스가 로컬 포트 52205·52206으로 192.168.50.10:8080과 통신하며, 반복 읽기 직후 TCP Send가 기록된다. 피해 PC에 집결한 ZIP의 외부 반출 정황이다."
+  }
+]

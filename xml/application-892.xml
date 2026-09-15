@@ -1,0 +1,15 @@
+<Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='ESENT'/><EventID Qualifiers='0'>326</EventID><Level>4</Level><Task>1</Task><Keywords>0x80000000000000</Keywords><TimeCreated SystemTime='2026-09-15T17:56:50.9182248Z'/><EventRecordID>892</EventRecordID><Channel>Application</Channel><Computer>DESKTOP-IS00QJN.corp.local</Computer><Security/></System><EventData><Data>svchost</Data><Data>7224</Data><Data>DS_Token_DB: </Data><Data>1</Data><Data>C:\Windows\system32\config\systemprofile\AppData\Local\DataSharing\Storage\DSTokenDB2.dat</Data><Data>0</Data><Data>
+[1] 0.000005 +J(0)
+[2] 0.000751 +J(0) +M(C:0K, Fs:17, WS:4K # 0K, PF:4K # 0K, P:4K)
+[3] 0.017600 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:3480/2) +M(C:0K, Fs:12, WS:44K # 0K, PF:40K # 0K, P:40K)
+[4] 0.000158 +J(0)
+[5] -
+[6] -
+[7] 0.001305 -0.000702 (1) CM +J(CM:1, PgRf:2, Rd:16/0, Dy:0/0, Lg:0/0) +M(C:64K, Fs:18, WS:72K # 52K, PF:64K # 44K, P:64K)
+[8] 0.000575 -0.000454 (1) CM +J(CM:1, PgRf:23, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:26, WS:104K # 104K, PF:196K # 192K, P:196K)
+[9] 0.000526 -0.000416 (1) CM +J(CM:1, PgRf:40, Rd:0/1, Dy:0/0, Lg:0/0) +M(C:0K, Fs:11, WS:44K # 44K, PF:64K # 64K, P:64K)
+[10] 0.000011 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0)
+[11] 0.000028 +J(CM:0, PgRf:42, Rd:0/0, Dy:0/0, Lg:0/0) +M(C:0K, Fs:6, WS:24K # 24K, PF:0K # 0K, P:0K)
+[12] 0.000013 +J(0)
+[13] 0.000003 +J(0)
+[14] 0.000007 +J(CM:0, PgRf:1, Rd:0/0, Dy:0/0, Lg:0/0).</Data><Data>1 0</Data><Data>lgposAttach = 000002,000C,0268</Data></EventData></Event>

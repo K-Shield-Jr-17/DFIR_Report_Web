@@ -1,0 +1,19 @@
+<Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='ESENT'/><EventID Qualifiers='0'>105</EventID><Level>4</Level><Task>1</Task><Keywords>0x80000000000000</Keywords><TimeCreated SystemTime='2026-09-15T17:56:50.8870996Z'/><EventRecordID>891</EventRecordID><Channel>Application</Channel><Computer>DESKTOP-IS00QJN.corp.local</Computer><Security/></System><EventData><Data>svchost</Data><Data>7224</Data><Data>DS_Token_DB: </Data><Data>0</Data><Data>0</Data><Data>
+[1] 0.002122 +J(0) +M(C:0K, Fs:129, WS:504K # 504K, PF:3436K # 3436K, P:3436K)
+[2] 0.001539 +J(0) +M(C:8K, Fs:159, WS:628K # 628K, PF:624K # 624K, P:624K)
+[3] 0.000023 +J(0) +M(C:0K, Fs:3, WS:12K # 12K, PF:64K # 64K, P:64K)
+[4] 0.000303 +J(0) +M(C:0K, Fs:27, WS:108K # 108K, PF:160K # 160K, P:160K)
+[5] 0.006122 +J(0) +M(C:0K, Fs:11, WS:44K # 44K, PF:16K # 16K, P:16K)
+[6] 0.002837 +J(0) +M(C:0K, Fs:41, WS:160K # 160K, PF:28K # 28K, P:28K)
+[7] 0.001621 +J(0) +M(C:0K, Fs:27, WS:108K # 108K, PF:64K # 64K, P:64K)
+[8] 0.023446 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:36494/126) +M(C:0K, Fs:138, WS:324K # 324K, PF:232K # 236K, P:232K)
+[9] -
+[10] 0.000729 +J(0) +M(C:0K, Fs:0, WS:-60K # 0K, PF:-60K # 0K, P:-60K)
+[11] 0.000045 +J(CM:0, PgRf:0, Rd:0/0, Dy:0/0, Lg:49/1) +M(C:0K, Fs:3, WS:12K # 0K, PF:0K # 0K, P:0K)
+[12] 0.001126 +J(0) +M(C:0K, Fs:3, WS:12K # 0K, PF:0K # 0K, P:0K)
+[13] 0.023847 -0.000607 (2) CM +J(CM:2, PgRf:2, Rd:0/2, Dy:0/0, Lg:8759/5) +M(C:0K, Fs:50, WS:80K # 108K, PF:160K # 164K, P:160K)
+[14] 0.000027 +J(0)
+[15] 0.000014 +J(0)
+[16] 0.000490 +J(0) +M(C:0K, Fs:2, WS:0K # 0K, PF:0K # 0K, P:0K).</Data><Data>lgposV2[] = 00000002:0007:0000 - 00000002:0009:002B - 00000000:0000:0000 - 00000002:000A:0000 (00000000:0000:0000)
+cReInits = 2
+</Data></EventData></Event>
