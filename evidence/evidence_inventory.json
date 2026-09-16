@@ -1,0 +1,131 @@
+[
+  {
+    "EvidenceID": "EV-001",
+    "File": "evidence/second/evt/application.evtx",
+    "SHA256": "E2E64AFD1F887C3A034BEAEF945D46EDF842108F53812CFA8483F4CC678B696E",
+    "Acquired": null,
+    "Collector": null,
+    "AcquisitionTool": null,
+    "ToolVersion": null,
+    "WriteBlocker": null,
+    "CustodyStatus": "원수집·인계 이력 미제공"
+  },
+  {
+    "EvidenceID": "EV-002",
+    "File": "evidence/second/evt/powershell_classic.evtx",
+    "SHA256": "389630DDB2116DF0980267B79563F28952BB9BC431860DD055CEE2DCBE7F3377",
+    "Acquired": null,
+    "Collector": null,
+    "AcquisitionTool": null,
+    "ToolVersion": null,
+    "WriteBlocker": null,
+    "CustodyStatus": "원수집·인계 이력 미제공"
+  },
+  {
+    "EvidenceID": "EV-003",
+    "File": "evidence/second/evt/powershell_operational.evtx",
+    "SHA256": "0EE2B2E321A88B4F90D35B0FDCC975F37FED456C63DE1550F4F70D56A09467CF",
+    "Acquired": null,
+    "Collector": null,
+    "AcquisitionTool": null,
+    "ToolVersion": null,
+    "WriteBlocker": null,
+    "CustodyStatus": "원수집·인계 이력 미제공"
+  },
+  {
+    "EvidenceID": "EV-004",
+    "File": "evidence/second/evt/security.evtx",
+    "SHA256": "0B195A20FE43C306CB3C9E3361BA73BB7A15F65B9418982C9656170B2F88BDB9",
+    "Acquired": null,
+    "Collector": null,
+    "AcquisitionTool": null,
+    "ToolVersion": null,
+    "WriteBlocker": null,
+    "CustodyStatus": "원수집·인계 이력 미제공"
+  },
+  {
+    "EvidenceID": "EV-005",
+    "File": "evidence/second/evt/system.evtx",
+    "SHA256": "FEB8D8FB7F1BF3C0F1BFB56FBA7A194D9E2C7E6CF0B8B9522E831EFA957F8676",
+    "Acquired": null,
+    "Collector": null,
+    "AcquisitionTool": null,
+    "ToolVersion": null,
+    "WriteBlocker": null,
+    "CustodyStatus": "원수집·인계 이력 미제공"
+  },
+  {
+    "EvidenceID": "EV-006",
+    "File": "evidence/second/sysmon/Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-01-52-22-623.evtx",
+    "SHA256": "01a559f82f67903b7d407f4a5a873f680d35051d013d60bfadc535fbb095000c",
+    "Acquired": null,
+    "Collector": null,
+    "AcquisitionTool": null,
+    "ToolVersion": null,
+    "WriteBlocker": null,
+    "CustodyStatus": "원수집·인계 이력 미제공"
+  },
+  {
+    "EvidenceID": "EV-007",
+    "File": "evidence/second/sysmon/Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-17-57-11-742.evtx",
+    "SHA256": "cb27c61a886d34bae49f60b500e147d34a7063231a6039d209c8e03563051828",
+    "Acquired": null,
+    "Collector": null,
+    "AcquisitionTool": null,
+    "ToolVersion": null,
+    "WriteBlocker": null,
+    "CustodyStatus": "원수집·인계 이력 미제공"
+  },
+  {
+    "EvidenceID": "EV-008",
+    "File": "evidence/second/sysmon/Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-01-45-868.evtx",
+    "SHA256": "dd61bc6c30032bc187c5d84631eef4f765505d40318bbab63339fcc7c18e22f8",
+    "Acquired": null,
+    "Collector": null,
+    "AcquisitionTool": null,
+    "ToolVersion": null,
+    "WriteBlocker": null,
+    "CustodyStatus": "원수집·인계 이력 미제공"
+  },
+  {
+    "EvidenceID": "EV-009",
+    "File": "evidence/second/sysmon/Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-11-46-021.evtx",
+    "SHA256": "1764b661eaa7cbad9d756fdbfa6223eea2e14b1af41379a58a2b9362e1aad8d1",
+    "Acquired": null,
+    "Collector": null,
+    "AcquisitionTool": null,
+    "ToolVersion": null,
+    "WriteBlocker": null,
+    "CustodyStatus": "원수집·인계 이력 미제공"
+  },
+  {
+    "EvidenceID": "EV-010",
+    "File": "evidence/second/sysmon/Archive-Microsoft-Windows-Sysmon_4Operational-2026-09-15-18-19-32-421.evtx",
+    "SHA256": "ba6a2cf00b74230051cfc5ecf560973e013fac7932b57bd4b34a67831680b16f",
+    "Acquired": null,
+    "Collector": null,
+    "AcquisitionTool": null,
+    "ToolVersion": null,
+    "WriteBlocker": null,
+    "CustodyStatus": "원수집·인계 이력 미제공"
+  },
+  {
+    "EvidenceID": "EV-011",
+    "File": "evidence/second/sysmon/sysmon_current.evtx",
+    "SHA256": "17ab64aab24e54f4eded9f3bcb22452bc56e5a6718903949d4791b03985cbac6",
+    "Acquired": null,
+    "Collector": null,
+    "AcquisitionTool": null,
+    "ToolVersion": null,
+    "WriteBlocker": null,
+    "CustodyStatus": "원수집·인계 이력 미제공"
+  },
+  {
+    "EvidenceID": "EV-012",
+    "File": "evidence/second/disk/History",
+    "SHA256": "dc21869d00dc6f638f4de213186bafc13595c0d105abfd84c43c15ed712202ce",
+    "Acquired": null,
+    "Collector": null,
+    "CustodyStatus": "원수집·인계 이력 미제공"
+  }
+]

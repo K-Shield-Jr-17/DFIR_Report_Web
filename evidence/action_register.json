@@ -1,0 +1,82 @@
+[
+  {
+    "ID": "A-01",
+    "Priority": "P0",
+    "Action": "피해 단말 격리 및 C2 차단 상태 확인",
+    "ProposedOwner": "SOC / Network",
+    "ProposedDue": "승인 직후",
+    "Status": "제안 / 배정·착수 확인 필요",
+    "ActualOwner": null,
+    "CompletedAt": null
+  },
+  {
+    "ID": "A-02",
+    "Priority": "P0",
+    "Action": "원본 메모리·ZIP·PCAP·PML 보존",
+    "ProposedOwner": "DFIR",
+    "ProposedDue": "승인 직후",
+    "Status": "제안 / 배정·착수 확인 필요",
+    "ActualOwner": null,
+    "CompletedAt": null
+  },
+  {
+    "ID": "A-03",
+    "Priority": "P0",
+    "Action": "노출 가능 계정·세션 확인 및 보호",
+    "ProposedOwner": "IAM / AD",
+    "ProposedDue": "T0+4시간",
+    "Status": "제안 / 배정·착수 확인 필요",
+    "ActualOwner": null,
+    "CompletedAt": null
+  },
+  {
+    "ID": "A-04",
+    "Priority": "P1",
+    "Action": "파일 서버 원본 문서·민감도·전송 규모 조사",
+    "ProposedOwner": "DFIR / Data Owner",
+    "ProposedDue": "T0+24시간",
+    "Status": "제안 / 배정·착수 확인 필요",
+    "ActualOwner": null,
+    "CompletedAt": null
+  },
+  {
+    "ID": "A-05",
+    "Priority": "P1",
+    "Action": "서비스 경로·DACL·공유·방화벽 시정",
+    "ProposedOwner": "IT Ops",
+    "ProposedDue": "T0+24시간",
+    "Status": "제안 / 배정·착수 확인 필요",
+    "ActualOwner": null,
+    "CompletedAt": null
+  },
+  {
+    "ID": "A-06",
+    "Priority": "P1",
+    "Action": "전사 IOC/IOA 조사 및 범위 확정",
+    "ProposedOwner": "SOC / DFIR",
+    "ProposedDue": "T0+24시간",
+    "Status": "제안 / 배정·착수 확인 필요",
+    "ActualOwner": null,
+    "CompletedAt": null
+  },
+  {
+    "ID": "A-07",
+    "Priority": "P2",
+    "Action": "Application Control·권한 최소화 검토",
+    "ProposedOwner": "Endpoint",
+    "ProposedDue": "T0+7일",
+    "Status": "제안 / 배정·착수 확인 필요",
+    "ActualOwner": null,
+    "CompletedAt": null
+  },
+  {
+    "ID": "A-08",
+    "Priority": "P2",
+    "Action": "탐지 규칙 검증·운영 적용 및 교육",
+    "ProposedOwner": "Detection / SOC",
+    "ProposedDue": "T0+7일",
+    "Status": "제안 / 배정·착수 확인 필요",
+    "ActualOwner": null,
+    "CompletedAt": null
+  }
+]
